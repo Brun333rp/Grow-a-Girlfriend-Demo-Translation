@@ -28,7 +28,7 @@ translate portuguese start_26cb8853:
 translate portuguese start_a4c96fd2:
 
     # "You're supposed to finally exercise."
-    Era pra você finalmente se exercitar.""
+    "Era pra você finalmente se exercitar."
 
 # game/script.rpy:682
 translate portuguese start_21e1cd13:
