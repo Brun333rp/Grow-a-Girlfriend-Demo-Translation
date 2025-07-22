@@ -490,11 +490,11 @@ translate portuguese strings:
 
     # renpy/common/00gui.rpy:447
     old "Are you sure you want to delete this save?"
-    new "Tem certeza de que quer deletar esse arquivo de progresso salvo?"
+    new "Tem certeza de que quer deletar esse arquivo de salvamento?"
 
     # renpy/common/00gui.rpy:448
     old "Are you sure you want to overwrite your save?"
-    new "Tem certeza de que quer substituir esse arquivo de progresso salvo?"
+    new "Tem certeza de que quer substituir esse arquivo de salvamento?"
 
     # renpy/common/00gui.rpy:449
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
@@ -530,11 +530,11 @@ translate portuguese strings:
 
     # renpy/common/00gui.rpy:457
     old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
-    new "Esse arquivo de progresso salvo foi criado em outro dispositivo. Arquivos maliciosos podem danificar seu computador. Você confia no criador desse arquivo e/ou qualquer um que possa tê-lo alterado?"
+    new "Esse arquivo de salvamento foi criado em outro dispositivo. Arquivos maliciosos podem danificar seu computador. Você confia no criador desse arquivo e/ou qualquer um que possa tê-lo alterado?"
 
     # renpy/common/00gui.rpy:458
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
-    new "Você confia no dispositivo de origem do arquivo de progresso salvo? Só escolha que sim se o dispositivo não for compartilhado."
+    new "Você confia no dispositivo de origem do arquivo de salvamento? Só escolha que sim se o dispositivo não for compartilhado."
 
     # renpy/common/00keymap.rpy:325
     old "Failed to save screenshot as %s."
@@ -858,7 +858,7 @@ translate portuguese strings:
 
     # renpy/common/00sync.rpy:425
     old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
-    new "Isso enviará seus arquivos de progresso salvo para o {a=https://sync.renpy.org}servidor Ren'Py Sync{/a}.\nDeseja continuar?"
+    new "Isso enviará seus arquivos de salvamento para o {a=https://sync.renpy.org}servidor Ren'Py Sync{/a}.\nDeseja continuar?"
 
     # renpy/common/00sync.rpy:457
     old "Enter Sync ID"
@@ -878,7 +878,7 @@ translate portuguese strings:
 
     # renpy/common/00sync.rpy:507
     old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
-    new "Você pode utilizar essa ID para baixar progresso salvo em outro dispositivo.\nEssa sincronização expira em um uma hora.\nO Ren'Py Sync recebe suporte da {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
+    new "Você pode utilizar essa ID para baixar arquivos de salvamento em outro dispositivo.\nEssa sincronização expira em um uma hora.\nO Ren'Py Sync recebe suporte da {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
 
     # renpy/common/00sync.rpy:511
     old "Continue"
