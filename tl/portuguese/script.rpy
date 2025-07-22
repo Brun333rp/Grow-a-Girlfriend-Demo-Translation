@@ -10,7 +10,7 @@ translate portuguese start_be4321ac:
 translate portuguese start_62ebeb28:
 
     # "{sc=1}{color=#000000}Pressure{/sc}."
-    "{sc=1}{color=#000000}Pressão{/sc}."
+    "{sc=1}{color=#000000}Tensão{/sc}."
 
 # game/script.rpy:679
 translate portuguese start_36532e04:
