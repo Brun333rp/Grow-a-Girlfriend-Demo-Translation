@@ -4,547 +4,550 @@
 translate portuguese start_be4321ac:
 
     # "As you wake up, your first thought is:"
-    ""
+    "Ao acordar, seu primeiro pensamento é:"
 
 # game/script.rpy:678
 translate portuguese start_62ebeb28:
 
     # "{sc=1}{color=#000000}Pressure{/sc}."
-    ""
+    "{sc=1}{color=#000000}Pressão{/sc}."
 
 # game/script.rpy:679
 translate portuguese start_36532e04:
 
     # "Today is a new day."
-    ""
+    "Hoje é um novo dia."
 
 # game/script.rpy:680
 translate portuguese start_26cb8853:
 
     # "You're supposed to make the most of it."
-    ""
+    "Era pra você aproveitar o máximo dele."
 
 # game/script.rpy:681
 translate portuguese start_a4c96fd2:
 
     # "You're supposed to finally exercise."
-    ""
+    Era pra você finalmente se exercitar.""
 
 # game/script.rpy:682
 translate portuguese start_21e1cd13:
 
     # "Go to lectures again."
-    ""
+    "Voltar pras aulas."
 
 # game/script.rpy:683
 translate portuguese start_33b03b8c:
 
     # "Make friends."
-    ""
+    "Fazer amigos."
 
 # game/script.rpy:684
 translate portuguese start_53a40e4b:
 
     # "Call your mom."
-    ""
+    "Ligar pra sua mãe."
 
 # game/script.rpy:685
 translate portuguese start_f09d318c:
 
     # "Literally achieve any goal."
-    ""
+    "Literalmente qualquer coisa."
 
 # game/script.rpy:686
 translate portuguese start_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:687
 translate portuguese start_468676bd:
 
     # "But you just... {i}can't{/i}."
-    ""
+    "Mas você só... {i}não consegue{/i}."
 
 # game/script.rpy:688
 translate portuguese start_44b3a675:
 
     # "Not today."
-    ""
+    "Não hoje."
 
 # game/script.rpy:689
 translate portuguese start_d7508480:
 
     # "Now you're both stressed AND disappointed in yourself."
-    ""
+    "Agora você está estressado E decepcionado com si mesmo."
 
 # game/script.rpy:693
 translate portuguese start_8e41dfce:
 
     # "You need to distract yourself from these feelings. How about an impulse purchase?"
-    ""
+    "Você precisa se distrair desses sentimentos. Que tal uma compra impulsiva?"
 
 # game/script.rpy:694
 translate portuguese start_8fd80b70:
 
     # "It's not like you'll need all the money your parents gave you for very long anyway."
-    ""
+    "Seus pais te deram dinheiro, e afinal, não é como se você fosse precisar dele por muito tempo."
 
 # game/script.rpy:697
 translate portuguese start_c21eef51:
 
     # m "But... what if I do need it later on?"
-    m ""
+    m "Mas... e se eu precisar dele mais tarde?"
 
 # game/script.rpy:698
 translate portuguese start_b480baf0:
 
     # "Hesitant, as always."
-    ""
+    "Hesitante, como sempre."
 
 # game/script.rpy:699
 translate portuguese start_9f4bfce8:
 
     # "Don't worry. It's easier to just shut up and listen to me."
-    ""
+    "Fica frio. É mais fácil só calar a boca e me escutar."
 
 # game/script.rpy:700
 translate portuguese start_3413f642:
 
     # "Remember: There's no point to anything anymore."
-    ""
+    "Lembre-se: Não há mais sentido em nada."
 
 # game/script.rpy:702
 translate portuguese start_7681bbef:
 
     # m "I guess so..."
-    m ""
+    m "É, pode ser então..."
 
 # game/script.rpy:703
 translate portuguese start_af419542:
 
     # "Maybe get something you can grow. Since you'll never have children of your own anyway."
-    ""
+    "Sugiro algo que você possa cultivar. Já que você nunca terá filhos seus de qualquer jeito."
 
 # game/script.rpy:704
 translate portuguese start_8dac78be:
 
     # "Also low-maintenance. You're not very good at taking care of things."
-    ""
+    "Tem que ser de baixa-manutenção também. Pois você não é lá muito bom em cuidar das coisas."
 
 # game/script.rpy:705
 translate portuguese start_53d72305:
 
     # "What kind of plant would enjoy your dark, dank, dungeon?"
-    ""
+    "Que tipo de planta viveria nesse seu frio e escuro calabouço?"
 
 # game/script.rpy:707
 translate portuguese start_64d91354:
 
     # m "I don't know."
-    m ""
+    m "Eu não sei."
 
 # game/script.rpy:708
 translate portuguese start_d2061e25:
 
     # "Huh, so you really ARE an idiot."
-    ""
+    "Huh, então você realmente É um idiota."
 
 # game/script.rpy:709
 translate portuguese start_7cabce7d:
 
     # "How does it feel, knowing that you've wasted your life in school and nothing came out of it?"
-    ""
+    "Como você se sente, sabendo que gastou sua vida na escola e que não obteve nada disso?"
 
 # game/script.rpy:710
 translate portuguese start_6109150a:
 
     # "Think of all the money you've wasted. All of your precious time spent doing something you hated."
-    ""
+    "Pensa em todo o dinheiro que você gastou. Todo o seu tempo precioso gasto fazendo coisas que odeia."
 
 # game/script.rpy:711
 translate portuguese start_d79b8cc8:
 
     # "Go on. Do what idiots do, and go ask the internet mommy for help."
-    ""
+    "Vai lá. Faz o que idiotas fazem, e peça a mamãe internet por ajuda."
 
 # game/script.rpy:736
 translate portuguese buy_mushroom_1f82217c:
 
     # "{size=*2.0}WELL DONE!{size=*2.0}"
-    ""
+    "{size=*2.0}PARABÉNS!{size=*2.0}"
 
 # game/script.rpy:737
 translate portuguese buy_mushroom_15c5ad6f:
 
     # "You did it! You searched for:"
-    ""
+    "Você conseguiu! Você pesquisou por:"
 
 # game/script.rpy:738
 translate portuguese buy_mushroom_63e3dce0:
 
     # "<what gros in daurk humid palces?>"
-    ""
+    "<oque cresr en ligares eacuros e huimdos?>"
+# Fun fact: In the current date, if you put the translated text on Google's search bar, it actually shows results related to the topic of the dialogue.
 
 # game/script.rpy:739
 translate portuguese buy_mushroom_04cf4a2b:
 
     # "Pathetic."
-    ""
+    "Patético."
 
 # game/script.rpy:741
 translate portuguese buy_mushroom_222d9148:
 
     # m "Oh... mushrooms!"
-    m ""
+    m "Oh... cogumelos!"
 
 # game/script.rpy:742
 translate portuguese buy_mushroom_8474b4a3:
 
     # "Good. Get them."
-    ""
+    "Legal. Compra eles."
 
 # game/script.rpy:743
 translate portuguese buy_mushroom_9a377f1d:
 
     # "Look, you can buy a starter-kit there. Surely you couldn't mess this up too, right?"
-    ""
+    "Veja, você pode comprar um kit inicial aí. Claramente não teria como você estragar isso também, certo?"
 
 # game/script.rpy:749
 translate portuguese buy_mushroom_4aa4a1c4:
 
     # m "Which one should I get? Though it's not like I get much of a choice..."
-    m ""
+    m "Qual deles eu deveria comprar? Apesar de que não é como se eu tivesse muita escolha..."
 
 # game/script.rpy:750
 translate portuguese buy_mushroom_af8e07c0:
 
     # "Ah, just like life: You must resignedly drift down the path forced unto you."
-    ""
+    "Ah, tal como a vida: Você deve resignadamente ficar a deriva no caminho imposto a você."
 
 # game/script.rpy:769
 translate portuguese bought_gt_d22ae335:
 
     # m "This one looks weird..."
-    m ""
+    m "Esse aqui é meio estranho..."
 
 # game/script.rpy:770
 translate portuguese bought_gt_deb6353a:
 
     # "Then it would have been a perfect match!"
-    ""
+    "Então seria um match perfeito!"
 
 # game/script.rpy:771
 translate portuguese bought_gt_5d583721:
 
     # "Unfortunately, the illusion of choice here is too shallow. You have'll to go with the generic, boring mushroom."
-    ""
+    "Infelizmente, a ilusão da escolha aqui é muito rasa. Você terá que ficar com o cogumelo genérico e tedioso."
 
 # game/script.rpy:772
 translate portuguese bought_gt_537684e0:
 
     # "Hmm, maybe that's a good match for you after all!"
-    ""
+    "Hmm, talvez seja um bom match afinal de contas!"
 
 # game/script.rpy:778
 translate portuguese bought_red_a1c9d913:
 
     # m "Aren't red mushrooms supposed to be poisonous?"
-    m ""
+    m "Cogumelos vermelhos não são venenosos?"
 
 # game/script.rpy:779
 translate portuguese bought_red_841bb29e:
 
     # "Maybe you could kill yourself with it! Then everyone will feel bad for you. That DOES sound alluring..."
-    ""
+    "Talvez você poderia se matar com ele! Daí todo mundo ficaria mal por você. Isso é REALMENTE sedutor..."
 
 # game/script.rpy:780
 translate portuguese bought_red_e8a503db:
 
     # "Too bad they're out of stock, huh?"
-    ""
+    "Pena que já esgotaram, né?"
 
 # game/script.rpy:793
 translate portuguese x_2fafdade:
 
     # "Stalling for time. Your favourite facade of being in control."
-    ""
+    "Tentanto ganhar tempo. A famosa ilusão de estar no controle."
 
 # game/script.rpy:797
 translate portuguese x_16421445:
 
     # "What? Can't make up your mind?"
-    ""
+    "O que foi? Não consegue se decidir?"
 
 # game/script.rpy:829
 translate portuguese bought_button_9d025055:
 
     # m "You're kind of...cute."
-    m ""
+    m "É meio que... fofo."
 
 # game/script.rpy:830
 translate portuguese bought_button_ac458a06:
 
     # "Be honest. It's bland, isn't it?"
-    ""
+    "Seja honesto. É sem graça, não é?"
 
 # game/script.rpy:831
 translate portuguese bought_button_1513cf83:
 
     # "Well, enjoy those leftovers that no one else wanted."
-    ""
+    "Bom, aproveite os restos que ninguém mais quis."
 
 # game/script.rpy:833
 translate portuguese bought_button_ebfa8efb:
 
     # "Now all you have to do is go back into bed for a day and doomscroll until it arrives."
-    ""
+    "Agora tudo que você deve fazer é voltar pra cama e deslizar o dedo na tela até a encomenda chegar."
 
 # game/script.rpy:847
 translate portuguese bought_button_5dec848b:
 
     # "{sc=4}{i}{color=#000000}SOMEONE IS AT THE DOOR!{/i}{/sc}"
-    ""
+    "{sc=4}{i}{color=#000000}ALGUÉM ESTÁ NA PORTA!{/i}{/sc}"
 
 # game/script.rpy:848
 translate portuguese bought_button_2011e684:
 
     # "The adrenaline wakes you up, sending your heart hammering as you cover yourself with your sheets."
-    ""
+    "A adrenalina te acorda, fazendo o seu coração palpitar como um martelo enquanto você se esconde nas cobertas."
 
 # game/script.rpy:849
 translate portuguese bought_button_dd731022:
 
     # na "Hello? I saw you had a package delivered to the reception, so I thought I'd bring it up to you..."
-    na ""
+    na "Olá? Eu vi que você tinha um pacote enviado na recepção, então pensei em trazê-lo pra você..."
 
 # game/script.rpy:851
 translate portuguese bought_button_0103548d:
 
     # "We both know you can't do this."
-    ""
+    "Nós dois sabemos que você não consegue."
 
 # game/script.rpy:853
 translate portuguese bought_button_cfa78aa1:
 
     # na "You awake?"
-    na ""
+    na "Tá acordado?"
 
 # game/script.rpy:854
 translate portuguese bought_button_f3321946:
 
     # m "{size=-15}I'm sorry.{size=+15}"
-    m ""
+    m "{size=-15}Me desculpa.{size=+15}"
 
 # game/script.rpy:855
 translate portuguese bought_button_ddf0fa06:
 
     # na "I'm leaving it by the door. Good luck with your, um... experiment."
-    na ""
+    na "Eu vou deixar na porta. Boa sorte com o seu, um... experimento."
 
 # game/script.rpy:856
 translate portuguese bought_button_fc54e591:
 
     # "You hear your neighbour, who, after nearly a year, you still haven't met, walk away."
-    ""
+    "Você ouve seu vizinho, do qual, depois de quase um ano, você não conheceu ainda, andando embora."
 
 # game/script.rpy:857
 translate portuguese bought_button_208e905e:
 
     # "How can someone who never leaves their room meet someone?"
-    ""
+    "Como pode alguém que nunca sai do quarto conhecer alguém?"
 
 # game/script.rpy:858
 translate portuguese bought_button_071d45d8:
 
     # "Sometimes you can hear the muffled sound of rock music when you're up late. He likes guitars and violins."
-    ""
+    "Às vezes, você ouve o som abafado de rock tocando enquanto o sono não chega. O cara curte guitarras e violinos."
 
 # game/script.rpy:859
 translate portuguese bought_button_ac9da120:
 
     # "Once, you took off your headphones and listened to the whole album."
-    ""
+    "Uma vez, você tirou o headset e escutou o álbum dele do começo ao fim."
 
 # game/script.rpy:860
 translate portuguese bought_button_cb2c7e99:
 
     # "It made you feel less lonely and more inspired than any lofi beat ever had."
-    ""
+    "Aquilo te fez se sentir menos sozinho e mais inspirado do que qualquer beat de lofi."
 
 # game/script.rpy:861
 translate portuguese bought_button_e00fcc48:
 
     # "You wish you had the courage to say hi."
-    ""
+    "Você queria ter a coragem de dizer oi."
 
 # game/script.rpy:875
 translate portuguese bought_button_508a4fa8:
 
     # "Now that's it here, I'm getting kind of excited! Opening a box is like getting a present!"
-    ""
+    "Agora que ela chegou, estou ficando animado! Abrir uma caixa é como receber um presente!"
 
 # game/script.rpy:881
 translate portuguese bought_button_121d1f5b:
 
     # "Can't you feel it!? This is NEW! It could change EVERYTHING! It could be THE SOLUTION!"
-    ""
+    "Não sente!? Isso é NOVO! Isso pode mudar TUDO! Isso pode ser A SOLUÇÃO!"
 
 # game/script.rpy:886
 translate portuguese bought_button_5dd86061:
 
     # "Inside the box is...!"
-    ""
+    "Dentro da caixa tem...!"
 
 # game/script.rpy:893
 translate portuguese bought_button_4ca20022:
 
     # "... another box. Wow. That's disappointing."
-    ""
+    "... outra caixa. Uau. Que decepcionante."
 
 # game/script.rpy:899
 translate portuguese bought_button_cbe146f0:
 
     # "Oh, there's a note too. Let's see..."
-    ""
+    "Oh, tem um bilhete também. Vamos ver..."
 
 # game/script.rpy:908
 translate portuguese bought_button_1fcb52ea:
 
     # m "Bright? Huhhhh?"
-    m ""
+    m "Luz? Huhhhh?"
 
 # game/script.rpy:909
 translate portuguese bought_button_9d935913:
 
     # m "Is this right? It's like... the exact opposite of what I thought a mushroom is supposed to like."
-    m ""
+    m "Isso tá certo? É tipo... o exato oposto do que eu pensei que um cogumelo deveria gostar."
 
 # game/script.rpy:913
 translate portuguese bought_button_819fe5d3:
 
     # m "Do I follow the instructions? Or..." nointeract
-    m "" nointeract
+    m "Eu sigo as instruções? Ou..." nointeract
 
 # game/script.rpy:916
 translate portuguese bought_button_c8d3c634:
 
     # m "Yeah, this makes no sense."
-    m ""
+    m "É, isso não faz sentido."
 
 # game/script.rpy:917
 translate portuguese bought_button_45c06818:
 
     # m "Someone must have screwed up this note."
-    m ""
+    m "Alguém deve ter errado esse bilhete."
 
 # game/script.rpy:933
 translate portuguese bought_button_9db1564f:
 
     # "You set up the kit on your table, you spray it for the first time for the day, and you wait..."
-    ""
+    "Você monta o kit na mesa, espirra um pouco d'água nele pela primeira vez do dia, e então você espera..."
 
 # game/script.rpy:939
 translate portuguese bought_button_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:940
 translate portuguese bought_button_8dabefc6:
 
     # ".."
-    ""
+    "..."
 
 # game/script.rpy:941
 translate portuguese bought_button_d7edd024:
 
     # "."
-    ""
+    "."
 
 # game/script.rpy:949
 translate portuguese bought_button_5bbf1306:
 
     # "Wow! Those five weeks pass terrifyingly fast! You try not to think of what you've accomplished during them."
-    ""
+    "Uau! Essas cinco semanas passaram terrivelmente rápido! Você tenta não pensar sobre o que conquistou durante elas."
 
 # game/script.rpy:951
 translate portuguese bought_button_750a9270:
 
     # "You stand in front of the mushroom kit."
-    ""
+    "Você fica em frente ao kit do cogumelo."
 
 # game/script.rpy:952
 translate portuguese bought_button_2edd7b98:
 
     # "Would you look at that? Well, you can't. There's nothing to see. The damn thing didn't grow."
-    ""
+    "Olha isso! Consegue ver? Não, pois não tem nada pra ver aí. Essa maldita porcaria não cresceu."
 
 # game/script.rpy:954
 translate portuguese bought_button_8a348ac6:
 
     # "Secretly, you'd been getting excited. How foolish of you."
-    ""
+    "Secretamente, você estava ficando animado. Quão tolo da sua parte."
 
 # game/script.rpy:955
 translate portuguese bought_button_a2acadd2:
 
     # "Now it's yet another disappointment."
-    ""
+    "Agora, é só mais uma decepção em meio as outras."
 
 # game/script.rpy:957
 translate portuguese bought_button_78e643a7:
 
     # m "Please grow."
-    m ""
+    m "Cresce por favor."
 
 # game/script.rpy:958
 translate portuguese bought_button_8f1fb92a:
 
     # m "Please. Just for me."
-    m ""
+    m "Por favor. Faz isso por mim."
 
 # game/script.rpy:960
 translate portuguese bought_button_39609ffc:
 
     # m "I promise I'll do better."
-    m ""
+    m "Eu prometo que vou melhorar."
 
 # game/script.rpy:962
 translate portuguese bought_button_f629315a:
 
     # m "I'm sorry you're stuck with me. I'm sorry I suck."
-    m ""
+    m "Me desculpa por ter te condenado. Me desculpa por eu ser um merda."
 
 # game/script.rpy:964
 translate portuguese bought_button_5ab3e070:
 
     # m "I'm just sorry. Please grow."
-    m ""
+    m "Eu sinto muito. Cresce, por favor."
 
 # game/script.rpy:966
 translate portuguese bought_button_22a6e2ce:
 
     # m "Are you thirsty? What do you need? How can I help?"
-    m ""
+    m "Você tá com sede? Do que você precisa? Como eu posso ajudar?"
 
 # game/script.rpy:967
 translate portuguese bought_button_535c8093:
 
     # "You're hilarious!"
-    ""
+    "Você é hilário!"
 
 # game/script.rpy:969
 translate portuguese bought_button_be2522ab:
 
     # "YOU CAN'T DO ANYTHING RIGHT." with sshake
-    "" with sshake
+    "VOCÊ NÂO CONSEGUE FAZER NADA CERTO." with sshake
 
 # game/script.rpy:972
 translate portuguese bought_button_a7ca2a53:
 
     # "Nothing ever grew. Neither the mushroom, nor your hopes."
-    ""
+    "Nada cresceu. Nem o cogumelo, nem suas esperanças."
+
+# Antedeguemon
 
 # game/script.rpy:996
 translate portuguese bought_button_5a0ad9d0:
