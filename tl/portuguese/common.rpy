@@ -352,7 +352,7 @@ translate portuguese strings:
 
     # renpy/common/00action_file.rpy:983
     old "Quick load."
-    new "Carregamento rápido"
+    new "Carregamento rápido."
 
     # renpy/common/00action_other.rpy:416
     old "Language [text]"
@@ -360,7 +360,7 @@ translate portuguese strings:
 
     # renpy/common/00action_other.rpy:786
     old "Open [text] directory."
-    new "Diretório [text] aberto"
+    new "Abrir diretório [text]."
 
     # renpy/common/00director.rpy:712
     old "The interactive director is not enabled here."
@@ -425,19 +425,19 @@ translate portuguese strings:
 
     # renpy/common/00director.rpy:1705
     old "Statement:"
-    new "Declaração"
+    new "Declaração:"
 
     # renpy/common/00director.rpy:1726
     old "Tag:"
-    new "Tag"
+    new "Tag:"
 
     # renpy/common/00director.rpy:1742
     old "Attributes:"
-    new "Atributos"
+    new "Atributos:"
 
     # renpy/common/00director.rpy:1753
     old "Click to toggle attribute, right click to toggle negative attribute."
-    new "Clique para alternar o atributo; botão direito para alternar um atributo negativo"
+    new "Clique para alternar o atributo; botão direito para alternar um atributo negativo."
 
     # renpy/common/00director.rpy:1765
     old "Transforms:"
@@ -449,7 +449,7 @@ translate portuguese strings:
 
     # renpy/common/00director.rpy:1777
     old "Customize director.transforms to add more transforms."
-    new "Para adicionar mais transformações, personalize director.transforms"
+    new "Para adicionar mais transformações, personalize 'director.transforms'."
 
     # renpy/common/00director.rpy:1789
     old "Behind:"
@@ -470,7 +470,7 @@ translate portuguese strings:
 
     # renpy/common/00director.rpy:1823
     old "Customize director.transitions to add more transitions."
-    new "Para adicionar mais transições, personalize director.transitions"
+    new "Para adicionar mais transições, personalize 'director.transitions'."
 
     # renpy/common/00director.rpy:1835
     old "Channel:"
@@ -478,7 +478,7 @@ translate portuguese strings:
 
     # renpy/common/00director.rpy:1846
     old "Customize director.audio_channels to add more channels."
-    new "Para adicionar mais canais, personalize director.channels"
+    new "Para adicionar mais canais, personalize 'director.channels'."
 
     # renpy/common/00director.rpy:1858
     old "Audio Filename:"
@@ -550,7 +550,7 @@ translate portuguese strings:
 
     # renpy/common/00library.rpy:344
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new "Esse programa contém software gratuito sob um número de licensas, incluindo a Licença MIT e a GNU Lesser General Public License. Uma lista completa de softwares, incluindo links para o código fonte, pode ser visto em {a=https://www.renpy.org/l/license}here{/a}."
+    new "Esse programa contém software gratuito sob um número de licensas, incluindo a Licença MIT e a GNU Lesser General Public License. Uma lista completa de softwares, incluindo links para o código fonte, pode ser vista em {a=https://www.renpy.org/l/license}here{/a}."
 
     # renpy/common/00preferences.rpy:295
     old "display"
@@ -590,7 +590,7 @@ translate portuguese strings:
 
     # renpy/common/00preferences.rpy:362
     old "skip unseen [text]"
-    new "pular inéditos [text]"
+    new "pular [text] inédito(s)"
 
     # renpy/common/00preferences.rpy:367
     old "skip unseen text"
@@ -666,15 +666,15 @@ translate portuguese strings:
 
     # renpy/common/00preferences.rpy:468
     old "debug voicing"
-    new "voz de depuração"
+    new "narração de depuração"
 
     # renpy/common/00preferences.rpy:471
     old "debug voicing enable"
-    new "habilitar voz de depuração"
+    new "habilitar narração de depuração"
 
     # renpy/common/00preferences.rpy:473
     old "debug voicing disable"
-    new "desabilitar voz de depuração"
+    new "desabilitar narração de depuração"
 
     # renpy/common/00preferences.rpy:477
     old "emphasize audio"
@@ -689,7 +689,7 @@ translate portuguese strings:
     new "economia de energia do gl"
 
     # renpy/common/00preferences.rpy:502
-    old "gl"
+    old "gl framerate"
     new "taxa de quadros do gl"
 
     # renpy/common/00preferences.rpy:505
@@ -926,7 +926,7 @@ translate portuguese strings:
 
     # renpy/common/00updater.rpy:877
     old "This account does not have permission to perform an update."
-    new "Essa conta não tem permissão para executar uma atualização"
+    new "Essa conta não tem permissão para executar uma atualização."
 
     # renpy/common/00updater.rpy:880
     old "This account does not have permission to write the update log."
@@ -946,7 +946,7 @@ translate portuguese strings:
 
     # renpy/common/00updater.rpy:1457
     old "While unpacking {}, unknown type {}."
-    new "Ao descompactar {}, tipo desconhecido {}"
+    new "Ao descompactar {}, tipo desconhecido {}."
 
     # renpy/common/00updater.rpy:1928
     old "Updater"
@@ -1022,7 +1022,7 @@ translate portuguese strings:
 
     # renpy/common/00updater.rpy:2004
     old "Retry"
-    new "Tentar novamente"
+    new "Tentar Novamente"
 
     # renpy/common/00gallery.rpy:676
     old "Image [index] of [count] locked."
@@ -1054,7 +1054,7 @@ translate portuguese strings:
 
     # renpy/common/00gltest.rpy:96
     old "Force GL2 Renderer"
-    new "Renderizador Fore GL"
+    new "Renderizador Fore GL2"
 
     # renpy/common/00gltest.rpy:101
     old "Force ANGLE2 Renderer"
@@ -1062,7 +1062,7 @@ translate portuguese strings:
 
     # renpy/common/00gltest.rpy:106
     old "Force GLES2 Renderer"
-    new "Renderizador GLES2 Renderer"
+    new "Renderizador Force GLES2"
 
     # renpy/common/00gltest.rpy:110
     old "Gamepad"
@@ -1114,19 +1114,19 @@ translate portuguese strings:
 
     # renpy/common/00gltest.rpy:214
     old "This game requires use of GL2 that can't be initialised."
-    new "Esse jogo requer o uso de GL2, que não pode ser inicializado."
+    new "Esse jogo requer o uso de GL2 do qual não pode ser inicializado."
 
     # renpy/common/00gltest.rpy:216
     old "This computer has a problem displaying graphics: [problem]."
-    new "Esse computador tem um problema na exibição gráfica: [problem]"
+    new "Esse computador tem um problema na exibição gráfica: [problem]."
 
     # renpy/common/00gltest.rpy:220
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
-    new "Os drivers gráficos podem estar desatualizados ou não estão operando corretamente. Isso pode levar a lentudão e exibição gráfica incorreta."
+    new "Os drivers gráficos podem estar desatualizados ou não estão operando corretamente. Isso pode levar a lentidão e exibição gráfica incorreta."
 
     # renpy/common/00gltest.rpy:224
     old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
-    new "O arquivo {a=edit:1:log.txt}log.txt{/a pode conter informações úteis para determinar o que está de errado no seu computador."
+    new "O arquivo {a=edit:1:log.txt}log.txt{/a} pode conter informações úteis para determinar o que está de errado no seu computador."
 
     # renpy/common/00gltest.rpy:229
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
@@ -1134,11 +1134,11 @@ translate portuguese strings:
 
     # renpy/common/00gltest.rpy:234
     old "Continue, Show this warning again"
-    new "Continuar, Mostre esse aviso de novo"
+    new "Continuar, mostre esse aviso de novo"
 
     # renpy/common/00gltest.rpy:238
     old "Continue, Don't show warning again"
-    new "Continuar, Não mostre esse aviso de novo"
+    new "Continuar, não mostre esse aviso de novo"
 
     # renpy/common/00gltest.rpy:246
     old "Change render options"
@@ -1190,7 +1190,7 @@ translate portuguese strings:
 
     # renpy/common/_errorhandling.rpym:767
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
-    new "Copia o arquivo traceback.txt para a área de transferência como uma Marcação para o Discord"
+    new "Copia o arquivo traceback.txt para a área de transferência como uma Marcação para o Discord."
 
     # renpy/common/_errorhandling.rpym:799
     old "An exception has occurred."
