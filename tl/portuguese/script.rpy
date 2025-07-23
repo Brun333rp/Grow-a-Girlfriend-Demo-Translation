@@ -4,13 +4,13 @@
 translate portuguese start_be4321ac:
 
     # "As you wake up, your first thought is:"
-    "Ao acordar, seu primeiro sentimento é:"
+    "Ao acordar, seu primeiro pensamento é:"
 
 # game/script.rpy:678
 translate portuguese start_62ebeb28:
 
     # "{sc=1}{color=#000000}Pressure{/sc}."
-    "{sc=1}{color=#000000}Tensão{/sc}."
+    "{sc=1}{color=#000000}Estresse{/sc}."
 
 # game/script.rpy:679
 translate portuguese start_36532e04:
@@ -443,7 +443,7 @@ translate portuguese bought_button_45c06818:
 translate portuguese bought_button_9db1564f:
 
     # "You set up the kit on your table, you spray it for the first time for the day, and you wait..."
-    "Você monta o kit na mesa, espirra um pouco d'água nele pela primeira vez do dia, e então você espera..."
+    "Você monta o kit na mesa, borrifa um pouco d'água nele pela primeira vez do dia, e então você espera..."
 
 # game/script.rpy:939
 translate portuguese bought_button_a20cefa7:
@@ -546,8 +546,6 @@ translate portuguese bought_button_a7ca2a53:
 
     # "Nothing ever grew. Neither the mushroom, nor your hopes."
     "Nada cresceu. Nem o cogumelo, nem suas esperanças."
-
-# Antedeguemon
 
 # game/script.rpy:996
 translate portuguese bought_button_5a0ad9d0:
@@ -673,7 +671,7 @@ translate portuguese opened_curtained_0c1454b0:
 translate portuguese opened_curtained_14d35af5:
 
     # "Think you can do that, you little shit?"
-    "Consegue fazer isso, pedaço de bosta?"
+    "Consegue fazer isso, seu merda?"
 
 # game/script.rpy:1099
 translate portuguese day1_watered_4a2e75e4:
@@ -745,7 +743,7 @@ translate portuguese day1_watered_e612037c:
 translate portuguese day1_watered_ef60e22b:
 
     # na "{size=-8}Helloooo? Help? Please?{size=+8}"
-    na "{size=-8}Oláaaa? Ajuda? Por favor?{size=+8}"
+    na "{size=-8}Oláááá? Ajuda? Por favor?{size=+8}"
 
 # game/script.rpy:1143
 translate portuguese day1_watered_ce6f7c66:
@@ -769,7 +767,7 @@ translate portuguese day1_watered_ea7c7490:
 translate portuguese day1_watered_c407f030:
 
     # "This has got to be the WORST random social situation you've EVER encountered."
-    "Esse deve ser a PIOR interação social inesperada que você JÁ se deparou."
+    "Essa deve ser a PIOR interação social inesperada que você JÁ se deparou."
 
 # game/script.rpy:1155
 translate portuguese day1_watered_fdbe9d78:
@@ -811,7 +809,7 @@ translate portuguese day1_watered_3f423276:
 translate portuguese day1_watered_4290edc5:
 
     # "\"Please\": The magic word that makes you do something you don't want to do."
-    "\"Por favor\": A palavra mágica que te fazer fazer algo que você não queria."
+    "\"Por favor\": A palavra mágica que te faz realizar algo que você não queria."
 
 # game/script.rpy:1207
 translate portuguese day1_watered_2bd9afea:
@@ -847,7 +845,7 @@ translate portuguese day1_watered_d2c479fe:
 translate portuguese day1_watered_780266d2:
 
     # na "It was sooooooo tight in there! Ugh! And really muffled, you know?"
-    na "Tava tãaaaaaa apertado lá dentro! Ugh! E bastante abafado, acredita?"
+    na "Tava tãããããão apertado lá dentro! Ugh! E bastante abafado, acredita?"
 
 # game/script.rpy:1248
 translate portuguese day1_watered_f5684dcc:
@@ -901,7 +899,7 @@ translate portuguese day1_watered_58a4ad3c:
 translate portuguese day1_watered_a0a4efe5:
 
     # m "Uh... my name... (I wasn't ready to socialise! I'm forgetting my NAME!)"
-    m "Bem... meu nome... (Eu não estava pronto pra socializar! Eu esqueci meu NOME!)"
+    m "Bem... meu nome... (Eu não tava pronto pra socializar! Eu esqueci meu NOME!)"
 
 # game/script.rpy:1274
 translate portuguese name_9d6d09a6:
@@ -949,7 +947,7 @@ translate portuguese name_0c7f2035:
 translate portuguese name_5cfe43b9:
 
     # na "Nope, that's not gonna work."
-    na "Não, isso não vai volar."
+    na "Nope, isso não vai rolar."
 
 # game/script.rpy:1292
 translate portuguese name_3fb350c5:
@@ -973,7 +971,7 @@ translate portuguese name_8c90e795:
 translate portuguese name_29e73008:
 
     # "What? Can't even think of a name by yourself?"
-    "O que? Não consegue sequer pensar em um nome pra si mesmo?"
+    "O que? Não consegue sequer pensar em um nome por si mesmo?"
 
 # game/script.rpy:1300
 translate portuguese name_f8b1da71:
@@ -1009,7 +1007,7 @@ translate portuguese name_f8936afe:
 translate portuguese name_972fe69c:
 
     # na "{size=*1.5}THANK YOU FOR RAISING ME!{size=*1.0}" with sshake
-    na "{size=*1.5}OBRIGADO POR MEU CRIAR!{size=*1.0}" with sshake
+    na "{size=*1.5}OBRIGADA POR MEU CRIAR!{size=*1.0}" with sshake
 
 # game/script.rpy:1314
 translate portuguese name_987cde6e:
@@ -1039,7 +1037,7 @@ translate portuguese name_41252412:
 translate portuguese name_2ea96ccc:
 
     # m "Please don't apologise..."
-    m "Por favor, não peça desculpas..."
+    m "Por favor, não se desculpe..."
 
 # game/script.rpy:1324
 translate portuguese name_a82dc20b:
@@ -1105,7 +1103,7 @@ translate portuguese name_51d6f5f8:
 translate portuguese day1_watered_2_2c037fc6:
 
     # "You hurriedly spray water right at her. That seems to work."
-    "Você rapidamente espirra água nela. Isso parece funcionar."
+    "Você rapidamente borrifa água nela. Isso parece funcionar."
 
 # game/script.rpy:1374
 translate portuguese day1_watered_2_954dfa72:
@@ -1159,7 +1157,7 @@ translate portuguese day1_watered_2_092e25df:
 translate portuguese day1_watered_2_632b2ea7:
 
     # m "You're almost as big as me! I'm still amazed that you fit in that box."
-    m "Você é quase mais alta do que eu! Eu ainda não acredito que você cabia naquela caixa."
+    m "Você é quase tão alta do que eu! Eu ainda não acredito que você cabia naquela caixa."
 
 # game/script.rpy:1391
 translate portuguese day1_watered_2_cc121d2f:
@@ -1183,7 +1181,7 @@ translate portuguese day1_watered_2_e612037c:
 translate portuguese day1_watered_2_2ecaf8cb:
 
     # m "Not to be rude, but it's spilling over the text box."
-    m "Não querendo ser rude, mas tá indo pra fora da caixa de diálogo."
+    m "Não querendo ser rude, mas o nome tá desalinhado na caixa de diálogo."
 
 # game/script.rpy:1397
 translate portuguese day1_watered_2_50c09d53:
@@ -1201,883 +1199,886 @@ translate portuguese day1_watered_2_262fbda8:
 translate portuguese day1_watered_2_1e261406:
 
     # "Suddenly, it hits you-"
-    "Antedeguemon"
+    "Derepente, você percebe-"
 
 # game/script.rpy:1401
 translate portuguese day1_watered_2_ed42964b:
 
     # "This situation is {i}ABNORMAL{/i}!"
-    ""
+    "Essa situação é {i}ANORMAL{/i}!"
 
 # game/script.rpy:1402
 translate portuguese day1_watered_2_a21244c1:
 
     # "You're talking to a {i}mushroom{/i}! Are you non-ironically insane?"
-    ""
+    "Você tá falando com um {i}cogumelo{/i}! Sério, será que você tá louco?"
 
 # game/script.rpy:1404
 translate portuguese day1_watered_2_9419d9eb:
 
     # m "Hold on... I need to check something on my laptop."
-    m ""
+    m "Calma lá... Eu preciso checar algo no meu laptop."
 
 # game/script.rpy:1408
 translate portuguese day1_watered_2_2e0cc64b:
 
     # b "Sure, sure... I'll just wait here. Again."
-    b ""
+    b "Claro, claro... Eu espero aqui. De novo."
 
 # game/script.rpy:1438
 translate portuguese buy_mushroom2_98666e83:
 
     # m "I should've checked what this website was \"about\" from the very beginning..."
-    m ""
+    m "Eu deveria ter checado sobre \"o que\" esse site era desde o início...
 
 # game/script.rpy:1466
 translate portuguese about_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:1468
 translate portuguese about_3d9610f5:
 
     # m "{sc=3}{color=#000000}WHAT THE HELL????\nWHAT KINDA MESSED UP WEBSITE IS THIS?"
-    m ""
+    m "{sc=3}{color=#000000}MAS QUE CARALHOS????\nQUE TIPO DE SITE DOENTE É ESSE?"
 
 # game/script.rpy:1469
 translate portuguese about_1f3f412d:
 
     # m "Button!"
-    m ""
+    m "Botão!"
 
 # game/script.rpy:1471
 translate portuguese about_96d33fef:
 
     # b "Yeeeeees?"
-    b ""
+    b "Siiiiiim?"
 
 # game/script.rpy:1473
 translate portuguese about_87f376f0:
 
     # m "Is this true?"
-    m ""
+    m "Isso aqui é verdade?"
 
 # game/script.rpy:1475
 translate portuguese about_11e19858:
 
     # b "I can't read. I've just been born?"
-    b ""
+    b "Como que eu vou ler se acabei de nascer?"
 
 # game/script.rpy:1477
 translate portuguese about_5da2af95:
 
     # m "It says..."
-    m ""
+    m "Aqui diz..."
 
 # game/script.rpy:1479
 translate portuguese about_c02174c7:
 
     # "You're suddenly reminded of that time you messed up reading a passage during class."
-    ""
+    "De repente, você se lembra daquela vez em que se atrapalhou ao ler um texto durante a aula."
 
 # game/script.rpy:1480
 translate portuguese about_a3afc8d1:
 
     # "You'll never forget the muffled laughter that followed your recital."
-    ""
+    "Você nunca esqueceu dos risos abafados que seguiam o seu recital."
 
 # game/script.rpy:1481
 translate portuguese about_08b2edcb:
 
     # m "Nevermind. It's just messed up!"
-    m ""
+    m "Deixa pra lá. Só é meio doentio!"
 
 # game/script.rpy:1483
 translate portuguese about_ff80278c:
 
     # b "Alas, I shall never know..."
-    b ""
+    b "Que pena, nunca irei saber..."
 
 # game/script.rpy:1485
 translate portuguese about_f0718cc2:
 
     # b "Come on! Just tell me!"
-    b ""
+    b "Qual é! Me conta, vai!"
 
 # game/script.rpy:1486
 translate portuguese about_38930f18:
 
     # m "Maybe I can give you a summary..."
-    m ""
+    m "Talvez eu possa te dar um resumo..."
 
 # game/script.rpy:1487
 translate portuguese about_5b2dc09e:
 
     # m "The people who made you... they say stuff like..."
-    m ""
+    m "O pessoal que te fez... eles dizem coisas como..."
 
 # game/script.rpy:1489
 translate portuguese about_5a5075d7:
 
     # m "*Ahem*"
-    m ""
+    m "*Ahem*"
 
 # game/script.rpy:1491
 translate portuguese about_a4e58715:
 
     # m "They made you for... perverted things!... And to be {i}eaten{/i}."
-    m ""
+    m "Eles te fizeram pra... coisas libidinosas!... E pra servir de {i}alimento{/i}."
 
 # game/script.rpy:1493
 translate portuguese about_850ef128:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:1495
 translate portuguese about_850ef128_1:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:1496
 translate portuguese about_19b6a0db:
 
     # m "I know, it's-"
-    m ""
+    m "Eu sei, isso é-"
 
 # game/script.rpy:1498
 translate portuguese about_91fb2e0a:
 
     # b "That doesn't sound so bad!"
-    b ""
+    b "Isso não parece tão ruim!"
 
 # game/script.rpy:1500
 translate portuguese about_e612037c_1:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:1502
 translate portuguese about_907048eb:
 
     # b "I just wanna have fun!"
-    b ""
+    b "Eu só quero me divertir!"
 
 # game/script.rpy:1503
 translate portuguese about_d6abce0f:
 
     # b "And I am a mushroom, so..."
-    b ""
+    b "E eu sou um cogumelo, então..."
 
 # game/script.rpy:1505
 translate portuguese about_d910b8af:
 
     # b "Eat me WHENEVER you want!" with sshake
-    b "" with sshake
+    b "Pode me comer À VONTADE!" with sshake
+    # Note: The word "comer" (eat), in addition to its usual meaning, can also mean "to fuck someone".
+    # I will try to avoid using the word "comer" whenever possible, unless if it fits and/or it's funny.
 
 # game/script.rpy:1507
 translate portuguese about_15ca5996:
 
     # b "Grilled with butter and cheese, in a saucy pasta, a soup, on a pizza, in a salad or a burger..."
-    b ""
+    b "Grelhada com manteiga e queijo, num espaguete com molho, na sopa, na pizza, na salada, no hamburguer..."
 
 # game/script.rpy:1508
 translate portuguese about_99ea035e:
 
     # b "Not to mention how nutritious I am! Low in calories, containing protein, fiber, and antioxidants!"
-    b ""
+    b "Sem contar o quão nutritiva eu sou! Além de baixa em calorias, eu contenho proteínas, fibras e antioxidantes!"
 
 # game/script.rpy:1509
 translate portuguese about_95c0408d:
 
     # b "Some studies even show that I can reduce risks of Alzheimer's and cancer!"
-    b ""
+    b "Alguns estudos até mostram que eu posso reduzir os riscos de Alzheimer e câncer!"
 
 # game/script.rpy:1511
 translate portuguese about_231c5121:
 
     # b "Isn't it wonderful how versatile my body is? I just can't wait to be consumed!"
-    b ""
+    b "Não é maravilhoso o quão versátil o meu corpo é? Mal posso esperar pra ser consumida!"
 
 # game/script.rpy:1513
 translate portuguese about_de5ef238:
 
     # m "Pretty random facts you know there, for someone who's \"just\" been born!"
-    m ""
+    m "Que fatos aleatórios esses hein, ainda mais pra quem \"acabou\" de nascer!
 
 # game/script.rpy:1515
 translate portuguese about_f62f440a:
 
     # b "It's just in my head... All these facts about mushrooms..."
-    b ""
+    b "Já tá tudo na minha cabeça... Esses fatos sobre cogumelos..."
 
 # game/script.rpy:1517
 translate portuguese about_c30b50cc:
 
     # m "How are you just... fine with getting eaten!? YOU'RE SAPIENT!"
-    m ""
+    m "Como que você tá... ok com ser consumida? Você é SAPIENTE!"
 
 # game/script.rpy:1519
 translate portuguese about_fa049442:
 
     # b "Weren't you planning to eat me from the start anyway?"
-    b ""
+    b "Mas você já não queria se alimentar de mim desde o início?"
 
 # game/script.rpy:1521
 translate portuguese about_3d0d61b0:
 
     # m "Well yeah, maybe, but...."
-    m ""
+    m "Bom, sim, talvez, mas..."
 
 # game/script.rpy:1541
 translate portuguese about_6bf0ab21:
 
     # "But... this is more than you were prepared to handle."
-    ""
+    "Mas... isso é muito mais do que você estava preparado pra lidar."
 
 # game/script.rpy:1542
 translate portuguese about_df909661:
 
     # "It's kind of funny how you got yourself into this mess."
-    ""
+    "É meio engraçado a forma que você se meteu nessa bagunça."
 
 # game/script.rpy:1543
 translate portuguese about_14cf17b6:
 
     # "You didn't even bother to check what you were ACTUALLY buying!"
-    ""
+    "Você nem se importou em verificar o que você DE FATO estava comprando!"
 
 # game/script.rpy:1545
 translate portuguese about_34f92eeb:
 
     # m "You were the one who made me do it!"
-    m ""
+    m "Foi você que me fez fazer isso!"
 
 # game/script.rpy:1547
 translate portuguese about_e2d4ba97:
 
     # b "?"
-    b ""
+    b "?"
 
 # game/script.rpy:1548
 translate portuguese about_84a584c0:
 
     # "?"
-    ""
+    "?"
 
 # game/script.rpy:1549
 translate portuguese about_9e0c71bd:
 
     # "Haha! You can't blame {i}me{/i}. You're the one in control."
-    ""
+    "Haha! Você não pode {i}me{/i] culpar. É você que tá no controle."
 
 # game/script.rpy:1550
 translate portuguese about_39959b1b:
 
     # "Does it really matter now anyway?"
-    ""
+    "Isso realmente importa agora de qualquer jeito?"
 
 # game/script.rpy:1551
 translate portuguese about_3c5bc4b4:
 
     # "You can't just rot in your bed anymore. You've brought sapient life into this world!"
-    ""
+    "Você não pode mais só ficar apodrecendo na cama. Você trouxe vida inteligente a esse mundo!"
 
 # game/script.rpy:1552
 translate portuguese about_efdf5eb6:
 
     # "You saw that website right? Only alive for three days... yikes. You'd HATE if that were you."
-    ""
+    "Você viu aquele site, certo? Vive apenas por três dias... credo. Você ODIARIA se fosse você."
 
 # game/script.rpy:1554
 translate portuguese about_2fbb820b:
 
     # "Here I'll keep a little counter for you so you're constantly reminded of her time left."
-    ""
+    "Vou deixar um pequeno contador aqui pra você se lembrar constantemente do tempo restande dela."
 
 # game/script.rpy:1556
 translate portuguese about_3c6732e7:
 
     # m "(No! I don't want that!)"
-    m ""
+    m "(Não! Eu não quero isso!)"
 
 # game/script.rpy:1557
 translate portuguese about_76cf3194:
 
     # m "Ugh... What mess have I gotten myself into?"
-    m ""
+    m "Ugh... Que bagunça é essa que eu fui me meter?"
 
 # game/script.rpy:1559
 translate portuguese about_505fa703:
 
     # b "Am I doing something wrong?"
-    b ""
+    b "Eu tô fazendo algo de errado?"
 
 # game/script.rpy:1561
 translate portuguese about_c5781b57:
 
     # m "N-not at all! Just hold on."
-    m ""
+    m "D-de maneira nenhuma! Só um segundo."
 
 # game/script.rpy:1563
 translate portuguese about_bb6bcc55:
 
     # m "(I can't kick it out. I raised it! I talked to it for over a month!)"
-    m ""
+    m "(Não posso expulsar essa coisa. Eu a criei! Eu falei com essa coisa por mais um mês!)"
 
 # game/script.rpy:1564
 translate portuguese about_8fdc5687:
 
     # m "(Screw it! This'll be good for me. I know I need a friend. It's short-term anyway...)"
-    m ""
+    m "(Foda-se! Isso será bom pra mim. Sei que preciso de uma amizade. É por pouco tempo afinal...)"
 
 # game/script.rpy:1579
 translate portuguese about_2941e2cb:
 
     # b "Whoaaaa... why is it changing colour outside!?"
-    b ""
+    b "Uaaaaau.... por que tá mudando de cor lá fora!?"
 
 # game/script.rpy:1581
 translate portuguese about_3f41e3d6:
 
     # m "Yeah. It's the sunset. It does that. Um..."
-    m ""
+    m "Ah. É o pôr do sol. Ele faz isso mesmo. Uhm..."
 
 # game/script.rpy:1583
 translate portuguese about_1bab172a:
 
     # m "So look..."
-    m ""
+    m "Então, olha..."
 
 # game/script.rpy:1584
 translate portuguese about_4e9689c9:
 
     # m "Do you want to be..."
-    m ""
+    m "Será que podemos..."
 
 # game/script.rpy:1586
 translate portuguese about_61f64626:
 
     # b "Lovers?"
-    b ""
+    b "Ser amantes?"
 
 # game/script.rpy:1588
 translate portuguese about_b36608e9:
 
     # m "{size=+40}{i}FRIENDS!{/i}{size=-40}"
-    m ""
+    m "{size=+40}{i}AMIGOS!{/i}{size=-40}"
 
 # game/script.rpy:1590
 translate portuguese about_503c1395:
 
     # b "Awwww..."
-    b ""
+    b "Ahhhh..."
 
 # game/script.rpy:1592
 translate portuguese about_21576464:
 
     # m "Ok, I get it. Haha."
-    m ""
+    m "Ok, eu entendo. Haha."
 
 # game/script.rpy:1594
 translate portuguese about_ecc5261a:
 
     # b "I mean... I'm not joking, you know..."
-    b ""
+    b "Quero dizer... Não foi uma bricadeira..."
 
 # game/script.rpy:1595
 translate portuguese about_17a51668:
 
     # b "Romance can be pretty tasty."
-    b ""
+    b "Romance pode ser apetitoso."
 
 # game/script.rpy:1597
 translate portuguese about_2c109297:
 
     # m "(That website really wasn't kidding, huh?)"
-    m ""
+    m "(Aquele site realmente não tava brincando, huh?)"
 
 # game/script.rpy:1598
 translate portuguese about_a903aac9:
 
     # m "(They really are making and selling edible short-term lovers.)"
-    m ""
+    m "(Eles realmente fazem e vendem amantes comestíveis de curto prazo.)"
 
 # game/script.rpy:1599
 translate portuguese about_8ac59d30:
 
     # "Imagine being so unappealing that only a mushroom would date you."
-    ""
+    "Imagina ser tão desinteressante que só um cogumelo sairia com você."
 
 # game/script.rpy:1601
 translate portuguese about_d24f34b5:
 
     # "She doesn't even care for you. She'd take {i}anyone{/i}."
-    ""
+    "Ela nem liga pra você. Ela ficaria com {i}qualquer um{/i}."
 
 # game/script.rpy:1602
 translate portuguese about_ae61ce8b:
 
     # "{sc=1}{color=#000000}You're not special."
-    ""
+    "{sc=1}{color=#000000}Você não é especial."
 
 # game/script.rpy:1603
 translate portuguese about_750b8baf:
 
     # m "(Shut up.)"
-    m ""
+    m "(Cala a boca.)"
 
 # game/script.rpy:1604
 translate portuguese about_4b4f9664:
 
     # "Nah. You're not good enough at ignoring your thoughts yet."
-    ""
+    "Nah. Você ainda não é bom o bastante em ignorar seus pensamentos."
 
 # game/script.rpy:1605
 translate portuguese about_c9781391:
 
     # m "{sc=2}{color=#000000}(Focus!)"
-    m ""
+    m "{sc=2}{color=#000000}(Foco!)"
 
 # game/script.rpy:1607
 translate portuguese about_14cf8db3:
 
     # m "I don't understand how copulation would even work! You're a MUSHROOM!"
-    m ""
+    m "Eu nem faço ideia de como a cópula iria funcionar! Você é um COGUMELO!"
 
 # game/script.rpy:1609
 translate portuguese about_7e308a17:
 
     # m "You're part of a completely separate evolutionary branch from me!"
-    m ""
+    m "Você faz parte de um ramo evolutivo completamente separado do meu!"
 
 # game/script.rpy:1611
 translate portuguese about_a42467a6:
 
     # b "Don't think about it THAT hard!"
-    b ""
+    b "Não fique pensando TANTO sobre isso!"
 
 # game/script.rpy:1612
 translate portuguese about_427db7a8:
 
     # b "When a man and a mushroom love each other very mu-"
-    b ""
+    b "Quando um homem e um cogumelo se amam muito, eles-"
 
 # game/script.rpy:1614
 translate portuguese about_2f49e897:
 
     # m "Nevermind."
-    m ""
+    m "Deixa pra lá."
 
 # game/script.rpy:1615
 translate portuguese about_01dfb594:
 
     # m "I'm not interested."
-    m ""
+    m "Eu não estou interessado."
 
 # game/script.rpy:1616
 translate portuguese about_3ca4d2f3:
 
     # "Aaaaand there it goes. Your only opportunity to get laid. Byeeeee~!"
-    ""
+    "Eeeeeee lá se foi. Sua única oportunidade de trepar. É incrível como não sobrou nada!"
+    # Note: I took a little bit of creative freedom and decided to make an adaptation here instead of a full-on literal translation.
 
 # game/script.rpy:1617
 translate portuguese about_e544a718:
 
     # m "(I don't care!)"
-    m ""
+    m "(Eu não me importo!)"
 
 # game/script.rpy:1619
 translate portuguese about_40e5cb71:
 
     # m "Friends? Yes or no?"
-    m ""
+    m "Amigos? Sim ou não?"
 
 # game/script.rpy:1621
 translate portuguese about_21ee2012:
 
     # b "Eh, sure. I'm open to pretty much anything."
-    b ""
+    b "Sim, claro. Estou aberta pra qualquer coisa."
 
 # game/script.rpy:1622
 translate portuguese about_8d4f5fc8:
 
     # "From what I remember, when you have friends, you need to constantly analyse how they react to what you say."
-    ""
+    "Pelo que eu me lembro, quando se tem amigos, você precisa constantemente analisar como eles reagem ao que você diz."
 
 # game/script.rpy:1625
 translate portuguese about_fb040ebc:
 
     # "I'll make you remember how much Button loves or, more likely, hates you."
-    ""
+    "Eu farei você lembrar do quanto a Botão te ama ou, mais provável, te odeia."
 
 # game/script.rpy:1627
 translate portuguese about_89d93bf9:
 
     # b "So what do you wanna do, {i}friend{/i} ?"
-    b ""
+    b "Então, o que você quer fazer, {i}amigo{/i}?"
 
 # game/script.rpy:1629
 translate portuguese about_2abae1ee:
 
     # m "I don't know..."
-    m ""
+    m "Eu não sei..."
 
 # game/script.rpy:1631
 translate portuguese about_850ef128_2:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:1632
 translate portuguese about_e612037c_2:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:1634
 translate portuguese about_850ef128_3:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:1636
 translate portuguese about_e612037c_3:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:1638
 translate portuguese about_12791339:
 
     # b "O-kay... I'll take the lead then, shy boy."
-    b ""
+    b "Tá bom... vou tomar a inciciativa então, garoto tímido."
 
 # game/script.rpy:1639
 translate portuguese about_364976db:
 
     # b "Well one thing I really wanna know about you is..."
-    b ""
+    b "Bom, uma coisa que eu realmente quero saber é..."
 
 # game/script.rpy:1641
 translate portuguese about_caf4866b:
 
     # b "What do you think of my form? Do I look pretty?"
-    b ""
+    b "O que você da minha forma? Eu sou bonita?"
 
 # game/script.rpy:1643
 translate portuguese about_7d72bc5a:
 
     # m "This crap again? I told you-"
-    m ""
+    m "De novo isso? Eu já disse-"
 
 # game/script.rpy:1645
 translate portuguese about_649534eb:
 
     # b "No no! It's not flirting, I promise. It's just like when you tell your homies they're looking good."
-    b ""
+    b "Não, não! Não é um flerte, eu prometo. É tipo quando você diz pros seus manos que eles tão estilosos."
 
 # game/script.rpy:1647
 translate portuguese about_eacfb1ff:
 
     # "How sweet. She thinks you have 'homies'!"
-    ""
+    "Que fofo. Ela acha que você tem 'manos'!"
 
 # game/script.rpy:1649
 translate portuguese about_79190279:
 
     # m "Ugh, I'll try..."
-    m ""
+    m "Ugh, eu vou tentar..."
 
 # game/script.rpy:1654
 translate portuguese about_cde791bd:
 
     # m "It doesn't matter..."
-    m ""
+    m "Isso não importa."
 
 # game/script.rpy:1657
 translate portuguese about_850ef128_4:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:1658
 translate portuguese about_e209609e:
 
     # b "Damn."
-    b ""
+    b "Caramba."
 
 # game/script.rpy:1660
 translate portuguese about_cd14328b:
 
     # m "What? It's just how I am. Appearance doesn't matter. No one gets to choose it anyway."
-    m ""
+    m "Que foi? É só como eu sou. Aparência não importa. Ninguém escolhe de qualquer maneira."
 
 # game/script.rpy:1662
 translate portuguese about_c4aa29c1:
 
     # m "My mom would say the same thing."
-    m ""
+    m "Minha mãe dizia a mesma coisa;"
 
 # game/script.rpy:1663
 translate portuguese about_91039d40:
 
     # "You really think you should use your mom as an example? After everything?"
-    ""
+    "Você realmente acha que deveria usar sua mãe como exemplo? Depois de tudo?"
 
 # game/script.rpy:1665
 translate portuguese about_6c6bd2ac:
 
     # m "A-Actually, nevermind. I don't know why I said that."
-    m ""
+    m "N-na verdade, esquece. Eu não sei porque eu disse isso."
 
 # game/script.rpy:1667
 translate portuguese about_303dfd8e:
 
     # b "No. It's ok to have an opinion."
-    b ""
+    b "Não. Tá tudo bem ter um opinião."
 
 # game/script.rpy:1669
 translate portuguese about_9e4eca09:
 
     # b "The problem is-!"
-    b ""
+    b "O problema é-!"
 
 # game/script.rpy:1671
 translate portuguese about_8ed1e1e0:
 
     # b "When I ask if I look good, it's an opportunity to build my confidence! Not DISMISS me!"
-    b ""
+    b "Quando eu pergunto se tô bonita, é uma oportunidade de aumentar minha confiança! Não DESFAZER de mim!"
 
 # game/script.rpy:1673
 translate portuguese about_bc52595f:
 
     # b "Otherwise, I'll just think I'm not good enough."
-    b ""
+    b "Do contrário, eu vou achar que não sou boa o suficiente."
 
 # game/script.rpy:1674
 translate portuguese about_fef6c9ea:
 
     # b "You raised me and everything..."
-    b ""
+    b "Você me criou e tudo mais..."
 
 # game/script.rpy:1675
 translate portuguese about_a1c729cf:
 
     # b "I just... wanted to hear you were proud of me..."
-    b ""
+    b "Eu só queria... que você dissesse que tem orgulho de mim..."
 
 # game/script.rpy:1677
 translate portuguese about_20c902ac:
 
     # m "No! You're good! I'm sorry!"
-    m ""
+    m "Não, pera! Você é bonita! Me desculpa!"
 
 # game/script.rpy:1678
 translate portuguese about_c97c54d0:
 
     # m "You're pretty, okay?"
-    m ""
+    m "Você é linda, tá bom?"
 
 # game/script.rpy:1680
 translate portuguese about_896ca50d:
 
     # m "Ugh, this is why I don't like talking! I can't do it!"
-    m ""
+    m "Ugh, é por isso que não gosto de conversar! Eu não consigo!"
 
 # game/script.rpy:1682
 translate portuguese about_24491324:
 
     # b "Hey..."
-    b ""
+    b "Ei..."
 
 # game/script.rpy:1684
 translate portuguese about_49ff46a8:
 
     # b "It's ok. You didn't mean to hurt me. I'm a forgiving kind of mushy!"
-    b ""
+    b "Tá tudo bem. Você não queria me machucar. Eu sou um cogumelinho que perdoa!"
 
 # game/script.rpy:1685
 translate portuguese about_c2de9534:
 
     # b "So don't beat yourself up! I still love you!"
-    b ""
+    b "Então não se culpe! Eu ainda te amo!"
 
 # game/script.rpy:1687
 translate portuguese about_bf55a615:
 
     # m "If you say so..."
-    m ""
+    m "Já que você diz..."
 
 # game/script.rpy:1688
 translate portuguese about_02dfdd52:
 
     # b "Ok, here's your opportunity to redeem yourself."
-    b ""
+    b "Ok, essa é sua oportunidade de se redimir."
 
 # game/script.rpy:1690
 translate portuguese about_5bc708f2:
 
     # "Or another opportunity to disappoint her!"
-    ""
+    "Ou outra oportunidade de desapontá-la!"
 
 # game/script.rpy:1696
 translate portuguese about_efd669fd:
 
     # m "Heh."
-    m ""
+    m "Heh."
 
 # game/script.rpy:1697
 translate portuguese about_5b4ec15d:
 
     # m "One could say you're...a-as..."
-    m ""
+    m "Pode-se dizer que... v-você é..."
 
 # game/script.rpy:1700
 translate portuguese about_83d70ab2:
 
     # m "...Nevermind."
-    m ""
+    m "...Deixa pra lá."
 
 # game/script.rpy:1702
 translate portuguese about_2fe3751f:
 
     # b "You can do it! Try to say every word in order clearly."
-    b ""
+    b "Você consegue! Diga cada palavra em ordem clara."
 
 # game/script.rpy:1704
 translate portuguese about_55d84bd1:
 
     # m "But I'm going to say something stupid!"
-    m ""
+    m "Mas eu vou dizer algo estúpido!"
 
 # game/script.rpy:1706
 translate portuguese about_e7d95b4b:
 
     # b "Say it! Who am I going to tell? No one!"
-    b ""
+    b "Diga! Pra quem eu vou contar? Ninguém!"
 
 # game/script.rpy:1709
 translate portuguese about_a3bce6ec:
 
     # m "Ugh."
-    m ""
+    m "Ugh."
 
 # game/script.rpy:1710
 translate portuguese about_47f11f34:
 
     # m "One could say..."
-    m ""
+    m "Pode-se dizer..."
 
 # game/script.rpy:1712
 translate portuguese about_e1dab11c:
 
     # m "... you're as c-cute..."
-    m ""
+    m "... que você é tão f-fofa..."
 
 # game/script.rpy:1714
 translate portuguese about_50a79452:
 
     # m "as a button! There!"
-    m ""
+    m "...quanto um botão! Tá aí!"
 
 # game/script.rpy:1717
 translate portuguese about_502770b2:
 
     # b "Eeeek! How unexpectedly adorable of you!"
-    b ""
+    b "Aaaah! Que adorável da sua parte!"
 
 # game/script.rpy:1718
 translate portuguese about_069170db:
 
     # "How \"{sc=2}{color=#000000}ADORABLE\"{/sc} you are!? HAHAHAHAHAH! Your fragile masculinity REALLY didn't want to hear that!"
-    ""
+    "Quão \"{sc=2}{color=#000000}ADORÁVEL\"{/sc} você é!? HAHAHAHAHAH! Seu ego frágil NÃO QUERIA ter ouvido isso!"
 
 # game/script.rpy:1720
 translate portuguese about_a951b22b:
 
     # m "Ugh..."
-    m ""
+    m "Ugh..."
 
 # game/script.rpy:1721
 translate portuguese about_fc042cbe:
 
     # m "(At least she looks happy.)"
-    m ""
+    m "(Pelo menos ela parece feliz.)"
 
 # game/script.rpy:1722
 translate portuguese about_ad2f1516:
 
     # b "Now I'm excited to ask you something else!"
-    b ""
+    b "Agora eu gostaria de te perguntar outra coisa!"
 
 # game/script.rpy:1727
 translate portuguese about_caae98f3:
 
     # m "G-go ahead."
-    m ""
+    m "V-vai em frente."
 
 # game/script.rpy:1729
 translate portuguese about_ffa3bcc8:
 
     # b "Fun fact!"
-    b ""
+    b "Curiosidade!"
 
 # game/script.rpy:1732
 translate portuguese about_4995aacc:
 
     # b "Did you know that button mushrooms are some of the most widely-consumed mushroom types in the world?"
-    b ""
+    b "Você sabia que cogumelos champignon (eu sou um deles) são um dos tipos de cogumelo mais consumidos no mundo?"
 
 # game/script.rpy:1738
 translate portuguese about_86782f79:
 
     # m "Why?"
-    m ""
+    m "Por que?"
 
 # game/script.rpy:1741
 translate portuguese about_74ceebcc:
 
     # b "Why...?"
-    b ""
+    b "Por que...?"
 
 # game/script.rpy:1743
 translate portuguese about_e5b34447:
 
     # m "Yeah... I mean... I prefer Shiitake mushrooms so I'm genuinely curious."
-    m ""
+    m "Bem... Tipo... Eu prefiro cogumelos shiitake, então eu realmente tô curioso."
 
 # game/script.rpy:1745
 translate portuguese about_8db47d35:
 
     # b "SHIITAKE!?"
-    b ""
+    b "SHIITAKE!?"
 
 # game/script.rpy:1748
 translate portuguese about_b41ed2c0:
 
     # b "How could you compare us!?"
-    b ""
+    b "Como pode nos comparar!?"
 
 # game/script.rpy:1750
 translate portuguese about_0c5a4557:
 
     # b "I'm versatile! A CLASSIC!"
-    b ""
+    b "Eu sou um versáril! UM CLÁSSICO!"
 
 # game/script.rpy:1752
 translate portuguese about_bfda46a3:
 
     # m "Isn't that just your opinion?"
-    m ""
+    m "Essa não é só sua opinião?"
 
 # game/script.rpy:1754
 translate portuguese about_b5de57f6:
 
     # m "Just like you said earlier, you're entitled to your opinion. As am I."
-    m ""
+    m "Antedeguemon"
 
 # game/script.rpy:1756
 translate portuguese about_9e37a248:
