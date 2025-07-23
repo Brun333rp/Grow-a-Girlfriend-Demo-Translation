@@ -2228,541 +2228,541 @@ translate portuguese about_396ca757:
 translate portuguese about_e67c9152:
 
     # "Sounds like everyone you've ever confided in."
-    "Pare muito com todas as pessoas que você já confiou."
+    "Parece muito com o que todas as pessoas em quem você já confiou diziam."
 
 # game/script.rpy:1812
 translate portuguese about_e612037c_4:
 
     # m "..."
-    m "Antedeguemon"
+    m "..."
 
 # game/script.rpy:1814
 translate portuguese about_850ef128_5:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:1816
 translate portuguese about_c5157f72:
 
     # b "Um, so... speaking of living life to its fullest..."
-    b ""
+    b "Bom... falando em viver a vida ao máximo..."
 
 # game/script.rpy:1817
 translate portuguese about_930e9b15:
 
     # b "Can we go do something? Outside with the pretty sunset?"
-    b ""
+    b "Podemos fazer algo? De preferência lá fora com o belo pôr do sol?"
 
 # game/script.rpy:1819
 translate portuguese about_f9b9b3ae:
 
     # b "Because this room is reeeeeeally tiny and I am getting reeeeeeally bored."
-    b ""
+    b "Pois essa sala é muuuuuuuito pequena e eu tô ficando muuuuuuuito entediada."
 
 # game/script.rpy:1825
 translate portuguese explain_0031be47:
 
     # m "Hah... Ok then. It could be nice to vent. Where do I start?"
-    m ""
+    m "Tá... Ok então. Talvez seja bom desabafar. De onde eu começo?"
 
 # game/script.rpy:1827
 translate portuguese explain_4f3e4413:
 
     # m "My biggest struggle is probably the concept of death."
-    m ""
+    m "Meu maior medo provavelmente é o conceito de morte."
 
 # game/script.rpy:1829
 translate portuguese explain_6f39adae:
 
     # m "Because one day - poof! You're alive, whether you wanted to be or not."
-    m ""
+    m "Porque um dia - poof! Você tá vivo, independente de você querer ou não."
 
 # game/script.rpy:1830
 translate portuguese explain_68369c73:
 
     # m "Then you figure out pretty soon that you'll die and disappear, and there's nothing you can do about it. You're just expected to accept it and enjoy life, but-"
-    m ""
+    m "Então um dia você descobre que vai morrer e desaparecer, e que nada pode ser feito sobre. Dizem que é só você não se preocupar e curtir a vida até lá, mas-"
 
 # game/script.rpy:1832
 translate portuguese explain_8a79504e:
 
     # m "Every second is counting down to death. How can you just relax?"
-    m ""
+    m "Cada segundo que passa você está mais próximo da morte. Como que dá pra relaxar?"
 
 # game/script.rpy:1834
 translate portuguese explain_8371a175:
 
     # m "Sometimes I wonder why everybody isn't screaming."
-    m ""
+    m "Às vezes eu me pergunto por que todo mundo não está gritando."
 
 # game/script.rpy:1835
 translate portuguese explain_de9e63f2:
 
     # m "As a kid, I was healthy and young, so didn't worry about it. I thought scientists would have discovered immortality by the time I got older and we'd all be fine."
-    m ""
+    m "Na infância, eu tinha acabado de chegar ao mundo, então eu não me preocupava. Eu pensava que cientistas já teriam descoberto a imortalidade quando eu ficasse mais velho e tudo ficaria bem."
 
 # game/script.rpy:1836
 translate portuguese explain_12c223cf:
 
     # m "But now I know that's not going to happen. The world's too corrupt, and everyone else has given up. So I have too. I'm gonna die and that's that."
-    m ""
+    m "Mas agora eu sei que isso é impossível. O mundo é currupto, e tudo mundo já desistiu. E eu também. Eu vou morrer e é isso. Cabou-se."
 
 # game/script.rpy:1838
 translate portuguese explain_6496054e:
 
     # m "If I try to remember what it was like before I was born, that stillness and nothingness... I think death will be like that."
-    m ""
+    m "Se eu tentasse lembrar como eram as coisas antes de eu nascer, quando tudo era um vazio silencioso... Acho que a morte seria assim."
 
 # game/script.rpy:1839
 translate portuguese explain_4ddb639f:
 
     # m "Maybe it won't be that bad, but it's still terrifying to disappear."
-    m ""
+    m "Talvez não será tão ruim, mas desaparecer ainda é terrivelmente assustador."
 
 # game/script.rpy:1842
 translate portuguese explain_850ef128:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:1843
 translate portuguese explain_a5145b77:
 
     # m "It puts you under a lot of pressure to make the most of every day, especially when you can't do the bare minimum and leave your room."
-    m ""
+    m "Isso torna muito estressante aproveitar o máximo de cada dia, ainda mais quando não dá pra se fazer o mínimo e sair do quarto."
 
 # game/script.rpy:1844
 translate portuguese explain_37583720:
 
     # m "Life is a random fucking miracle in a soup of possibility. It's so weird, but I'm still scared to die, because I won't get another chance."
-    m ""
+    m "A vida é um milagre aleatório numa sopa de possibilidades. É tão estranho, mas eu ainda tenho medo de morrer, pois eu não terei outra chance."
 
 # game/script.rpy:1845
 translate portuguese explain_bfd6edac:
 
     # m "So many things to do. Money, passion, skills, friendships, love, family, health..."
-    m ""
+    m "Tantas coisas pra se fazer. Dinheiro, sonhos, habilidades, amizades, amor, família, saúde..."
 
 # game/script.rpy:1847
 translate portuguese explain_8cbc511a:
 
     # m "After a certain point of stress... doing \"happy\" things isn't enough anymore."
-    m ""
+    m "Depois de um certo ponto de estresse... fazer coisas \"felizes\" não é mais o suficiente."
 
 # game/script.rpy:1851
 translate portuguese explain_1bbc3fb9:
 
     # m "Sorry if I overshared. I don't know why-"
-    m ""
+    m "Desculpa se eu falei demais. Eu não por-"
 
 # game/script.rpy:1853
 translate portuguese explain_a30dcfef:
 
     # m "Oh, are you ok?"
-    m ""
+    m "Ei, você está bem?"
 
 # game/script.rpy:1854
 translate portuguese explain_fc8b09fe:
 
     # b "I don't know... this sudden feeling of dread just came over me."
-    b ""
+    b "Eu não sei... de repente esse sentimento de temor veio até mim."
 
 # game/script.rpy:1855
 translate portuguese explain_b3fdf777:
 
     # b "What you said... will we really just... disappear? I won't be able to do anything anymore?"
-    b ""
+    b "Isso que você disse... a gente vai só... sumir? Eu não vou poder fazer mais nada?"
 
 # game/script.rpy:1857
 translate portuguese explain_670ab928:
 
     # m "Well, what did you think was going to happen? It's natural."
-    m ""
+    m "Bom, o que você achou que ia acontecer? É natural."
 
 # game/script.rpy:1859
 translate portuguese explain_53ddc7dc:
 
     # b "I didn't..."
-    b ""
+    b "Eu não..."
 
 # game/script.rpy:1860
 translate portuguese explain_391ee2b2:
 
     # m "Welp, sorry. I didn't mean to make you miserable."
-    m ""
+    m "Bem, desculpa. Eu não queria te deixar infeliz."
 
 # game/script.rpy:1862
 translate portuguese explain_d33eefcf:
 
     # m "Especially when you probably won't be living for very long."
-    m ""
+    m "Ainda mais que você provavelmente não vai viver muito."
 
 # game/script.rpy:1863
 translate portuguese explain_5f907a0a:
 
     # m "Just stay happy and ignorant."
-    m ""
+    m "Só continue feliz e ignorante."
 
 # game/script.rpy:1865
 translate portuguese explain_73cca4bc:
 
     # b "Maybe that's for the best."
-    b ""
+    b "Talvez seja melhor assim."
 
 # game/script.rpy:1866
 translate portuguese explain_850ef128_1:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:1868
 translate portuguese explain_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:1870
 translate portuguese explain_78f8aea0:
 
     # b "It's hard to stop thinking!"
-    b ""
+    b "É difícil parar de pensar sobre!"
 
 # game/script.rpy:1871
 translate portuguese explain_d7ad6608:
 
     # b "Why am I alive?"
-    b ""
+    b "Por que estou viva?"
 
 # game/script.rpy:1873
 translate portuguese explain_0b0926e5:
 
     # m "Um... because I watered you?"
-    m ""
+    m "Uhm... porquê eu te reguei?"
 
 # game/script.rpy:1875
 translate portuguese explain_3e18e670:
 
     # b "Then why did you choose me?"
-    b ""
+    b "Então por que você me escolheu?"
 
 # game/script.rpy:1876
 translate portuguese explain_adfa6854:
 
     # b "Why ME?"
-    b ""
+    b "Por que EU?"
 
 # game/script.rpy:1886
 translate portuguese why_choose_d6446515:
 
     # m "Well, you looked small and cute."
-    m ""
+    m "Bom, você era pequena e fofa."
 
 # game/script.rpy:1887
 translate portuguese why_choose_96d08afa:
 
     # m "If I actually managed to get you to grow, I would be happy."
-    m ""
+    m "Se eu conseguisse fazer você crescer, eu ia ficar feliz."
 
 # game/script.rpy:1889
 translate portuguese why_choose_8b3a2bcb:
 
     # b "So you're happy now?"
-    b ""
+    b "Então você tá feliz agora?"
 
 # game/script.rpy:1891
 translate portuguese why_choose_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:1893
 translate portuguese why_choose_5f0622c5:
 
     # m "I'm happier."
-    m ""
+    m "Estou mais feliz."
 
 # game/script.rpy:1895
 translate portuguese why_choose_8092e173:
 
     # b "Then I'm happy too."
-    b ""
+    b "Então eu também tô feliz."
 
 # game/script.rpy:1898
 translate portuguese why_choose_cc6ff25e:
 
     # b "Also I got to hear you call me cute TWICE today! That's a win for sure."
-    b ""
+    b "Aliás, eu ouvi você me chamar de fofa DUAS VEZES hoje! Isso certamente é uma vitória."
 
 # game/script.rpy:1900
 translate portuguese why_choose_af2f2be0:
 
     # b "Also you called me cute too. I'm as happy as a shroom on a log!"
-    b ""
+    b "Aliás, você acabou de me chamou de fofa. Estou tão feliz quanto um cogumelo em um tronco!"
 
 # game/script.rpy:1902
 translate portuguese why_choose_aeed40a2:
 
     # m "Interesting... choice of words..."
-    m ""
+    m "Que escolha... interessante... de palavras..."
 
 # game/script.rpy:1904
 translate portuguese why_choose_602fa659:
 
     # m "(She got distracted really quickly. That's good.)"
-    m ""
+    m "(Ela se distraiu bem rápido. Isso é bom.)"
 
 # game/script.rpy:1905
 translate portuguese why_choose_850ef128:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:1907
 translate portuguese why_choose_0495076d:
 
     # b "Talking is fun. But also... I'm kinda bored."
-    b ""
+    b "Conversar é legal. Só que... Tô meio entediada."
 
 # game/script.rpy:1908
 translate portuguese why_choose_1200bcc0:
 
     # b "Can we do something fun? Like... explore the outside a bit and see the sunset more?"
-    b ""
+    b "Podemos fazer algo divertido? Tipo... sair lá fora um pouco e ver o pôr do sol?"
 
 # game/script.rpy:1909
 translate portuguese why_choose_f9b9b3ae:
 
     # b "Because this room is reeeeeeally tiny and I am getting reeeeeeally bored."
-    b ""
+    b "Pois esse quarto é muuuuuuuito pequeno e eu tô ficando muuuuuuuito entediada."
 
 # game/script.rpy:1917
 translate portuguese why_choose_eeee6177:
 
     # m "Well, everything else was out of stock. You were the only thing still left over."
-    m ""
+    m "Bom, tava tudo fora de estoque. Você era a única coisa restando."
 
 # game/script.rpy:1920
 translate portuguese why_choose_17dc2a59:
 
     # b "Just..."
-    b ""
+    b "Eu sou..."
 
 # game/script.rpy:1922
 translate portuguese why_choose_b97923bb:
 
     # b "...a {i}left over{/i}?"
-    b ""
+    b "...um {i}resto{/i}?"
 
 # game/script.rpy:1923
 translate portuguese why_choose_5dbc5bd1:
 
     # "Wow. Are you TRYING to be this bad?"
-    ""
+    "Uau. Você tá TENTANDO ser tão ruim assim?"
 
 # game/script.rpy:1925
 translate portuguese why_choose_c0afc7da:
 
     # m "(I'm just being honest! I hate sugar-coating.)"
-    m ""
+    m "(Só tô sendo honesto! Eu odeio suavizar as coisas.)"
 
 # game/script.rpy:1930
 translate portuguese why_choose_b9517bb0:
 
     # b "My thoughts are being loud again!"
-    b ""
+    b "Tô pensando alto de novo!"
 
 # game/script.rpy:1932
 translate portuguese why_choose_7a8e4972:
 
     # m "Well, what do they say?"
-    m ""
+    m "Bom, e o que seus pensamentos dizem?"
 
 # game/script.rpy:1934
 translate portuguese why_choose_dbdf7d0f:
 
     # b "That I'm going to die soon!"
-    b ""
+    b "Que eu vou morrer em breve!"
 
 # game/script.rpy:1935
 translate portuguese why_choose_7312db5d:
 
     # b "I-I'm feeling really panicked! I don't like this! How do I make the thoughts stop?"
-    b ""
+    b "E-Eu tô ficando em pânico! Eu não quero isso! Como eu faço os pensamentos pararem?"
 
 # game/script.rpy:1938
 translate portuguese why_choose_508cb228:
 
     # "This is why your friends hated you. You're just an infectious, miserable disease."
-    ""
+    "É por isso que seus amigos de odiavam. Você não passa de uma doença contagiosa e miserável."
 
 # game/script.rpy:1940
 translate portuguese why_choose_b04f5131:
 
     # m "Calm down. I know something that might help."
-    m ""
+    m "Calma lá. Eu sei de algo que pode ajudar."
 
 # game/script.rpy:1942
 translate portuguese why_choose_e184d142:
 
     # b "What is it?"
-    b ""
+    b "E o que é?"
 
 # game/script.rpy:1944
 translate portuguese why_choose_dddb5409:
 
     # m "Let's go outside."
-    m ""
+    m "Vamos lá pra fora."
 
 # game/script.rpy:1945
 translate portuguese why_choose_7a0ada2e:
 
     # m "There's a field I know. It's a nice place... especially at sunset."
-    m ""
+    m "Tem um gramado aqui perto. É um ótimo lugar... ainda mais no pôr do sol."
 
 # game/script.rpy:1946
 translate portuguese why_choose_29915be0:
 
     # m "Usually not too busy either. Nice if you want some peace."
-    m ""
+    m "Geralmente não tem muita gente. Ótimo se você quer um pouco de paz."
 
 # game/script.rpy:1948
 translate portuguese why_choose_e5a1f361:
 
     # m "It used to be my... um... \"calming down\" spot."
-    m ""
+    m "Ele costumava ser meu... uhm... \"local para me acalmar\"."
 
 # game/script.rpy:1950
 translate portuguese why_choose_6d231c4b:
 
     # b "That sounds... really nice!"
-    b ""
+    b "Isso soa... ótimo!"
 
 # game/script.rpy:1952
 translate portuguese why_choose_ac31f2bd:
 
     # b "I want to see it!"
-    b ""
+    b "Eu quero conhecer!"
 
 # game/script.rpy:1954
 translate portuguese why_choose_36662477:
 
     # m "(Distracted already? I'm jealous how easy it is for you.)"
-    m ""
+    m "(Já se distraiu? Tenho inveja do quão fácil isso é pra você.)"
 
 # game/script.rpy:1956
 translate portuguese why_choose_b7cc068a:
 
     # m "Fine, let's go. Stay quiet and follow me."
-    m ""
+    m "Ótimo, vamos lá. Me siga sem fazer barulho."
 
 # game/script.rpy:1958
 translate portuguese why_choose_edccf69e:
 
     # b "As you wish, Master!"
-    b ""
+    b "Como desejar, Mestre!"
 
 # game/script.rpy:1960
 translate portuguese why_choose_e175c34a:
 
     # m "Just %(player_name)s, please!"
-    m ""
+    m "Só me chama de %(player_name)s, por favor!"
 
 # game/script.rpy:1964
 translate portuguese why_choose_48e03842:
 
     # b "I don't know if it's intentional, but you're kinda hurtful sometimes."
-    b ""
+    b "Eu não sei se é intencional, mas você é meio rude às vezes."
 
 # game/script.rpy:1965
 translate portuguese why_choose_ac7d4372:
 
     # "Oh, it's all unintentional. This is just what happens when he's his natural self."
-    ""
+    "Ah, é tudo intencional. Isso é o que acontece quando ele é ele mesmo."
 
 # game/script.rpy:1967
 translate portuguese why_choose_defc6a73:
 
     # m "Sorry, sorry."
-    m ""
+    m "Desculpa, desculpa."
 
 # game/script.rpy:1969
 translate portuguese why_choose_6a8ee07c:
 
     # b "Make it up to me!"
-    b ""
+    b "Me compense!"
 
 # game/script.rpy:1971
 translate portuguese why_choose_46663d92:
 
     # m "How?"
-    m ""
+    m "Como?"
 
 # game/script.rpy:1973
 translate portuguese why_choose_27bf3b54:
 
     # b "Take me out somewhere! I'm already bored of this biscuit of a room!"
-    b ""
+    b "Me leva pra algum lugar! Já tô cansada desse quarto minúsculo!"
 
 # game/script.rpy:1978
 translate portuguese bored_5b38d3d9:
 
     # "Outside? She wants to go OUTSIDE with you? Oh, it's time to show Button how pathetic you really are."
-    ""
+    "Ir pra fora? Ela quer IR PRA FORA com você? Ah, agora a Botão vai ver o quão patético você de fato é."
 
 # game/script.rpy:1980
 translate portuguese bored_e6798436:
 
     # b "Come on! Aren't you bored in here too?"
-    b ""
+    b "Qual é! Você também não tá entediado aqui?"
 
 # game/script.rpy:1982
 translate portuguese bored_da16c840:
 
     # "You'd rather be bored, than afraid."
-    ""
+    "Você prefere ficar entediado do que com medo."
 
 # game/script.rpy:1987
 translate portuguese bored_fe65175f:
 
     # "You fear leaving the safe confines of your home, especially with such a conspicuous-looking person."
-    ""
+    "Você tem medo de deixar os confins de sua casa, ainda mais com uma pessoa tão chamativa."
 
 # game/script.rpy:1988
 translate portuguese bored_f3b8ca2c:
 
     # "However..."
-    ""
+    "No entanto..."
 
 # game/script.rpy:1989
 translate portuguese bored_5026130a:
 
     # "You have to help her make the most of her short life."
-    ""
+    "Você precisa ajudá-la a aproveitar o máximo de sua vida curta."
 
 # game/script.rpy:1990
 translate portuguese bored_3db0acec:
 
     # "It's always been easier to put the needs of others above your own."
-    ""
+    "Sempre foi mais fácil colocar as necessidades dos outros acima da sua."
 
 # game/script.rpy:1991
 translate portuguese bored_78f84d45:
 
     # "Miraculously, you are able to brush your fears aside today."
-    ""
+    "Milagrosamente, você consegue deixar seus medos de lado por hoje."
 
 # game/script.rpy:1993
 translate portuguese bored_3a54c8d7:
 
     # m "UUUUUUUGH- OK!"
-    m ""
+    m "UUUUUUUGH- TÁ BOM!"
 
 # game/script.rpy:1995
 translate portuguese bored_20dc3d69:
 
     # m "Let's just go to this place I know. It's close. Hardly anyone else goes there, so I can handle it."
-    m ""
+    m "Antedeguemon"
 
 # game/script.rpy:1997
 translate portuguese bored_9353ac11:
