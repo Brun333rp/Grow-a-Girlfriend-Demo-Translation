@@ -3362,7 +3362,7 @@ translate portuguese leavehouse_2fad6346:
 translate portuguese leavehouse_2bf3bbf1:
 
     # b "The outside is AMAZING!"
-    b "Aqui fora é INCRÍVEL!"
+    b "O lado de fora é INCRÍVEL!"
 
 # game/script.rpy:2363
 translate portuguese leavehouse_383bd91f:
@@ -3380,7 +3380,7 @@ translate portuguese leavehouse_838b670d:
 translate portuguese leavehouse_3f6e235a:
 
     # b "Ughh, I just wanna go out again!"
-    b "Espero poder sair de novo!"
+    b "Caramba, espero poder sair de novo!"
 
 # game/script.rpy:2369
 translate portuguese leavehouse_1635c1cc:
@@ -3416,7 +3416,7 @@ translate portuguese leavehouse_3b89fb22:
 translate portuguese leavehouse_50fa5fcb:
 
     # m "Now?... Um, just lie down and recharge, honestly. If that's ok."
-    m "Agora?... Uhm, só parar um pouco e descançar. Se isso for ok."
+    m "Agora?... Uhm, só deitar um pouco e descançar. Se isso for ok."
 
 # game/script.rpy:2381
 translate portuguese leavehouse_898e97f4:
@@ -3488,13 +3488,13 @@ translate portuguese leavehouse_f65082e1:
 translate portuguese leavehouse_8b3db82d:
 
     # b "So I wanted to ask... are you planning to eat me tonight?"
-    b "Então eu queria saber... você vai me comer essa noite?"
+    b "Então eu queria saber... você vai se alimentar de mim essa noite?"
 
 # game/script.rpy:2407
 translate portuguese leavehouse_0815eac5:
 
     # "You are feeling pretty hungry after all of that rolling."
-    "(Lá ele) Você tá com muita fome depois de rolar tanto."
+    "Você tá com muita fome depois de rolar tanto."
 
 # game/script.rpy:2409
 translate portuguese leavehouse_29cf8eeb:
@@ -3553,560 +3553,560 @@ translate portuguese leavehouse_ea318c94:
 # game/script.rpy:2426
 translate portuguese leavehouse_5b3538f9:
 
-    # b "Ahh... now I can look forward to going out more and seeing everything outside! There's so much! I can't wait!"
-    b "Antedeguemon"
+    # b "Ahh... now I can look forward to going out more and seeing everything outside! There's so much! I can't wait!Ahh"
+    b "*Ahh* Tô anciosa pra sair mais vezes e ver tudo que tem fora! Tem tanta coisa! Mal posso esperar!"
 
 # game/script.rpy:2428
 translate portuguese leavehouse_84088558:
 
     # m "Whoa whoa whoa... We never discussed this."
-    m "Opa opa oap... A gente nunca falou disso."
+    m "Opa opa opa... A gente nunca falou disso."
 
 # game/script.rpy:2430
 translate portuguese leavehouse_64590162:
 
     # m "I'm drained after today."
-    m ""
+    m "Tô esgotado depois de hoje."
 
 # game/script.rpy:2431
 translate portuguese leavehouse_76f04785:
 
     # m "I'd prefer if you could just... take yourself out, so I could rest tomorrow."
-    m ""
+    m "Eu preferiria que você... saísse sozinha, pra eu poder descançar amanhã."
 
 # game/script.rpy:2433
 translate portuguese leavehouse_c5c6e918:
 
     # b "But... didn't you like it?"
-    b ""
+    b "Mas... você não gostou?"
 
 # game/script.rpy:2435
 translate portuguese leavehouse_e36a0e06:
 
     # m "I did. But still. Tiring."
-    m ""
+    m "Gostei. Mas mesmo assim. Cansa."
 
 # game/script.rpy:2437
 translate portuguese leavehouse_ef0da038:
 
     # b "But..."
-    b ""
+    b "Mas..."
 
 # game/script.rpy:2438
 translate portuguese leavehouse_0265a6bd:
 
     # b "It's... lonely..."
-    b ""
+    b "É tão... solitário..."
 
 # game/script.rpy:2440
 translate portuguese leavehouse_5b775aa9:
 
     # m "Can't you just TRY it first before deciding how you're going to feel?"
-    m ""
+    m "Será que EXPERIMENTAR antes de decidir como se sente não é uma opção?"
 
 # game/script.rpy:2443
 translate portuguese leavehouse_850ef128_1:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:2445
 translate portuguese leavehouse_e1e80e52:
 
     # b "You raised me. You're supposed to take care of me!"
-    b ""
+    b "Você me criou. Era pra você cuidar de mim!"
 
 # game/script.rpy:2446
 translate portuguese leavehouse_0b1049d5:
 
     # b "I can't just go out there on my own! I need you!"
-    b ""
+    b "Não posso simplesmente sair sozinha! Preciso de você!"
 
 # game/script.rpy:2448
 translate portuguese leavehouse_1c23497a:
 
     # m "What about MY needs? Aren't you being too forceful? I think you can do something as simple as walk around by yourself."
-    m ""
+    m "E as MINHAS necessidades? Não acha que tá sendo meio autoritária? Dá pra você andar sozinha sem minha ajuda."
 
 # game/script.rpy:2450
 translate portuguese leavehouse_850ef128_2:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:2452
 translate portuguese leavehouse_06c8fae4:
 
     # b "Oh."
-    b ""
+    b "Ah."
 
 # game/script.rpy:2453
 translate portuguese leavehouse_8634939d:
 
     # b "I {i}am{/i} being needy."
-    b ""
+    b "Tô {i}realmente{/i} sendo grudenta."
 
 # game/script.rpy:2456
 translate portuguese leavehouse_33a9b25c:
 
     # b "I'm sorry."
-    b ""
+    b "Me desculpa."
 
 # game/script.rpy:2457
 translate portuguese leavehouse_c6bb5a2f:
 
     # b "I'm just scared to be alone...."
-    b ""
+    b "É que eu tô com medo de ficar sozinha...."
 
 # game/script.rpy:2458
 translate portuguese leavehouse_693179a9:
 
     # b "I'm sorry for... being bad at this."
-    b ""
+    b "Desculpa por eu ser... teimosa."
 
 # game/script.rpy:2460
 translate portuguese leavehouse_5b49266f:
 
     # "Wow. She's about to cry."
-    ""
+    "Uau. Ela tá prestes a chorar."
 
 # game/script.rpy:2466
 translate portuguese leavehouse_c25c841b:
 
     # b "Yup! I'm ready anytime you want to eat me!"
-    b ""
+    b "Claro! Tô pronta pra quando quiser me comer!"
 
 # game/script.rpy:2468
 translate portuguese leavehouse_6861974f:
 
     # b "I'm delicious AND nutritious!"
-    b ""
+    b "Sou deliciosa E TAMBÉM nutritiva!"
 
 # game/script.rpy:2470
 translate portuguese leavehouse_8abc0fe7:
 
     # m "...You sure?"
-    m ""
+    m "...Tem certeza?"
 
 # game/script.rpy:2472
 translate portuguese leavehouse_e89226b7:
 
     # b "Yup... It's part of life. I'm already so lucky to have been able to spend a day with you, so-"
-    b ""
+    b "Claro... Faz parte da vida. Já tenho sorte de poder ter passado um dia com você, então-"
 
 # game/script.rpy:2473
 translate portuguese leavehouse_a4dc9ef5:
 
     # b "Please, go ahead!"
-    b ""
+    b "Por favor, vá em frente!"
 
 # game/script.rpy:2475
 translate portuguese leavehouse_b6029a46:
 
     # m "Hah... Well... Ok."
-    m ""
+    m "Huh... Bom... Ok."
 
 # game/script.rpy:2477
 translate portuguese leavehouse_be8efcc5:
 
     # m "Thanks for the fun day."
-    m ""
+    m "Valeu pela diversão."
 
 # game/script.rpy:2481
 translate portuguese leavehouse_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:2482
 translate portuguese leavehouse_feca35af:
 
     # m "I'm really doing it."
-    m ""
+    m "Caramba, eu tô fazendo isso mesmo."
 
 # game/script.rpy:2483
 translate portuguese leavehouse_61201179:
 
     # m "Frying up bits of seasoned mushroom with egg, tomato and cheese."
-    m ""
+    m "Fritando pedaços de cogumelo com ovo, tomate e queijo."
 
 # game/script.rpy:2484
 translate portuguese leavehouse_a828fc20:
 
     # "Once it's diced up, you really can't tell it used to be her face."
-    ""
+    "Depois de cortar em cubos, quase não dá pra reconhecer a cara dela."
 
 # game/script.rpy:2485
 translate portuguese leavehouse_205eea19:
 
     # "Isn't this messed up?"
-    ""
+    "Não é meio doentio?"
 
 # game/script.rpy:2486
 translate portuguese leavehouse_43d63a0a:
 
     # m "Maybe so, but..."
-    m ""
+    m "Talvez seja, mas"
 
 # game/script.rpy:2516
 translate portuguese leavehouse_ae0c3400:
 
     # m "She wasn't lying! This is freaking delicious!"
-    m ""
+    m "Ela não mentiu! Isso tá bom pra caralho!"
 
 # game/script.rpy:2539
 translate portuguese leavehouse_236fef67:
 
     # m "Honestly? I don't feel that hungry..."
-    m ""
+    m "Sinceramente? Eu não tô com fome..."
 
 # game/script.rpy:2541
 translate portuguese leavehouse_1dc04a7c:
 
     # b "Another day of life for me! Yay!"
-    b ""
+    b "Vou viver mais um dia! Oba!"
 
 # game/script.rpy:2542
 translate portuguese leavehouse_f90dd2c1:
 
     # b "Does this mean we can go somewhere else tomorrow? Please please please?"
-    b ""
+    b "Então a gente poder ir pra outro lugar amanhã? Por favor por favor por favor?"
 
 # game/script.rpy:2544
 translate portuguese leavehouse_e7c15a9d:
 
     # m "Ahhh..."
-    m ""
+    m "Ahhh..."
 
 # game/script.rpy:2546
 translate portuguese leavehouse_a191e100:
 
     # m "Can't you just go by yourself?"
-    m ""
+    m "Não dá pra você ir sozinha?"
 
 # game/script.rpy:2548
 translate portuguese leavehouse_a087efad:
 
     # b "What? Where's the fun in that? I need my companion with me to protect me and play with me!"
-    b ""
+    b "Por quê? Qual seria a graça? Preciso de alguém pra me proteger e brincar comigo!"
 
 # game/script.rpy:2550
 translate portuguese leavehouse_bfd285da:
 
     # m "Ah. I see..."
-    m ""
+    m "Ah. Entendo..."
 
 # game/script.rpy:2552
 translate portuguese leavehouse_2ec7f18c:
 
     # b "Please please please come with me? I don't wanna get lonely..."
-    b ""
+    b "Por favor por favor por favor vem comigo? Eu não gosto de solidão..."
 
 # game/script.rpy:2554
 translate portuguese leavehouse_c0a0acde:
 
     # m "...Wow, those are some puppy eyes..."
-    m ""
+    m "...Droga, ela tá com carinha de dó..."
 
 # game/script.rpy:2556
 translate portuguese leavehouse_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:2558
 translate portuguese leavehouse_0882e5d4:
 
     # m "Ah, fine. I've done it once already, so it should be ok..."
-    m ""
+    m "Ah, tá bom. Já fiz isso uma vez, então acho que tá tudo bem."
 
 # game/script.rpy:2560
 translate portuguese leavehouse_fb5b2863:
 
     # b "Really? Thank you. You sure?"
-    b ""
+    b "Sério? Obrigada! Tem certeza?"
 
 # game/script.rpy:2562
 translate portuguese leavehouse_91261a08:
 
     # b "You promise you can go out with me?"
-    b ""
+    b "Promete que pode sair comigo?"
 
 # game/script.rpy:2564
 translate portuguese leavehouse_c9c5c175:
 
     # m "It's just a few days anyway..."
-    m ""
+    m "São só alguns dias, afinal de contas..."
 
 # game/script.rpy:2568
 translate portuguese leavehouse_850ef128_3:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:2569
 translate portuguese leavehouse_6fc80148:
 
     # b "Yeah."
-    b ""
+    b "É."
 
 # game/script.rpy:2572
 translate portuguese leavehouse_3da56454:
 
     # b "It's already night time. My first day is already over."
-    b ""
+    b "Já tá de noite. Meu primeiro dia acabou."
 
 # game/script.rpy:2573
 translate portuguese leavehouse_2558b009:
 
     # b "I didn't realise how quickly time would pass."
-    b ""
+    b "Eu não percebi o quão rápido tinha passado."
 
 # game/script.rpy:2575
 translate portuguese leavehouse_a4773cab:
 
     # b "I understand what you meant earlier now."
-    b ""
+    b "Agora eu entendo o que você falou."
 
 # game/script.rpy:2576
 translate portuguese leavehouse_374c3956:
 
     # b "Even if I have fun, even if I don't, it doesn't matter in the end. It's getting closer!"
-    b ""
+    b "Mesmo me divertindo, mesmo se não, no final não importa. Tá cada vez mais perto."
 
 # game/script.rpy:2579
 translate portuguese leavehouse_c750c84e:
 
     # m "I'm... I'm so sorry for saying all that."
-    m ""
+    m "Me... Me desculpa por tudo que eu disse."
 
 # game/script.rpy:2581
 translate portuguese leavehouse_850ef128_4:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:2582
 translate portuguese leavehouse_52dcef3c:
 
     # b "I..."
-    b ""
+    b "Eu..."
 
 # game/script.rpy:2587
 translate portuguese leavehouse_24e21341:
 
     # b "{sc=2}{color=#000000}{size=+20}I don't want to die!{/sc}{size=-20}" with sshake
-    b "" with sshake
+    b "{sc=2}{color=#000000}{size=+20}Eu não quero morrer!{/sc}{size=-20}" with sshake
 
 # game/script.rpy:2588
 translate portuguese leavehouse_dc6e11f0:
 
     # b "I've only just been {sc=2}{color=#000000}born!{/sc} Why can't I live longer like you!?"
-    b ""
+    b "Eu acabei de {sc=2}{color=#000000}nascer!{/sc} Por que não posso viver por mais tempo!?"
 
 # game/script.rpy:2590
 translate portuguese leavehouse_0a7d542b:
 
     # b "{sc=2}{color=#000000}IT'S NOT FAIR! I DON'T WANT TO DIE YET!!!{/sc}" with sshake
-    b "" with sshake
+    b "{sc=2}{color=#000000}NÃO É JUSTO! EU NÃO QUERO MORRER AINDA!!!{/sc}" with sshake
 
 # game/script.rpy:2592
 translate portuguese leavehouse_2d349f8a:
 
     # "Are you just going to just sit there and watch her have a panic attack?"
-    ""
+    "Vai ficar sentado olhando enquanto ela tem um ataque de pânico?"
 
 # game/script.rpy:2600
 translate portuguese leavehouse_d95c0745:
 
     # m "I-I've got you. Just-"
-    m ""
+    m "P-Pode contar comigo, tá? Só fi-"
 
 # game/script.rpy:2601
 translate portuguese leavehouse_9890ad83:
 
     # b "{sc=2}{color=#000000}NOTHING MATTERS! I CAN'T-"
-    b ""
+    b ""{sc=2}{color=#000000}NÃO DÁ! NADA FAZ SENTIDO! EU NÃO-"
 
 # game/script.rpy:2602
 translate portuguese leavehouse_0cca2f64:
 
     # m "It's going to be ok-"
-    m ""
+    m "Vai ficar tudo bem-"
 
 # game/script.rpy:2603
 translate portuguese leavehouse_f5513030:
 
     # b "{sc=2}{color=#000000}IT'S NOT!"
-    b ""
+    b "{sc=2}{color=#000000}NÃO VAI!"
 
 # game/script.rpy:2605
 translate portuguese leavehouse_2e86419b:
 
     # b "{sc=2}{color=#000000}I'VE ONLY GOT TWO DAYS LEFT!"
-    b ""
+    b "{sc=2}{color=#000000}EU SÓ TENHO DOIS DIAS RESTANDO!"
 
 # game/script.rpy:2606
 translate portuguese leavehouse_3e5e1084:
 
     # b "{sc=2}{color=#000000}I DON'T WANT TO DISAPPEAR! PLEASE HELP ME!"
-    b ""
+    b "{sc=2}{color=#000000}EU NÃO QUERO DEIXAR DE EXISTIR! POR FAVOR ME AJUDA!"
 
 # game/script.rpy:2607
 translate portuguese leavehouse_ffac3f77:
 
     # m "Ok... First calm down."
-    m ""
+    m "Ok... Se aclma primeiro."
 
 # game/script.rpy:2608
 translate portuguese leavehouse_29dda217:
 
     # b "{sc=2}{color=#000000}BUT I CAN'T! IT'S GETTING CLOSER!"
-    b ""
+    b "{sc=2}{color=#000000}EU NÃO CONSIGO! TÁ FICANDO PERTO!"
 
 # game/script.rpy:2609
 translate portuguese leavehouse_bf9acf0c:
 
     # m "Let's breathe together, ok? Just breathe in deeply when I say go, and hold it for eight seconds."
-    m ""
+    m "Respira fundo comigo, ok? Inspira profundamente quando eu disser 'vai' e segura por oito segundos."
 
 # game/script.rpy:2610
 translate portuguese leavehouse_b9ed8af5:
 
     # m "Go. Inhale and hold~"
-    m ""
+    m "Vai. Inspira e segura..."
 
 # game/script.rpy:2612
 translate portuguese leavehouse_319026a4:
 
     # b "{sc=1}{color=#000000}..."
-    b ""
+    b "{sc=1}{color=#000000}..."
 
 # game/script.rpy:2614
 translate portuguese leavehouse_2c1dff99:
 
     # "One{w=1.0}{nw}"
-    ""
+    "Um{w=1.0}{nw}"
 
 # game/script.rpy:2615
 translate portuguese leavehouse_22d8c32c:
 
     # "Two{w=1.0}{nw}"
-    ""
+    "Dois{w=1.0}{nw}"
 
 # game/script.rpy:2616
 translate portuguese leavehouse_92f89d82:
 
     # "Three{w=1.0}{nw}"
-    ""
+    "Três{w=1.0}{nw}"
 
 # game/script.rpy:2617
 translate portuguese leavehouse_e5887f64:
 
     # "Four{w=1.0}{nw}"
-    ""
+    "Quatro{w=1.0}{nw}"
 
 # game/script.rpy:2618
 translate portuguese leavehouse_aa22ed83:
 
     # "Five{w=1.0}{nw}"
-    ""
+    "Cinco{w=1.0}{nw}"
 
 # game/script.rpy:2619
 translate portuguese leavehouse_1a955283:
 
     # "Six{w=1.0}{nw}"
-    ""
+    "Seis{w=1.0}{nw}"
 
 # game/script.rpy:2620
 translate portuguese leavehouse_82f5a21f:
 
     # m "And exhale~ phew"
-    m ""
+    m "E expira~ phew"
 
 # game/script.rpy:2621
 translate portuguese leavehouse_26e15393:
 
     # "Your perception of eight seconds is lacking, but ok..."
-    ""
+    "Sua percepção de oito segundos é meio ruim, mas ok..."
 
 # game/script.rpy:2622
 translate portuguese leavehouse_57eca9a6:
 
     # b "{sc=1}{color=#000000}Pheeeeew~"
-    b ""
+    b "{sc=1}{color=#000000}Pheeeeew~"
 
 # game/script.rpy:2623
 translate portuguese leavehouse_70a5633f:
 
     # m "Once more-"
-    m ""
+    m "Mais uma vez-"
 
 # game/script.rpy:2624
 translate portuguese leavehouse_811bc249:
 
     # b "I think I can hear your heartbeat."
-    b ""
+    b "Eu consigo ouvir seu coração."
 
 # game/script.rpy:2625
 translate portuguese leavehouse_03869c94:
 
     # m "Uh... is that good?"
-    m ""
+    m "Uh... isso é bom?"
 
 # game/script.rpy:2626
 translate portuguese leavehouse_6ec8c027:
 
     # b "It's nice... I want to listen to it more."
-    b ""
+    b "É bom... gostaria de ouví-lo mais."
 
 # game/script.rpy:2627
 translate portuguese leavehouse_570e8b40:
 
     # m "Well, fine, I guess? You have my permission to listen."
-    m ""
+    m "Tá, beleza, então? Te dou permissão pra ouví-lo."
 
 # game/script.rpy:2628
 translate portuguese leavehouse_850ef128_5:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:2630
 translate portuguese leavehouse_9b69f7f9:
 
     # b "%(player_name)s, why do you get to have more time than me?"
-    b ""
+    b "%(player_name)s, por que você vive mais do que eu?"
 
 # game/script.rpy:2631
 translate portuguese leavehouse_e51682c4:
 
     # m "No one gets to choose how long they have."
-    m ""
+    m "Ninguém escolhe o quanto vive."
 
 # game/script.rpy:2632
 translate portuguese leavehouse_89312099:
 
     # m "Who knows? I could even die tomorrow before you do. Car crash. Aneurysm. Bomb. Poisoning..."
-    m ""
+    m "Quem garante? Eu poderia morrer amanhã, antes de você. Acidente de carro. Aneurisma. Bomba. Veneno..."
 
 # game/script.rpy:2633
 translate portuguese leavehouse_c184c687:
 
     # m "You at least won the miracle of getting any life at all."
-    m ""
+    m "Pelo menos você pôde ter o acesso ao milagre da vida."
 
 # game/script.rpy:2634
 translate portuguese leavehouse_55de36f3:
 
     # m "Many animals don't even get as far as birth. They can die in the womb. Some die soon after from starvation or disease."
-    m ""
+    m "Muitos animais morrem no ventre sem nem mesmo nascer. Alguns morrem pouco depois de fome ou doença."
 
 # game/script.rpy:2635
 translate portuguese leavehouse_b816f190:
 
     # m "It could have been you. Like if I'd screwed up on watering you daily, you wouldn't even get the chance to be here."
-    m ""
+    m "Antedeguemon"
 
 # game/script.rpy:2636
 translate portuguese leavehouse_b8a9b49c:
