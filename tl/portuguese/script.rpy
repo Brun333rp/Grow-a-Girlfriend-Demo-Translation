@@ -4100,247 +4100,247 @@ translate portuguese leavehouse_c184c687:
 translate portuguese leavehouse_55de36f3:
 
     # m "Many animals don't even get as far as birth. They can die in the womb. Some die soon after from starvation or disease."
-    m "Muitos animais morrem no ventre sem nem mesmo nascer. Alguns morrem pouco depois de fome ou doença."
+    m "Muitos animais morrem no ventre sem sequer terem a chance de nascer. Alguns morrem pouco depois de fome ou doença."
 
 # game/script.rpy:2635
 translate portuguese leavehouse_b816f190:
 
     # m "It could have been you. Like if I'd screwed up on watering you daily, you wouldn't even get the chance to be here."
-    m "Antedeguemon"
+    m "Poderia ter sido você. Se eu tivesse deixado de te regar diariamente, você nem teria tido a chance de viver."
 
 # game/script.rpy:2636
 translate portuguese leavehouse_b8a9b49c:
 
     # m "So I'd say you're pretty lucky. You have a safe home, and a... um, person who cares for you."
-    m ""
+    m "Então eu diria que você é sortuda. Você tem uma casa e... bem, uma pessoa que se importa contigo."
 
 # game/script.rpy:2637
 translate portuguese leavehouse_ebace33b:
 
     # m "You get to enjoy your life and do whatever you want."
-    m ""
+    m "E você pode aproveitar sua vida e fazer o que quiser."
 
 # game/script.rpy:2638
 translate portuguese leavehouse_39acfbaf:
 
     # b "It's hard to feel very lucky right now."
-    b ""
+    b "É raro ter tanta sorte quanto agora."
 
 # game/script.rpy:2639
 translate portuguese leavehouse_c0796e1e:
 
     # m "Who knows if death is really the end? It could be the extension of the adventure. Maybe you'll get reincarnated."
-    m ""
+    m "Quem sabe se a morte é o fim? Poderia ser só o começo de uma nova aventura. Talvez você reencarne."
 
 # game/script.rpy:2640
 translate portuguese leavehouse_a4ed50f4:
 
     # m "It might actually be a good thing that you're a mushroom. You're so different, we don't even know if our death is the same as yours."
-    m ""
+    m "É possível que ser um cogumelo seja até bom. Você é tão diferente, e a gente nem sabe se a nossa morte, a humana, é igual a sua."
 
 # game/script.rpy:2641
 translate portuguese leavehouse_e7a9c8fd:
 
     # b "But you don't know."
-    b ""
+    b "Exato. Você não sabe."
 
 # game/script.rpy:2642
 translate portuguese leavehouse_df5a26bc:
 
     # m "Well, yeah. No one knows."
-    m ""
+    m "Bom, sim. Ninguém sabe."
 
 # game/script.rpy:2643
 translate portuguese leavehouse_e0d2460a:
 
     # b "So nothing is solved."
-    b ""
+    b "Então nada tá resolvido."
 
 # game/script.rpy:2644
 translate portuguese leavehouse_77fac951:
 
     # m "Button, I can't SOLVE the mystery of what happens after we die."
-    m ""
+    m "Botão, eu não tenho como RESOLVER o mistério do pós-vida."
 
 # game/script.rpy:2645
 translate portuguese leavehouse_6dd5a22e:
 
     # m "But I can reassure you that you'll have a life worth dying for. Isn't that the important part?"
-    m ""
+    m "Mas eu te garanto que você terá uma vida muito bem vivida. Afinal, não é isso que importa?"
 
 # game/script.rpy:2646
 translate portuguese leavehouse_1887f5b7:
 
     # b "...Yeah."
-    b ""
+    b "...Talvez."
 
 # game/script.rpy:2647
 translate portuguese leavehouse_b3008157:
 
     # m "Do you regret today? Going out?"
-    m ""
+    m "Você se arrependeu de sair hoje?"
 
 # game/script.rpy:2648
 translate portuguese leavehouse_28f22375:
 
     # b "No."
-    b ""
+    b "Não."
 
 # game/script.rpy:2649
 translate portuguese leavehouse_f395c08e:
 
     # m "Do you think you'd enjoy doing it again tomorrow?"
-    m ""
+    m "Você gostaria de fazer isso de novo amanhã?"
 
 # game/script.rpy:2650
 translate portuguese leavehouse_9e694855:
 
     # b "Probably."
-    b ""
+    b "Acho que sim."
 
 # game/script.rpy:2651
 translate portuguese leavehouse_c36be2be:
 
     # m "Well then..."
-    m ""
+    m "Bom, então..."
 
 # game/script.rpy:2652
 translate portuguese leavehouse_215dab59:
 
     # m "That's what we'll do. We'll do lots of things together. Anything and everything you want."
-    m ""
+    m "É isso que vamos fazer. Faremos várias coisas juntos. Tudo o que quiser, seja lá o que for."
 
 # game/script.rpy:2654
 translate portuguese leavehouse_cb7b89a7:
 
     # b "Thank you... %(player_name)s."
-    b ""
+    b "Obrigada... %(player_name)s."
 
 # game/script.rpy:2656
 translate portuguese leavehouse_29362efd:
 
     # m "Of course."
-    m ""
+    m "De nada."
 
 # game/script.rpy:2657
 translate portuguese leavehouse_8160f295:
 
     # m "Is there anything you still want to do today before I sleep?"
-    m ""
+    m "Tem mais alguma coisa que queira fazer antes de dormir?"
 
 # game/script.rpy:2658
 translate portuguese leavehouse_9b13a942:
 
     # b "...Hmm."
-    b ""
+    b "...Hmm."
 
 # game/script.rpy:2659
 translate portuguese leavehouse_385e0bf0:
 
     # b "You won't want to do it, but..."
-    b ""
+    b "Acho que isso te incomoda, mas..."
 
 # game/script.rpy:2660
 translate portuguese leavehouse_e35b9f11:
 
     # b "I want to..."
-    b ""
+    b "Eu queria..."
 
 # game/script.rpy:2661
 translate portuguese leavehouse_7c993651:
 
     # b "I still want to snuggle with you."
-    b ""
+    b "Eu queria continuar te abraçando."
 
 # game/script.rpy:2662
 translate portuguese leavehouse_33083b51:
 
     # m "Oh..."
-    m ""
+    m "Ah..."
 
 # game/script.rpy:2663
 translate portuguese leavehouse_8da3c09f:
 
     # b "I won't do anything weird. I promise. You can fall asleep. Just let me lie next to you..."
-    b ""
+    b "Não farei nada estranho. Prometo. Pode dormir à vontade. Só deixa eu deitar perto de você..."
 
 # game/script.rpy:2667
 translate portuguese leavehouse_a8c1bda0:
 
     # b "So I'm not... alone."
-    b ""
+    b "Pra eu não... ficar sozinha."
 
 # game/script.rpy:2668
 translate portuguese leavehouse_94a1811a:
 
     # b "Please?"
-    b ""
+    b "Por favor?"
 
 # game/script.rpy:2669
 translate portuguese leavehouse_3f1d2ce0:
 
     # "At the sound of impending tears, you immediately agree."
-    ""
+    "Ao vê-la prestes a chorar, você concorda na hora."
 
 # game/script.rpy:2670
 translate portuguese leavehouse_efa96788:
 
     # m "It's ok. We can lie down together if it'll help."
-    m ""
+    m "Tá bem. A gente pode deitar juntos se isso ajuda."
 
 # game/script.rpy:2672
 translate portuguese leavehouse_77f13472:
 
     # b "It will. Thank you."
-    b ""
+    b "Ajuda sim. Obrigada."
 
 # game/script.rpy:2676
 translate portuguese leavehouse_97484721:
 
     # "You lie down awkwardly in your bed, facing straight up. Button lies down right next to you, then looks at you."
-    ""
+    "Você se deita desajeitadamente enquanto olha pra cima. A Botão se deita logo ao seu lado, e então olha pra você."
 
 # game/script.rpy:2677
 translate portuguese leavehouse_91bd79e5:
 
     # b "Sorry about this."
-    b ""
+    b "Desculpa por isso."
 
 # game/script.rpy:2678
 translate portuguese leavehouse_1d697240:
 
     # m "No, it's ok. Is this fine with you?"
-    m ""
+    m "Relaxa. Desse jeito tá bom?"
 
 # game/script.rpy:2679
 translate portuguese leavehouse_e3501400:
 
     # b "Could we... hug?"
-    b ""
+    b "Então podemos... abraçar?"
 
 # game/script.rpy:2680
 translate portuguese leavehouse_d9da6261:
 
     # "Well... you can't refuse after what she just went through."
-    ""
+    "Bom... depois de tudo isso, não dá pra você recusar."
 
 # game/script.rpy:2681
 translate portuguese leavehouse_f598410b:
 
     # "So you turn to her, open your arms, and Button scoots right into them, placing her head on your arm."
-    ""
+    "De braços abertos, você vira pra ela, e a Botão se aproxima, posicionando a cabeça em um braço seu."
 
 # game/script.rpy:2682
 translate portuguese leavehouse_8c4c592f:
 
     # "You can feel her body move within your arms as she breathes."
-    ""
+    "Você sente o corpo dela se mexendo enquanto ela respira."
 
 # game/script.rpy:2683
 translate portuguese leavehouse_4ccfd13d:
 
     # "True to her word, she doesn't do anything but lie there quietly."
-    ""
+    "Antedeguemon"
 
 # game/script.rpy:2684
 translate portuguese leavehouse_1c017591:
