@@ -1994,7 +1994,7 @@ translate portuguese about_502770b2:
 translate portuguese about_069170db:
 
     # "How \"{sc=2}{color=#000000}ADORABLE\"{/sc} you are!? HAHAHAHAHAH! Your fragile masculinity REALLY didn't want to hear that!"
-    "Quão \"{sc=2}{color=#000000}ADORÁVEL\"{/sc} você é!? HAHAHAHAHAH! Seu ego frágil NÃO QUERIA ter ouvido isso!"
+    "Quão \"{sc=2}{color=#000000}ADORÁVEL\"{/sc} você é!? HAHAHAHAHAH! Você DEFINITIVAMENTE não esperava que iria ouvir isso!"
 
 # game/script.rpy:1720
 translate portuguese about_a951b22b:
@@ -2618,7 +2618,7 @@ translate portuguese why_choose_dddb5409:
 translate portuguese why_choose_7a0ada2e:
 
     # m "There's a field I know. It's a nice place... especially at sunset."
-    m "Tem um gramado aqui perto. É um ótimo lugar... ainda mais no pôr do sol."
+    m "Tem um campo aqui perto. É um ótimo lugar... ainda mais no pôr do sol."
 
 # game/script.rpy:1946
 translate portuguese why_choose_29915be0:
@@ -2762,805 +2762,805 @@ translate portuguese bored_3a54c8d7:
 translate portuguese bored_20dc3d69:
 
     # m "Let's just go to this place I know. It's close. Hardly anyone else goes there, so I can handle it."
-    m "Antedeguemon"
+    m "Vamos pra um lugar que eu conheço. É aqui perto. Quase ninguém vai lá, então dá pra eu aguentar."
 
 # game/script.rpy:1997
 translate portuguese bored_9353ac11:
 
     # m "I just hope no one stares at us..."
-    m ""
+    m "Só espero que ninguém encare a gente..."
 
 # game/script.rpy:1999
 translate portuguese bored_4075cec0:
 
     # b "YAAAAAY!"
-    b ""
+    b "EBAAAAA!"
 
 # game/script.rpy:2007
 translate portuguese bored_1344ad5d:
 
     # "In times like this, you tend to imagine how it would all happen:"
-    ""
+    "Em situações como essa, você tende a imaginar como tudo iria ocorrer:"
 
 # game/script.rpy:2009
 translate portuguese bored_d53584ec:
 
     # "You and Button would walk out the door."
-    ""
+    "Você e a Botão sairiam pela porta."
 
 # game/script.rpy:2011
 translate portuguese bored_fa1c4e9c:
 
     # "People would stare."
-    ""
+    "As pessoas encarariam."
 
 # game/script.rpy:2012
 translate portuguese bored_fe6cc16f:
 
     # "The warden would approach."
-    ""
+    "O guarda do condomínio faria uma abordagem."
 
 # game/script.rpy:2013
 translate portuguese bored_1e5a3b52:
 
     # "\"Who is she? Why didn't you sign her in? How long has she been living here?\""
-    ""
+    "\"Quem é ela? Por que ela não está nos registros? A quanto tempo ela mora aqui?\""
 
 # game/script.rpy:2014
 translate portuguese bored_08eb04eb:
 
     # "The honest truth would make him chuckle, then he'll ask for the REAL answer."
-    ""
+    "A explicação honesta faria ele rir, e então pedir pela explicação VERDADEIRA."
 
 # game/script.rpy:2015
 translate portuguese bored_bf3480f1:
 
     # "You'd freeze to the spot. You already did!"
-    ""
+    "Você ficaria paralizado. Você já deu a explicação!"
 
 # game/script.rpy:2016
 translate portuguese bored_8d2f5d8f:
 
     # "Are you ready to lie to his face?"
-    ""
+    "Estaria pronto pra mentir na cara dele?"
 
 # game/script.rpy:2017
 translate portuguese bored_29b26f92:
 
     # "You'd stumble. You'd panic."
-    ""
+    "Você se atrapalharia. Ficaria em pânico."
 
 # game/script.rpy:2018
 translate portuguese bored_31c86ad7:
 
     # "Maybe they wouldn't even allow Button back."
-    ""
+    "Talvez eles nem deixariam a Botão voltar."
 
 # game/script.rpy:2019
 translate portuguese bored_838b0c1f:
 
     # "All this, without even making it through the front door."
-    ""
+    "Tudo isso, sem nem passar pela porta da frente."
 
 # game/script.rpy:2024
 translate portuguese bored_a471cbaf:
 
     # "Everything is overwhelming."
-    ""
+    "Tudo ficaria tão insustentável."
 
 # game/script.rpy:2028
 translate portuguese bored_7746fc31:
 
     # m "I can't! What if someone realises what you are!?"
-    m ""
+    m "Eu não posso! E se alguém descobrir o que você é!?"
 
 # game/script.rpy:2029
 translate portuguese bored_64de92e0:
 
     # m "You're weird! You're conspicuous! What if they try to TALK to us!?"
-    m ""
+    m "Você é estranha! Você é extravagante! E se tentarem FALAR com a gente!?"
 
 # game/script.rpy:2031
 translate portuguese bored_af671f4e:
 
     # b "No problem, I'm happy to talk."
-    b ""
+    b "Sem problema, eu gosto de conversar."
 
 # game/script.rpy:2033
 translate portuguese bored_fbddf676:
 
     # m "What will you tell them? You think they'll let you go if you tell them THAT YOU'RE A MUSHROOM!?"
-    m ""
+    m "O que você vai dizer? Acha que te deixarão passar se você disser QUE É UM COGUMELO!?"
 
 # game/script.rpy:2035
 translate portuguese bored_6a0400d9:
 
     # b "I doubt anyone would care anyway! No one would-"
-    b ""
+    b "Eu duvido que alguém se importaria! Ninguém iria-"
 
 # game/script.rpy:2039
 translate portuguese bored_280cfa51:
 
     # m "BUT WHAT IF THEY DO!? THEY WON'T BELIEVE YOU! EVEN IF WE TELL THEM THE TRUTH! THEY'LL LAUGH!"
-    m ""
+    m "MAS E SE ISSO ACONTECER!? NINGUÉM VAI ACREDITAR! MESMO DIZENDO A VERDADE! ELES VÃO RIR!"
 
 # game/script.rpy:2041
 translate portuguese bored_5da9289e:
 
     # b "Stop interrupting me-"
-    b ""
+    b "Para de me interromper-"
 
 # game/script.rpy:2043
 translate portuguese bored_6f9c4da2:
 
     # m "WHAT DO YOU KNOW!? YOU'VE JUST BEEN BORN!"
-    m ""
+    m "VAI SE FAZER DE ESPERTA!? VOCÊ ACABOU DE NASCER!"
 
 # game/script.rpy:2045
 translate portuguese bored_ec60ada7:
 
     # b "%(player_name)s-"
-    b ""
+    b "%(player_name)s-"
 
 # game/script.rpy:2047
 translate portuguese bored_56f10bdc:
 
     # m "{size=+40}I'M NOT GOING OUTSIDE!{size=-40}" with sshake
-    m "" with sshake
+    m "{size=+40}EU NÃO VOU LÁ FORA!{size=-40}" with sshake
 
 # game/script.rpy:2050
 translate portuguese bored_850ef128:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:2052
 translate portuguese bored_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:2055
 translate portuguese bored_00440fe4:
 
     # "Panic drives you into the bed, where you hide your face under the covers."
-    ""
+    "O pânico te joga na cama, e você esconde sua cara nas cobertas."
 
 # game/script.rpy:2059
 translate portuguese bored_c3579bcd:
 
     # "You failed her sole request."
-    ""
+    "Você não atendeu ao único pedido dela."
 
 # game/script.rpy:2060
 translate portuguese bored_9bef8b95:
 
     # "You've disappointed her."
-    ""
+    "Você decepcionou ela."
 
 # game/script.rpy:2064
 translate portuguese bored_7f8af07d:
 
     # "You can't help her."
-    ""
+    "Você não consegue ajudá-la."
 
 # game/script.rpy:2065
 translate portuguese bored_556cd05b:
 
     # "You can't even help yourself."
-    ""
+    "Você não consegue sequer ajudar a si mesmo".
 
 # game/script.rpy:2066
 translate portuguese bored_037e8119:
 
     # "What use are you?"
-    ""
+    "O que você é?"
 
 # game/script.rpy:2067
 translate portuguese bored_bf23eb34:
 
     # "Nobody needs you."
-    ""
+    "Ninguém precisa de você."
 
 # game/script.rpy:2069
 translate portuguese bored_cb232bf0:
 
     # "You hold everyone back. You depress them. You can't talk. You can't even fake a smile for them."
-    ""
+    "Você atrasa todo mundo. Você os deprime. Não consegue conversar. Nem mesmo fingir um sorriso."
 
 # game/script.rpy:2071
 translate portuguese bored_ab5bd9aa:
 
     # "You feel the bed shift under new weight as Button sits at the foot of your bed."
-    ""
+    "Você sente um peso extra enquanto a Botão se senta aos pés da sua cama."
 
 # game/script.rpy:2072
 translate portuguese bored_618a6f45:
 
     # b "%(player_name)s... What's wrong? Why are you so upset all of a sudden?"
-    b ""
+    b "%(player_name)s... O que foi? Por que tá tão nervoso de repente?"
 
 # game/script.rpy:2073
 translate portuguese bored_b3658b2c:
 
     # b "Come on! Let's just talk it out! We can figure this out together."
-    b ""
+    b "Qual é! Vamos conversar! Podemos resolver isso juntos."
 
 # game/script.rpy:2074
 translate portuguese bored_716a41d2:
 
     # m "I don't want to talk to anyone right now! I just want to be alone."
-    m ""
+    m "Eu não quero falar com ninguém agora! Eu só quero ficar sozinho."
 
 # game/script.rpy:2075
 translate portuguese bored_850ef128_1:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:2076
 translate portuguese bored_9ed6f325:
 
     # b "But aren't you're just going to feel worse?"
-    b ""
+    b "Mas isso não vai fazer você se sentir pior?"
 
 # game/script.rpy:2079
 translate portuguese bored_494836f1:
 
     # "That's the plan, isn't it? You want to hurt yourself even more."
-    ""
+    "Esse é o plano, não? Você quer machucar mais e mais a si mesmo."
 
 # game/script.rpy:2080
 translate portuguese bored_20290c6e:
 
     # "You want to crash your whole plane down to the ground."
-    ""
+    "Você quer jogar o avião no chão e acabar com tudo."
 
 # game/script.rpy:2081
 translate portuguese bored_d357933c:
 
     # b "Can you just tell me what's going on? This feels so unnecessary. I just want to help you...!"
-    b ""
+    b "Poderia me dizer o que tá acontecendo? Isso tudo é tão desnecessário. Eu só quero te ajudar...!"
 
 # game/script.rpy:2082
 translate portuguese bored_3c2d8679:
 
     # b "It's not good for you... At least look at me?"
-    b ""
+    b "Isso não é bom pra você... Pelo menos olha pra mim!"
 
 # game/script.rpy:2083
 translate portuguese bored_207f203d:
 
     # b "Please? We don't have to go out. It's okay!"
-    b ""
+    b "Por favor! Não precisamos sair. Tá tudo bem!"
 
 # game/script.rpy:2086
 translate portuguese bored_1263e952:
 
     # "Ouch."
-    ""
+    "Ai."
 
 # game/script.rpy:2089
 translate portuguese bored_a7158c49:
 
     # "So you've made her resign herself to staying here?"
-    ""
+    "Quer dizer então que você fez ela desistir de sair?"
 
 # game/script.rpy:2092
 translate portuguese bored_2c918071:
 
     # "Now you really wanna-"
-    ""
+    "Agora você realmente-"
 
 # game/script.rpy:2107
 translate portuguese bored_31d0ee24:
 
     # b "CAN YOU STOP!?" with sshake
-    b "" with sshake
+    b "PODE PARAR!?" with sshake
 
 # game/script.rpy:2108
 translate portuguese bored_23d82c2b:
 
     # b "Stop {sc=1}{color=#000000}mumbling{/sc} to yourself about-!"
-    b ""
+    b "Para de ficar {sc=1}{color=#000000}resmungando{/sc} consi-!"
 
 # game/script.rpy:2109
 translate portuguese bored_6ef682cb:
 
     # b "{sc=5}{color=#000000}STOP SAYING ALL THAT!!!{/sc}" with sshake
-    b "" with sshake
+    b "{sc=5}{color=#000000}PARA DE DIZER ESSAS COISAS!!!{/sc}" with sshake
 
 # game/script.rpy:2116
 translate portuguese bored_4a074507:
 
     # b "You hate it if we go, you hate it if we don't!"
-    b ""
+    b "Você odeia se a gente for, odeia se a gente não for!"
 
 # game/script.rpy:2117
 translate portuguese bored_02994ad0:
 
     # b "You hate if I try to help - you hate yourself if I don't!"
-    b ""
+    b "Odeia se eu tento ajudar, e odeia a si mesmo se eu não tento!"
 
 # game/script.rpy:2119
 translate portuguese bored_882e183b:
 
     # b "You're impossible! You're just - {sc=4}{color=#000000}URGGHHH!{/color}{/sc}"
-    b ""
+    b "Você é impossível! Você é - {sc=4}{color=#000000}URGGHHH!{/color}{/sc}"
 
 # game/script.rpy:2121
 translate portuguese bored_2b69434c:
 
     # b "I just can't WIN! There's NOTHING I can do!"
-    b ""
+    b "Simplesmente NÃO DÁ! Não tem NADA que eu possa fazer!"
 
 # game/script.rpy:2122
 translate portuguese bored_e612037c_1:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:2124
 translate portuguese bored_1a8cbe97:
 
     # m "I didn't realise... I was talking outloud..."
-    m ""
+    m "Eu não... percebi... que eu tava falando em voz alta..."
 
 # game/script.rpy:2126
 translate portuguese bored_d12b7f36:
 
     # b "You keep {i}doing it{/i}. All this awful, self-deprecating muttering..."
-    b ""
+    b "Você faz isso {i}sempre{/i}. O tempo todo esse murmúrio horrível e auto-depreciativo..."
 
 # game/script.rpy:2127
 translate portuguese bored_850ef128_2:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:2129
 translate portuguese bored_b921d761:
 
     # b "I'm at my wits' end. I'm not spending the rest of my life like THIS!"
-    b ""
+    b "Eu tô perdendo a cabeça. Eu não vou passar o resto da minha vida ASSIM!"
 
 # game/script.rpy:2130
 translate portuguese bored_64d532e5:
 
     # b "I just need someone who'll have fun with me and show me the nice things life has to offer."
-    b ""
+    b "Eu só queria alguém com quem me divertir e que me mostrasse as coisas belas da vida."
 
 # game/script.rpy:2132
 translate portuguese bored_24f749c9:
 
     # b "I thought... it'd be easy, but... maybe it isn't after all."
-    b ""
+    b "Eu pensei... que seria fácil, mas... talvez não seja, afinal."
 
 # game/script.rpy:2134
 translate portuguese bored_4b0fbe50:
 
     # b "So if it isn't for you, I understand. I just need to know."
-    b ""
+    b "Então se isso não é pra você, eu entendo. Mas eu quero saber."
 
 # game/script.rpy:2136
 translate portuguese bored_b24fb94d:
 
     # b "Are you going to be that person, or not?"
-    b ""
+    b "Você vai ser essa pessoa, ou não?"
 
 # game/script.rpy:2147
 translate portuguese fakechoseychoice_35809d0d:
 
     # m "I-"
-    m ""
+    m "Eu-"
 
 # game/script.rpy:2166
 translate portuguese fakechoseychoice_ae6cc62c:
 
     # m "I'm sorry."
-    m ""
+    m "Sinto muito."
 
 # game/script.rpy:2173
 translate portuguese fakechoseychoice_850ef128:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:2175
 translate portuguese fakechoseychoice_ca330b6f:
 
     # b "I... see..."
-    b ""
+    b "Eu... entendo..."
 
 # game/script.rpy:2176
 translate portuguese fakechoseychoice_2fc84538:
 
     # b "Then..."
-    b ""
+    b "Então..."
 
 # game/script.rpy:2178
 translate portuguese fakechoseychoice_3dab6ca9:
 
     # b "Goodbye."
-    b ""
+    b "Adeus."
 
 # game/script.rpy:2259
 translate portuguese leavehouse_98ff3a29:
 
     # "You and Button leave the dormitory without incident, and stroll down the sidewalk to the nearby field."
-    ""
+    "Você e a Botão saem do dormitório sem incidentes, e caminham pela calçada até o campo próximo."
 
 # game/script.rpy:2260
 translate portuguese leavehouse_8e775b82:
 
     # "She stares at EVERYTHING - buildings, sidewalks, recycling bins, cars... she even smiles and waves to passing people! Ugh."
-    ""
+    "Ela olha pra TUDO - prédios, calçadas, lixeiras, carros... ela até sorri e acena pros pedestres! Ugh."
 
 # game/script.rpy:2261
 translate portuguese leavehouse_6a701210:
 
     # "It's too obvious. It's embarrassing."
-    ""
+    "Tá tão óbvio. É constrangendor."
 
 # game/script.rpy:2262
 translate portuguese leavehouse_c15826b1:
 
     # "You don't talk to her, and you keep an appropriate distance so you could pass off as strangers."
-    ""
+    "Você não dirige a palavra, e mantém distância apropriada pra parecer que vocês não se conhecem."
 
 # game/script.rpy:2263
 translate portuguese leavehouse_4e261b0f:
 
     # "One passerby compliments her \"cosplay\". She beams back confusedly. You'll have to explain the concept later."
-    ""
+    "Um transeunte elogia o \"cosplay\" dela. Confusa, ela sorri de volta. Você terá que explicar o conceito pra ela depois."
 
 # game/script.rpy:2264
 translate portuguese leavehouse_7e2c269a:
 
     # "You're just grateful nobody talks to YOU."
-    ""
+    "É um alívio que ninguém fala COM VOCÊ."
 
 # game/script.rpy:2274
 translate portuguese leavehouse_870d826d:
 
     # "Finally, you arrive at the field. There're only two kids and a dog, playing at the opposite end of the field."
-    ""
+    "Em fim, vocês chegam no campo. Só tem duas crianças e um cão, brincando ao longe no campo."
 
 # game/script.rpy:2275
 translate portuguese leavehouse_8cc85c82:
 
     # "As you gaze up at the orange-tinted sky, you feel a hint of peace, but you're also continuously keeping an anxious eye on Button."
-    ""
+    "Ao olhar pro céu alaranjado, você sente um pouco de paz, mas mantendo continuamente um olhar ansioso sob a Botão."
 
 # game/script.rpy:2276
 translate portuguese leavehouse_3bf8734f:
 
     # "She watches the children from afar and mimics their play, rolling around on the hills and screaming with delight."
-    ""
+    "Ela observa as crianças de longe e imita a brincadeira delas, rolando pelas colinas e gritando de alegria."
 
 # game/script.rpy:2277
 translate portuguese leavehouse_c32f17ee:
 
     # "Gradually, you're able to relax your worries."
-    ""
+    "Gradualmente, suas preocupações diminuem."
 
 # game/script.rpy:2282
 translate portuguese leavehouse_fd718669:
 
     # b "Come roll with me, %(player_name)s!"
-    b ""
+    b "Rola no chão comigo, %(player_name)s!"
 
 # game/script.rpy:2284
 translate portuguese leavehouse_15911943:
 
     # m "Your clothes are going to get dirty."
-    m ""
+    m "As suas roupas vão ficar sujas."
 
 # game/script.rpy:2286
 translate portuguese leavehouse_eb809b9f:
 
     # b "Then get dirty WITH ME!"
-    b ""
+    b "Então vem se sujar COMIGO!"
 
 # game/script.rpy:2287
 translate portuguese leavehouse_bbb136c8:
 
     # "She tugs on your hoodie forcibly, and you tumble sideways with her."
-    ""
+    "Ela puxa seu moletom com força, e você cai do lado dela."
 
 # game/script.rpy:2291
 translate portuguese leavehouse_f8a4e96c:
 
     # "Yup... You're dirty now, so you may as well join in..."
-    ""
+    "É... Você tá sujo agora, o que é um peido pra quem já tá cagado?"
 
 # game/script.rpy:2292
 translate portuguese leavehouse_11ae7d6f:
 
     # "The both of you roll down the hill. Despite your initial dislike of the childish activity, you've got to admit:"
-    ""
+    "Vocês dois se rolam morro abaixo. Apesar do seu desgosto inicial com a brincadeira infantil, você deve admitir:"
 
 # game/script.rpy:2293
 translate portuguese leavehouse_39777f36:
 
     # "It's pretty fun!"
-    ""
+    "É bem divertido!"
 
 # game/script.rpy:2295
 translate portuguese leavehouse_579279ea:
 
     # "Then, while you're both lying down catching your breath, the dog you noticed earlier comes over and sniffs Button cautiously."
-    ""
+    "Ainda no chão, enquanto vocês recuperam o fôlego, o cachorro de antes se aproxima e começa a cheirar a Botão."
 
 # game/script.rpy:2301
 translate portuguese leavehouse_55565e81:
 
     # b "{sc=4}{color=#000000}HELP! IT'S EATING ME!!! I DON'T WANT TO DIE YET!"
-    b ""
+    b "{sc=4}{color=#000000}SOCORRO! ELE TÁ ME COMENDO!!! EU NÃO QUERO MORRER AINDA!"
 
 # game/script.rpy:2303
 translate portuguese leavehouse_9661d7fa:
 
     # m "Calm down! It's not dangerous, I promise! He just sniffing you."
-    m ""
+    m "Calma, calma! Ele não é perigoso! Ele só tá te cheirando."
 
 # game/script.rpy:2308
 translate portuguese leavehouse_c3372dc8:
 
     # b "Eeeek! It's eating me! {sc=4}{color=#000000}HELP!"
-    b ""
+    b "Aaaah! Ele tá me comendo! {sc=4}{color=#000000}SOCORRO!"
 
 # game/script.rpy:2310
 translate portuguese leavehouse_8e798c79:
 
     # m "No, it's just sniffing. Look."
-    m ""
+    m "Não, ele só tá te cheirando. Olha."
 
 # game/script.rpy:2312
 translate portuguese leavehouse_ecafd323:
 
     # "You hold out your hand, and the dog gives it a quick sniff too, before returning to Button."
-    ""
+    "Você estende a mão, o cachorro cheira um pouco, e depois volta a cheirar a Botão."
 
 # game/script.rpy:2314
 translate portuguese leavehouse_51436d61:
 
     # b "What is it...?"
-    b ""
+    b "O que é isso...?"
 
 # game/script.rpy:2315
 translate portuguese leavehouse_3de7d0f3:
 
     # m "Just a friendly dog. Try pet him."
-    m ""
+    m "É um cachorro. Tenta acariciar ele."
 
 # game/script.rpy:2317
 translate portuguese leavehouse_5f28383c:
 
     # b "Oooh! It's so... fluffy?"
-    b ""
+    b "Oooh! É tão... macio?"
 
 # game/script.rpy:2319
 translate portuguese leavehouse_bbee761e:
 
     # b "Why's he sniffing so much!? Hehe!"
-    b ""
+    b "Tá me cheirando tanto! Hihi!"
 
 # game/script.rpy:2321
 translate portuguese leavehouse_e0216305:
 
     # m "He's probably not sure what you are... haha."
-    m ""
+    m "Provavelmente ele não sabe o que você é... haha."
 
 # game/script.rpy:2324
 translate portuguese leavehouse_2fad6346:
 
     # "Eventually, the dog's owners call him back and he trots away. You both leave soon after."
-    ""
+    "Eventualmente, os donos do cão o chamam e ele sai correndo. Vocês saem logo em seguida."
 
 # game/script.rpy:2361
 translate portuguese leavehouse_2bf3bbf1:
 
     # b "The outside is AMAZING!"
-    b ""
+    b "Aqui fora é INCRÍVEL!"
 
 # game/script.rpy:2363
 translate portuguese leavehouse_383bd91f:
 
     # b "How often a day do you usually go?"
-    b ""
+    b "Com que frequência você sai?"
 
 # game/script.rpy:2365
 translate portuguese leavehouse_838b670d:
 
     # m "How often a DAY? Um..."
-    m ""
+    m "Com que FREQUÊNCIA? Uhm..."
 
 # game/script.rpy:2367
 translate portuguese leavehouse_3f6e235a:
 
     # b "Ughh, I just wanna go out again!"
-    b ""
+    b "Espero poder sair de novo!"
 
 # game/script.rpy:2369
 translate portuguese leavehouse_1635c1cc:
 
     # m "(She looks happier.)"
-    m ""
+    m "(Ela parece mais feliz.)"
 
 # game/script.rpy:2371
 translate portuguese leavehouse_63ca3b20:
 
     # m "(And less depressed. That's good.)"
-    m ""
+    m "(E menos deprimida. Isso é bom.)"
 
 # game/script.rpy:2372
 translate portuguese leavehouse_87db3568:
 
     # m "I'm glad you had a good time..."
-    m ""
+    m "Fico feliz que tenha se divertido..."
 
 # game/script.rpy:2375
 translate portuguese leavehouse_28c414aa:
 
     # b "What do you wanna do now?"
-    b ""
+    b "O que quer fazer agora?"
 
 # game/script.rpy:2377
 translate portuguese leavehouse_3b89fb22:
 
     # m "(She STILL wants to do something? Man, can't she just leave already?)"
-    m ""
+    m "(Ela AINDA quer fazer algo? Cara, ela não consegue ficar parada?)"
 
 # game/script.rpy:2379
 translate portuguese leavehouse_50fa5fcb:
 
     # m "Now?... Um, just lie down and recharge, honestly. If that's ok."
-    m ""
+    m "Agora?... Uhm, só parar um pouco e descançar. Se isso for ok."
 
 # game/script.rpy:2381
 translate portuguese leavehouse_898e97f4:
 
     # b "You're sleepy?"
-    b ""
+    b "Tá com soninho?"
 
 # game/script.rpy:2383
 translate portuguese leavehouse_78f1208b:
 
     # m "More like... I need to relax for a while after all the excitement."
-    m ""
+    m "Não é isso... Só quero descançar um pouco depois de tanta atividade."
 
 # game/script.rpy:2385
 translate portuguese leavehouse_72517409:
 
     # b "Then let's lie down together! A lil snuggie will help you recharge!"
-    b ""
+    b "Então vamos descançar juntos! Um abraço ajuda a recarregar!"
 
 # game/script.rpy:2387
 translate portuguese leavehouse_28bd1877:
 
     # m "What? Ugh... I told you-"
-    m ""
+    m "Que? Ugh... Eu já disse-"
 
 # game/script.rpy:2389
 translate portuguese leavehouse_f53e8b7a:
 
     # b "Just as homies! Promise!"
-    b ""
+    b "Como amigos! Prometo!"
 
 # game/script.rpy:2391
 translate portuguese leavehouse_36f8716d:
 
     # m "I don't have the energy for this..."
-    m ""
+    m "Eu não tenho energia pra isso..."
 
 # game/script.rpy:2392
 translate portuguese leavehouse_873fffe4:
 
     # "But before you can walk away, Button stops you."
-    ""
+    "Mas antes que desse pra sair, a Botão te para."
 
 # game/script.rpy:2394
 translate portuguese leavehouse_e5fff30b:
 
     # b "Wait..."
-    b ""
+    b "Espera..."
 
 # game/script.rpy:2395
 translate portuguese leavehouse_99838781:
 
     # b "There's something I need to ask you."
-    b ""
+    b "Tem algo que preciso perguntar."
 
 # game/script.rpy:2397
 translate portuguese leavehouse_e9a00f13:
 
     # m "What?"
-    m ""
+    m "O que é?"
 
 # game/script.rpy:2399
 translate portuguese leavehouse_f65082e1:
 
     # b "You're probably hungry after going out, huh?"
-    b ""
+    b "Provavelmente você tá com fome, não?"
 
 # game/script.rpy:2400
 translate portuguese leavehouse_8b3db82d:
 
     # b "So I wanted to ask... are you planning to eat me tonight?"
-    b ""
+    b "Então eu queria saber... você vai me comer essa noite?"
 
 # game/script.rpy:2407
 translate portuguese leavehouse_0815eac5:
 
     # "You are feeling pretty hungry after all of that rolling."
-    ""
+    "(Lá ele) Você tá com muita fome depois de rolar tanto."
 
 # game/script.rpy:2409
 translate portuguese leavehouse_29cf8eeb:
 
     # m "But... is that really ok with you?"
-    m ""
+    m "Mas... tá tudo bem pra você?"
 
 # game/script.rpy:2412
 translate portuguese leavehouse_850ef128:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:2414
 translate portuguese leavehouse_8a30337d:
 
     # b "I don't know anymore."
-    b ""
+    b "Eu não sei mais."
 
 # game/script.rpy:2415
 translate portuguese leavehouse_ba512a91:
 
     # b "It's kind of scary..."
-    b ""
+    b "É meio assustador..."
 
 # game/script.rpy:2417
 translate portuguese leavehouse_f0e65af4:
 
     # b "Could you... not...? Is that ok?"
-    b ""
+    b "Poderia... não fazer isso...?"
 
 # game/script.rpy:2419
 translate portuguese leavehouse_c9f79871:
 
     # m "Hey, I'm not a psychopath. Of course it's ok."
-    m ""
+    m "Ei, eu não sou um psicopata. É claro que não."
 
 # game/script.rpy:2421
 translate portuguese leavehouse_d8e6231a:
 
     # b "YAAAAAAAY!~" with sshake
-    b "" with sshake
+    b "EBAAAAAAA!~" with sshake
 
 # game/script.rpy:2422
 translate portuguese leavehouse_9af82a0c:
 
     # b "I get to live!"
-    b ""
+    b "Eu vou viver!"
 
 # game/script.rpy:2424
 translate portuguese leavehouse_ea318c94:
 
     # m "If you were gonna be THAT relieved, you shouldn't have offered in the first place."
-    m ""
+    m "Se você ficou TÃO aliviada, não era pra ter se oferecido pra começo de conversa."
 
 # game/script.rpy:2426
 translate portuguese leavehouse_5b3538f9:
 
     # b "Ahh... now I can look forward to going out more and seeing everything outside! There's so much! I can't wait!"
-    b ""
+    b "Antedeguemon"
 
 # game/script.rpy:2428
 translate portuguese leavehouse_84088558:
 
     # m "Whoa whoa whoa... We never discussed this."
-    m ""
+    m "Opa opa oap... A gente nunca falou disso."
 
 # game/script.rpy:2430
 translate portuguese leavehouse_64590162:
