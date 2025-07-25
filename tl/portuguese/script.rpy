@@ -4580,145 +4580,145 @@ translate portuguese day_2_6e38d58b:
 translate portuguese day_2_c46c0332:
 
     # m "Yup."
-    m "Antedeguemon"
+    m "Claro."
 
 # game/script.rpy:2818
 translate portuguese day_2_5d8ea196:
 
     # b "Do you think we'll see another dog today?"
-    b ""
+    b "Será que veremos outro cachorro hoje?"
 
 # game/script.rpy:2820
 translate portuguese day_2_c22f1a5a:
 
     # m "I'll make sure you do. We're going somewhere even better than yesterday."
-    m ""
+    m "Garanto que sim. Nós vamos pra um lugar bem melhor que o de ontem."
 
 # game/script.rpy:2822
 translate portuguese day_2_e4a1e7fa:
 
     # b "Eeek! Now I'm actually getting excited!"
-    b ""
+    b "Ah, agora tô animada de verdade!"
 
 # game/script.rpy:2827
 translate portuguese day_2_0c357a6b:
 
     # b "Good mooooorning, %(player_name)s!"
-    b ""
+    b "Booooooooom dia, %(player_name)s!"
 
 # game/script.rpy:2828
 translate portuguese day_2_29c2d06f:
 
     # m "It wasn't a dream!?"
-    m ""
+    m "Não foi um sonho!?"
 
 # game/script.rpy:2830
 translate portuguese day_2_d27541ca:
 
     # b "Luckily for you and me! Now we can have another amazing day!"
-    b ""
+    b "Felizmente não foi! Agora podemos ter outro dia incrível!"
 
 # game/script.rpy:2832
 translate portuguese day_2_517e98bd:
 
     # m "I'm honestly just shocked. I think at some point, I just... went with the flow of things, thinking I'd wake up from it all."
-    m ""
+    m "Tô genuinamente em choque. Eu devo ter... \"voltado\" a rotina de antes, achando que aquilo fosse um sonho do qual eu acordaria."
 
 # game/script.rpy:2834
 translate portuguese day_2_98e3aac4:
 
     # b "Oh! I wanted to ask-"
-    b ""
+    b "Ah! Eu quria perguntar-"
 
 # game/script.rpy:2836
 translate portuguese day_2_c26e4d45:
 
     # m "{sc=4}{color=#000000}WHAT ARE YOU DOING IN MY BED!?"
-    m ""
+    m "{sc=4}{color=#000000}POR QUE VOCÊ TÁ NA MINHA CAMA!?"
 
 # game/script.rpy:2838
 translate portuguese day_2_5002405a:
 
     # b "Eeeek~! I'm sorry! I'm sorry! Just don't shout at me!"
-    b ""
+    b "Aaaah~! Desculpa! Desculpa! Não precisa gritar comigo!"
 
 # game/script.rpy:2841
 translate portuguese day_2_ff69f180:
 
     # m "Sorry for shouting, but you CANNOT be in my bed right now!"
-    m ""
+    m "Foi mal por gritar, mas você NÃO PODE ficar na minha cama!"
 
 # game/script.rpy:2843
 translate portuguese day_2_953be149:
 
     # m "Ah."
-    m ""
+    m "Ah."
 
 # game/script.rpy:2844
 translate portuguese day_2_ff9d9748:
 
     # m "Don't tell me you slept in here last night..."
-    m ""
+    m "Não me diga que você dormiu nela..."
 
 # game/script.rpy:2846
 translate portuguese day_2_a66901e7:
 
     # b "I don't sleep."
-    b ""
+    b "Eu não durmo."
 
 # game/script.rpy:2848
 translate portuguese day_2_498653e1:
 
     # b "But I DID cuddle you all night long!"
-    b ""
+    b "MAS eu fiquei abraçadinha com você!"
 
 # game/script.rpy:2850
 translate portuguese day_2_c5722106:
 
     # m "Oh my God."
-    m ""
+    m "Ai meu Deus."
 
 # game/script.rpy:2852
 translate portuguese day_2_09e48ef2:
 
     # b "%(player_name)s... can you water me now? I'm so thirsty!"
-    b ""
+    b "%(player_name)s... você pode me regar? Eu tô com sede!"
 
 # game/script.rpy:2854
 translate portuguese day_2_95f68f7a:
 
     # m "Hah. You really are."
-    m ""
+    m "Hah. E de fato está."
 
 # game/script.rpy:2881
 translate portuguese day1_watered_3_01d68b36:
 
     # b "Ahhh, I love morning showers!"
-    b ""
+    b "Ahhh, adoro uma ducha matinal!"
 
 # game/script.rpy:2886
 translate portuguese day1_watered_3_4e8d4b59:
 
     # b "Ok, I'm ready to go find more doggies!"
-    b ""
+    b "Beleza, tô pronta pra ver cachorrinhos!"
 
 # game/script.rpy:2888
 translate portuguese day1_watered_3_83537f57:
 
     # "At the mention of going out, a familiar fear weighs down on you."
-    ""
+    "Ao ouvir isso, um medo familiar toma conta de você."
 
 # game/script.rpy:2889
 translate portuguese day1_watered_3_4680fa12:
 
     # m "Uuugh... about that..."
-    m ""
+    m "Uuugh.. quanto a isso..."
 
 # game/script.rpy:2891
 translate portuguese day1_watered_3_53dd7745:
 
     # b "You're NOT backing out now! You PROMISED me!"
-    b ""
+    b "Antedeguemon"
 
 # game/script.rpy:2892
 translate portuguese day1_watered_3_b2a5d70e:
