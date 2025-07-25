@@ -4712,175 +4712,175 @@ translate portuguese day1_watered_3_83537f57:
 translate portuguese day1_watered_3_4680fa12:
 
     # m "Uuugh... about that..."
-    m "Uuugh.. quanto a isso..."
+    m "Uuugh... quanto a isso..."
 
 # game/script.rpy:2891
 translate portuguese day1_watered_3_53dd7745:
 
     # b "You're NOT backing out now! You PROMISED me!"
-    b "Antedeguemon"
+    b "NÃO INVENTA de desistir agora! Você PROMETEU!"
 
 # game/script.rpy:2892
 translate portuguese day1_watered_3_b2a5d70e:
 
     # b "I've been waiting all night, so we're going out!"
-    b ""
+    b "Eu esperei a noite toda, então a gente vai sim!"
 
 # game/script.rpy:2894
 translate portuguese day1_watered_3_7f118413:
 
     # b "You can't take it back."
-    b ""
+    b "Não inventa de voltar atrás."
 
 # game/script.rpy:2896
 translate portuguese day1_watered_3_bf0e383a:
 
     # m "(...I really don't want to.)"
-    m ""
+    m "(...Eu realmente não queria ir.)"
 
 # game/script.rpy:2898
 translate portuguese day1_watered_3_850ef128:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:2900
 translate portuguese day1_watered_3_bcdc37f1:
 
     # m "Geez! Ok ok!"
-    m ""
+    m "Tá bom! Ok ok!"
 
 # game/script.rpy:2902
 translate portuguese day1_watered_3_4d446898:
 
     # b "Yay! Let's goooo!"
-    b ""
+    b "Eba! Vamboooora!"
 
 # game/script.rpy:2904
 translate portuguese day1_watered_3_81169721:
 
     # m "You make some scary expressions. Damn."
-    m ""
+    m "Credo, você faz umas caras assustadoras."
 
 # game/script.rpy:2929
 translate portuguese park_48f2c0c2:
 
     # "And so, trying to keep Button as happy as you can, you push aside your selfish desire to stay home."
-    ""
+    "E assim, tentando ao máximo manter a Botão feliz, você deixa o egoísmo de lado e decide sair com ela."
 
 # game/script.rpy:2931
 translate portuguese park_4c75b80b:
 
     # "And so, Button intimidates you into keeping your promises."
-    ""
+    "E novamente, a Botão te obriga a manter suas promessas."
 
 # game/script.rpy:2932
 translate portuguese park_545a6ef2:
 
     # "You lead Button down the sidewalk to the nearby park."
-    ""
+    "Você caminha com a Botão calçada abaixo até o parque."
 
 # game/script.rpy:2933
 translate portuguese park_6ad5d22a:
 
     # "It's a little busier than yesterday since it's the middle of the day."
-    ""
+    "Tá um pouco mais cheio do que ontem, já que agora é meio-dia."
 
 # game/script.rpy:2935
 translate portuguese park_ec7756c9:
 
     # "Button seems... less interested in everything today."
-    ""
+    "A Botão aparenta... menos interesse nas coisas hoje."
 
 # game/script.rpy:2936
 translate portuguese park_40090d70:
 
     # "It's worrying. You don't even notice how people are looking at her outfit."
-    ""
+    "É preocupante. Você nem percebe como as pessoas olham pra roupa dela."
 
 # game/script.rpy:2937
 translate portuguese park_a9b926bf:
 
     # "Keeping an eye on her, you find your way to the park..."
-    ""
+    "Mantendo o olhar nela, vocês chegam ao parque..."
 
 # game/script.rpy:2939
 translate portuguese park_c8a996b3:
 
     # "You can't stand the attention that Button's outfit is gathering. {sc=3}{color=#000000}The Stares!{/sc}"
-    ""
+    "As roupas chamativas da Botão atraem olhares. Que atenção {sc=3}{color=#000000}desnecessária!{/sc}"
 
 # game/script.rpy:2940
 translate portuguese park_2f8607fb:
 
     # "Focusing on breathing steadily, you shut out everything other than the way to the park..."
-    ""
+    "Respirando fundo, você foca em ignorar os olhares até que ambos cheguem ao parque..."
 
 # game/script.rpy:2941
 translate portuguese park_335bea11:
 
     # "...while Button skips happily along."
-    ""
+    "...enquanto a Botão dá pulinhos de alegria."
 
 # game/script.rpy:2954
 translate portuguese park_08f7a29d:
 
     # "Arriving at the park, you immediately sit down at a bench."
-    ""
+    "Chegando no parque, você imediatamente senta em um banco."
 
 # game/script.rpy:2955
 translate portuguese park_c4f76045:
 
     # "Button investigates the playground, intrigued by the slide and swing."
-    ""
+    "A Botão analisa o parquinho, intrigada pelo escorregador e o balanço."
 
 # game/script.rpy:2956
 translate portuguese park_2163498d:
 
     # "You feel anxious as you watch her try to play there, despite being a fully-grown adult."
-    ""
+    "Você anciosamente a olha tentando brincar, mesmo ela sendo uma adulta crescida."
 
 # game/script.rpy:2957
 translate portuguese park_1011626c:
 
     # "She's soon caught the attention of two kids on the slide, one of whom starts asking her what exactly she's supposed to be."
-    ""
+    "Duas crianças em cima do escorregador olham pra ela com curiosidade, e um deles pergunta o que exatamente ela é."
 
 # game/script.rpy:2960
 translate portuguese park_850ef128:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:2961
 translate portuguese park_74deaddb:
 
     # b "I don't... know."
-    b ""
+    b "Eu... não sei."
 
 # game/script.rpy:2962
 translate portuguese park_0b3d780e:
 
     # b "Can I play with you? Please? I'm sorry. I don't know how it works..."
-    b ""
+    b "Posso brincar com vocês? Por favor? Desculpa. Eu não sei como funciona..."
 
 # game/script.rpy:2964
 translate portuguese park_5e4b6347:
 
     # b "I'm a mushroom! My full name is Agaricus bisporus, but apparently it's a bad name, so you can just call me Button!"
-    b ""
+    b "Eu sou um cogumelo! Meu nome é Agaricus bisporus, mas aparentemente é um nome ruim, então pode me chamr de Botão!"
 
 # game/script.rpy:2965
 translate portuguese park_a4729f41:
 
     # "You can hear her all the way from here."
-    ""
+    "Você consegue ouví-la mesmo de longe."
 
 # game/script.rpy:2967
 translate portuguese park_d957cf0c:
 
     # m "(Is it ok for me to just let her proclaim her existence?)"
-    m ""
+    m "Anteguemon"
 
 # game/script.rpy:2968
 translate portuguese park_d73f6646:
