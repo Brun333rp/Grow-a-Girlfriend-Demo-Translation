@@ -4340,247 +4340,247 @@ translate portuguese leavehouse_8c4c592f:
 translate portuguese leavehouse_4ccfd13d:
 
     # "True to her word, she doesn't do anything but lie there quietly."
-    "Antedeguemon"
+    "Fiel ao que disse, ela não faz nada além de ficar deitada em silêncio."
 
 # game/script.rpy:2684
 translate portuguese leavehouse_1c017591:
 
     # "You have a suspicion she's still listening to your heart."
-    ""
+    "Você suspeita que ela ainda ouve seu coração."
 
 # game/script.rpy:2685
 translate portuguese leavehouse_2b073fd2:
 
     # "Wait a second... Do mushrooms breathe? WHY!?"
-    ""
+    "Pera um pouco... Cogumelos respiram? COMO ASSIM!?"
 
 # game/script.rpy:2686
 translate portuguese leavehouse_87799f6e:
 
     # "As you ponder the oddity of the specimen clutching you, you feel her breaths slow down."
-    ""
+    "Enquanto reflete sobre tal bizarrice, você sente que ela está ficando menos ofegante."
 
 # game/script.rpy:2687
 translate portuguese leavehouse_b4a2d331:
 
     # "You start to relax too..."
-    ""
+    "Você começa a relaxar também..."
 
 # game/script.rpy:2688
 translate portuguese leavehouse_31a06f30:
 
     # "You're glad she's feeling better."
-    ""
+    "Ainda bem que ela tá melhor."
 
 # game/script.rpy:2690
 translate portuguese leavehouse_4a6fa4ee:
 
     # "She'll probably forget all about this tomorrow..."
-    ""
+    "Provavelmente ela esquecerá tudo isso amanhã..."
 
 # game/script.rpy:2701
 translate portuguese leavehouse_fdbf0b79:
 
     # b "{sc=4}{color=#000000}YAAAAY! MORE DOGS FOR ME!"
-    b ""
+    b "{sc=4}{color=#000000}EBAAAA! MAIS CACHORROS PRA MIM!"
 
 # game/script.rpy:2703
 translate portuguese leavehouse_043258ef:
 
     # m "Hah. Now I want to show you some animal videos."
-    m ""
+    m "Hah. Se não incomoda, tenho vídeos de animais pra mostrar."
 
 # game/script.rpy:2706
 translate portuguese leavehouse_fbc65ccb:
 
     # b "Wait for me~!"
-    b ""
+    b "Já vou ver~!"
 
 # game/script.rpy:2710
 translate portuguese leavehouse_bd50363c:
 
     # "You spend the rest of the night watching some funny animal videos from your laptop on your bed. All over the sheets and at an appropriate distance of course."
-    ""
+    "Vocês passam a noite deitados vendo vídeos engraçados de animais pelo laptop. Mas claro, mantendo uma distância apropriada em baixo das cobertas."
 
 # game/script.rpy:2711
 translate portuguese leavehouse_c900a0ec:
 
     # "Button's reactions make you laugh harder than the videos."
-    ""
+    "As reações da Botão te fazem rir mais do que os vídeos."
 
 # game/script.rpy:2712
 translate portuguese leavehouse_c4e29c61:
 
     # "It's really nice, just talking with her about something as trivial as animals."
-    ""
+    "É bem legal conversar com ela sobre animais, mesmo sendo algo tão trivial."
 
 # game/script.rpy:2713
 translate portuguese leavehouse_2fb378a2:
 
     # "You're able to give her a lot of facts, using your existing knowledge and some help from the internet."
-    ""
+    "Com base em conhecimento prévio e uma ajuda da internet, você ensina várias curiosidades pra ela."
 
 # game/script.rpy:2714
 translate portuguese leavehouse_bb5cd78d:
 
     # "She actually listens and seems interested in what you say. It feels really good to contribute substantially to a conversation for once!"
-    ""
+    "Ela ouve ativamente e parece interessada no que você diz. É muito bom ser finalmente capaz de contribuir pra uma conversa!"
 
 # game/script.rpy:2756
 translate portuguese day_2_d9242a9b:
 
     # "You wake up."
-    ""
+    "Você acorda."
 
 # game/script.rpy:2757
 translate portuguese day_2_a761f70c:
 
     # "That's it?"
-    ""
+    "É isso?"
 
 # game/script.rpy:2758
 translate portuguese day_2_5640da5b:
 
     # "Strangely, there's none of your usual existential dread this morning!"
-    ""
+    "Dessa vez, você não está tendo aquele temor existencial de sempre!"
 
 # game/script.rpy:2761
 translate portuguese day_2_7d351aa3:
 
     # "As you open your eyes-"
-    ""
+    "Ao abrir os olhos-"
 
 # game/script.rpy:2765
 translate portuguese day_2_a88fbe73:
 
     # m "{sc=4}{color=#000000}BUTTON!?"
-    m ""
+    m "{sc=4}{color=#000000}BOTÃO!?"
 
 # game/script.rpy:2768
 translate portuguese day_2_91a2c31b:
 
     # b "You're awake! Hi..."
-    b ""
+    b "Você acordou! Oi..."
 
 # game/script.rpy:2769
 translate portuguese day_2_3edf20fc:
 
     # "So it was real. Disappointing. It looks like you're in for another hard day."
-    ""
+    "Então era real. Que decepção. Mais um dia difícil vem pela frente."
 
 # game/script.rpy:2771
 translate portuguese day_2_feb7ad83:
 
     # m "Hi... How are you doing?"
-    m ""
+    m "Oi... Como você tá?"
 
 # game/script.rpy:2773
 translate portuguese day_2_aa0895d9:
 
     # b "Much better!"
-    b ""
+    b "Muito melhor!"
 
 # game/script.rpy:2775
 translate portuguese day_2_96743c66:
 
     # b "Mostly..."
-    b ""
+    b "Em partes..."
 
 # game/script.rpy:2776
 translate portuguese day_2_4ad0386b:
 
     # b "I'm just glad I'm not alone."
-    b ""
+    b "Só tô feliz em não estar sozinha."
 
 # game/script.rpy:2778
 translate portuguese day_2_30d0c790:
 
     # m "No problem. Whenever you need another hug, I'm here for you."
-    m ""
+    m "Sem problema. Quando precisar de outro abraço, eu tô aqui."
 
 # game/script.rpy:2780
 translate portuguese day_2_b1be534b:
 
     # b "Are you ok? I'm sorry if I ruined your night with all of that."
-    b ""
+    b "Você tá bem? Desculpa se eu arruinei sua noite com tudo aquilo."
 
 # game/script.rpy:2782
 translate portuguese day_2_e074566f:
 
     # m "No, no, it just... kinda felt weird. Unreal. Like I'd wake up at any minute. But you're here, haha..."
-    m ""
+    m "Não, não, só... foi meio estranho, e surreal. Como se eu tivesse sonhando. Mas você tá aqui, haha..."
 
 # game/script.rpy:2784
 translate portuguese day_2_0420f9bd:
 
     # b "Oh... Sorry."
-    b ""
+    b "Ah... Desculpa."
 
 # game/script.rpy:2786
 translate portuguese day_2_7c2c3fcb:
 
     # b "Does that mean... you don't want to go out today anymore?"
-    b ""
+    b "Significa que... você não tá mais afim de sair hoje?"
 
 # game/script.rpy:2788
 translate portuguese day_2_f48fb36b:
 
     # m "No... no... we can."
-    m ""
+    m "Não, relaxa... eu tô sim."
 
 # game/script.rpy:2790
 translate portuguese day_2_f470f50a:
 
     # b "Really!?"
-    b ""
+    b "Sério!?"
 
 # game/script.rpy:2792
 translate portuguese day_2_028527a2:
 
     # m "Of course. I wouldn't break a promise I made for you."
-    m ""
+    m "Claro. Eu não quebraria uma promessa que eu te fiz."
 
 # game/script.rpy:2794
 translate portuguese day_2_590302e4:
 
     # b "Thank you!"
-    b ""
+    b "Obrigada!"
 
 # game/script.rpy:2795
 translate portuguese day_2_32e82404:
 
     # b "Will you-"
-    b ""
+    b "Você pode-"
 
 # game/script.rpy:2797
 translate portuguese day_2_f7225822:
 
     # b "-Nevermind. I shouldn't be so clingy. You've got other things to do."
-    b ""
+    b "-Deixa quieto. Não preciso ser tão carente. Você tem coisas pra fazer."
 
 # game/script.rpy:2810
 translate portuguese day_2_c7e912db:
 
     # m "Oh. You can water yourself? That's... convenient."
-    m ""
+    m "Oh. Você consegue se aguar? Isso... é conveniente."
 
 # game/script.rpy:2812
 translate portuguese day_2_75ac9129:
 
     # b "Yeah..."
-    b ""
+    b "É sim..."
 
 # game/script.rpy:2814
 translate portuguese day_2_6e38d58b:
 
     # b "Can we go now?"
-    b ""
+    b "Podemos ir agora?"
 
 # game/script.rpy:2816
 translate portuguese day_2_c46c0332:
 
     # m "Yup."
-    m ""
+    m "Antedeguemon"
 
 # game/script.rpy:2818
 translate portuguese day_2_5d8ea196:
