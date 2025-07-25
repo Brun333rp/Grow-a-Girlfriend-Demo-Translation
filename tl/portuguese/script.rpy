@@ -4880,337 +4880,337 @@ translate portuguese park_a4729f41:
 translate portuguese park_d957cf0c:
 
     # m "(Is it ok for me to just let her proclaim her existence?)"
-    m "Anteguemon"
+    m "(Será que tá tudo bem eu só deixar ela proclamar sua existência?)"
 
 # game/script.rpy:2968
 translate portuguese park_d73f6646:
 
     # m "(Ugh, but I don't want to get up from here... I'll just wait it out.)"
-    m ""
+    m "(Ugh, eu não tô afim de me levantar... eu vou só esperar e pronto.)"
 
 # game/script.rpy:2969
 translate portuguese park_8655c700:
 
     # "The kids think she's weird and ignore her. Soon after Button walks back dejectedly to the bench."
-    ""
+    "As crianças acham ela estranha e a ignoram. Logo depois, ela volta desajeitadamente ao banco."
 
 # game/script.rpy:2974
 translate portuguese park_93785776:
 
     # "Silently, she sits down next to you."
-    ""
+    "Silenciosamente, ela se senta com você."
 
 # game/script.rpy:2976
 translate portuguese park_3120726e:
 
     # m "You ok?"
-    m ""
+    m "Tá tudo bem?"
 
 # game/script.rpy:2978
 translate portuguese park_759feab0:
 
     # b "... I don't know."
-    b ""
+    b "... Eu não sei."
 
 # game/script.rpy:2979
 translate portuguese park_6f7a74dc:
 
     # b "There's no point. No one cares about me."
-    b ""
+    b "Não há sentido. Ninguém liga pra mim."
 
 # game/script.rpy:2981
 translate portuguese park_5f354c09:
 
     # m "Hey, where's this coming from? Is it because of the children?"
-    m ""
+    m "Ei, por que tá pensando assim? É por causa das crianças?"
 
 # game/script.rpy:2983
 translate portuguese park_c644b901:
 
     # b "I don't know."
-    b ""
+    b "Eu não sei."
 
 # game/script.rpy:2984
 translate portuguese park_fa3f50e3:
 
     # "You know the sting of rejection firsthand. Weren't you supposed to be cheering her up?"
-    ""
+    "Você já conhece a dor da rejeição de primeira mão. Não era pra você animar ela?"
 
 # game/script.rpy:2986
 translate portuguese park_33d9b310:
 
     # m "Do you want me to play with you? The swing's free..."
-    m ""
+    m "Quer que eu brinque com você? O balanço é de graça..."
 
 # game/script.rpy:2987
 translate portuguese park_850ef128_1:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:2989
 translate portuguese park_c574edea:
 
     # m "Come! Let's go!"
-    m ""
+    m "Vamos! Bora lá!"
 
 # game/script.rpy:2993
 translate portuguese park_67519279:
 
     # "You take Button's hand and lead her to the swing. She follows without resistance."
-    ""
+    "Segurando a mão da Botão, você a leva até o balanço. Ela te segue sem insistir."
 
 # game/script.rpy:2994
 translate portuguese park_18f3be4e:
 
     # m "Sit down and hold the chains while I'll push you."
-    m ""
+    m "Senta aí e segura nas correntes enquanto te empurro."
 
 # game/script.rpy:2995
 translate portuguese park_b381d2b2:
 
     # "Button obeys. You stand behind her and push her."
-    ""
+    "A Botão obedece. Você fica por trás e empurra."
 
 # game/script.rpy:2996
 translate portuguese park_fb9d4ce9:
 
     # "Her mood instantly lifts."
-    ""
+    "Rapidamente, o humor dela melhora."
 
 # game/script.rpy:2997
 translate portuguese park_0c1787fa:
 
     # b "Ah! It's...! It's kind of scary, but fun!"
-    b ""
+    b "Ah! Isso...! Dá um medinho, mas é divertido!"
 
 # game/script.rpy:2998
 translate portuguese park_bef58a73:
 
     # m "Straighten your legs when you're at the top to go faster!"
-    m ""
+    m "Estique as penas quando estiver no topo pra ir mais rápido!"
 
 # game/script.rpy:2999
 translate portuguese park_7b6fe4a3:
 
     # "Thank God she's smiling..."
-    ""
+    "Graças a Deus, ela tá sorrindo..."
 
 # game/script.rpy:3004
 translate portuguese park_1b3a89cf:
 
     # b "%(player_name)s... no one wants to play with me... and there are no dogs here!"
-    b ""
+    b ""%(player_name)s... ninguém quer brincar comigo... e não tem cachorros aqui!"
 
 # game/script.rpy:3006
 translate portuguese park_9bcbc0df:
 
     # m "You can't force anyone to play with you. They're just kids."
-    m ""
+    m "Não dá pra forçá-los a brincar com você. São só crianças."
 
 # game/script.rpy:3007
 translate portuguese park_46a45301:
 
     # m "Just have some patience. A dog will probably show up sooner or later."
-    m ""
+    m "Tenha paciência. Provavelmente um cachorro aparecerá eventualmente."
 
 # game/script.rpy:3008
 translate portuguese park_4906b344:
 
     # b "Can you play with me on the swings?"
-    b ""
+    b "Pode brincar comigo no balanço?"
 
 # game/script.rpy:3010
 translate portuguese park_501d6c21:
 
     # m "I'm too old for it."
-    m ""
+    m "Tô velho demais pra isso."
 
 # game/script.rpy:3012
 translate portuguese park_f738a6df:
 
     # b "Pleeeeeease!? Just a little bit?"
-    b ""
+    b "Por favoooor!? Só um pouquinho?"
 
 # game/script.rpy:3013
 translate portuguese park_fd03795f:
 
     # "She starts to pull you along against your will. You're incredibly tense with all the eyes around you, and you snatch your arm away."
-    ""
+    "Ela começa a te puxar contra a sua vontade. Diante o peso dos olhares à sua volta, sua tensão aumenta e você se solta da mão dela."
 
 # game/script.rpy:3015
 translate portuguese park_979bc712:
 
     # m "I can't, ok!? It's too... public."
-    m ""
+    m "Não dá, tá bom!? A gente... tá em público."
 
 # game/script.rpy:3017
 translate portuguese park_d4fd383f:
 
     # b "Who CARES what anyone else thinks?"
-    b ""
+    b "QUEM LIGA sobre o que os outros pensam?"
 
 # game/script.rpy:3019
 translate portuguese park_bd4ae101:
 
     # m "(I DO!)"
-    m ""
+    m "(EU LIGO!)"
 
 # game/script.rpy:3020
 translate portuguese park_46990ce6:
 
     # "The thought makes you pause. Shame creeps in."
-    ""
+    "Você para pra pensar. E então a vergonha bate."
 
 # game/script.rpy:3021
 translate portuguese park_9bbb1454:
 
     # "She's right, after all."
-    ""
+    "Ela tá certa, pra que ligar?"
 
 # game/script.rpy:3023
 translate portuguese park_bd6a2f20:
 
     # m "Screw it. Fine."
-    m ""
+    m "Então foda-se, bora."
 
 # game/script.rpy:3026
 translate portuguese park_e59e03a4:
 
     # b "Yay! Thank you!"
-    b ""
+    b "Eba! Obrigada!"
 
 # game/script.rpy:3029
 translate portuguese park_ff252921:
 
     # "For a few minutes, you push her on the swing."
-    ""
+    "Você empurra o balanço dela por um tempo."
 
 # game/script.rpy:3030
 translate portuguese park_0a09caaf:
 
     # "Eventually she gets the hang of it and can sustain her momentum."
-    ""
+    "Com o tempo, ela pega o jeito e consegue manter o ritmo."
 
 # game/script.rpy:3035
 translate portuguese park_57ce0431:
 
     # "However, as you're watching her, a sudden wave of dizziness hits you."
-    ""
+    "Enquanto a observava, você de repente começa a ficar tonto."
 
 # game/script.rpy:3037
 translate portuguese park_cb3e5a38:
 
     # m "Oh... I've just realised... I don't think I've eaten for days."
-    m ""
+    m "Oh... Agora eu lembrei... Faz uns dias que eu não tô comendo."
 
 # game/script.rpy:3040
 translate portuguese park_64028429:
 
     # b "Oh. Will you be ok?"
-    b ""
+    b "Oh. Você vai ficar bem?"
 
 # game/script.rpy:3042
 translate portuguese park_eaecb0f3:
 
     # m "Yeah, I just... need to sit down for a second..."
-    m ""
+    m "Vou, eu só... preciso me sentar um pouco..."
 
 # game/script.rpy:3044
 translate portuguese park_850ef128_2:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:3046
 translate portuguese park_6e8001b9:
 
     # b "We can go home if you want... I've already played on the swing... and there aren't any dogs here either."
-    b ""
+    b "Podemos ir pra casa se quiser... Eu já brinquei no balanço... e não tem cachorros aqui de qualquer jeito."
 
 # game/script.rpy:3047
 translate portuguese park_df5aa6b8:
 
     # "That sounds much better than this stupid adventure. Your nausea is quickly growing worse."
-    ""
+    "Soa bem melhor do que essa aventura estúpida. Sua náusea tá piorando mais e mais."
 
 # game/script.rpy:3049
 translate portuguese park_9a3f6129:
 
     # m "No... I shouldn't have neglected myself. We can come back after-"
-    m ""
+    m "Não... Eu deveria ter cuidado melhor de mim. Podemos voltar de-"
 
 # game/script.rpy:3051
 translate portuguese park_01972d38:
 
     # b "No, really, it's fine. I don't want to come back here."
-    b ""
+    b "Não, sério, tá tudo bem. Eu não quero mais voltar aqui."
 
 # game/script.rpy:3054
 translate portuguese park_9d0fb1a2:
 
     # "She leaves without waiting for your answer."
-    ""
+    "Ela sai antes que você respondesse."
 
 # game/script.rpy:3056
 translate portuguese park_b583b956:
 
     # m "I'm sorry..."
-    m ""
+    m "Eu sinto muito..."
 
 # game/script.rpy:3060
 translate portuguese park_cd34375f:
 
     # "Battling nausea and guilt, you and Button silently walk home."
-    ""
+    "Com náusea e culpa, você volta pra casa com a Botão, ambos em silêncio."
 
 # game/script.rpy:3061
 translate portuguese park_729e9fd7:
 
     # "Incompetent piece of shit."
-    ""
+    "Pedaço de bosta incompetente."
 
 # game/script.rpy:3073
 translate portuguese park_95dae866:
 
     # b "Wanna bite me? I can survive without an arm."
-    b ""
+    b "Quer uma mordida? Eu sobrevivo sem um braço."
 
 # game/script.rpy:3075
 translate portuguese park_d59a4bb2:
 
     # m "No... I'm... I gotta sit down."
-    m ""
+    m "Não... Eu... Só preciso me sentar."
 
 # game/script.rpy:3078
 translate portuguese park_eb3d731a:
 
     # b "Don't worry! I'll help you!"
-    b ""
+    b "Relaxa, cara! Eu te ajudo!"
 
 # game/script.rpy:3081
 translate portuguese park_381bb799:
 
     # b "Worry not! Button has located sustenance!"
-    b ""
+    b "Sem pânico! A Botão encontrou sustância!"
 
 # game/script.rpy:3084
 translate portuguese park_d198e50f:
 
     # "Button sprints over to the nearby hotdog stand and talks urgently to the lady working there."
-    ""
+    "A Botão corre até uma barraca de hotdog ali perto e fala urgentemente com a vendedora."
 
 # game/script.rpy:3086
 translate portuguese park_1c8ca069:
 
     # "Button sprints over to the nearby hotdog stand and begins chatting to the lady working there."
-    ""
+    "Antedeguemon"
 
 # game/script.rpy:3088
 translate portuguese park_6bbf9b66:
 
     # m "No no! You need money!"
-    m ""
+    m "Não, pera! Você precisa de dinheiro!"
 
 # game/script.rpy:3090
 translate portuguese park_e70d7c36:
