@@ -5198,13 +5198,13 @@ translate portuguese park_381bb799:
 translate portuguese park_d198e50f:
 
     # "Button sprints over to the nearby hotdog stand and talks urgently to the lady working there."
-    "A Botão corre até uma barraca de hotdog ali perto e fala urgentemente com a vendedora."
+    "A Botão corre até uma barraca de cachorro-quente ali perto e fala urgentemente com a vendedora."
 
 # game/script.rpy:3086
 translate portuguese park_1c8ca069:
 
     # "Button sprints over to the nearby hotdog stand and begins chatting to the lady working there."
-    "Antedeguemon"
+    "A botão corre até uma barraca de cachorro-quente ali perto e começa a conversar com a vendedora."
 
 # game/script.rpy:3088
 translate portuguese park_6bbf9b66:
@@ -5216,241 +5216,241 @@ translate portuguese park_6bbf9b66:
 translate portuguese park_e70d7c36:
 
     # "You go running wobbily after her."
-    ""
+    "Você corre molengamente até ela."
 
 # game/script.rpy:3091
 translate portuguese park_e629b92c:
 
     # "But the situation isn't as embarrassing as you'd worried. Button and the woman are exchanging smiles when you arrive."
-    ""
+    "Mas a situação não é tão vergonhosa quanto você pensou. A mulher e a Botão estão trocando sorrisos quando você chega."
 
 # game/script.rpy:3092
 translate portuguese park_c6d2647b:
 
     # na "I heard you're not feeling that great. Don't worry, it's on the house."
-    na ""
+    na "Fiquei sabendo que você não tá bem. Fica tranquilo, é por conta da casa."
 
 # game/script.rpy:3093
 translate portuguese park_3c8b81ad:
 
     # "She promptly hands you a fresh hotdog."
-    ""
+    "Ela prontamente te oference um cachorro-quente."
 
 # game/script.rpy:3094
 translate portuguese park_622ec6e7:
 
     # na "Hope this helps."
-    na ""
+    na "Espero que isso ajude."
 
 # game/script.rpy:3095
 translate portuguese park_d6ebdba7:
 
     # "You thank her profusely and make your way back to the bench."
-    ""
+    "Você a agradece profusamente e volta até o banco pra se sentar."
 
 # game/script.rpy:3097
 translate portuguese park_a988ca23:
 
     # m "How did you do that? How do you just..."
-    m ""
+    m "Como você fez isso? Como que você..."
 
 # game/script.rpy:3099
 translate portuguese park_dc0346be:
 
     # b "I just told her you were dizzy and hadn't eaten in a long time."
-    b ""
+    b "Eu só contei que você tava tonto e que tava sem comer a dias."
 
 # game/script.rpy:3100
 translate portuguese park_3ff51a91:
 
     # b "Then she took a loooong look at you and said you \"certainly looked sick!\"."
-    b ""
+    b "Daí ela te deu um looongo olhar e disse que você \"claramente não tá bem!\"."
 
 # game/script.rpy:3103
 translate portuguese park_850ef128_3:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:3105
 translate portuguese park_cf74b48f:
 
     # b "Will you be ok?"
-    b ""
+    b "Você vai ficar bem?"
 
 # game/script.rpy:3108
 translate portuguese park_ee27bcb9:
 
     # b "Did I do well? I got you food!"
-    b ""
+    b "Eu fiz bem? Eu te consegui comida!"
 
 # game/script.rpy:3110
 translate portuguese park_6cf1860b:
 
     # m "Yeah. Thanks, Button."
-    m ""
+    m "Sim. Valeu, Botão."
 
 # game/script.rpy:3112
 translate portuguese park_ab8f607f:
 
     # m "You make everything look so... easy."
-    m ""
+    m "Você faz tudo parecer tão... fácil"
 
 # game/script.rpy:3115
 translate portuguese park_b23ed1c8:
 
     # b "You were in trouble. There was no time to be afraid."
-    b ""
+    b "Você tava em apuros. Não havia tempo pra ter medo."
 
 # game/script.rpy:3116
 translate portuguese park_e8d969b6:
 
     # m "It wasn't that urgent, but thank you."
-    m ""
+    m "Não era tão urgente, mas orbigado."
 
 # game/script.rpy:3117
 translate portuguese park_bbc6424a:
 
     # "You bite into a fresh, steaming hotdog."
-    ""
+    "Você dá uma mordida no cachorro-quente."
 
 # game/script.rpy:3119
 translate portuguese park_86f27f85:
 
     # "Starvation is the best seasoning: It's the best hotdog you've ever eaten!"
-    ""
+    "A fome é o melhor tempero: Esse é o melhor cachorro-quente que você já comeu!"
 
 # game/script.rpy:3121
 translate portuguese park_9eefde9a:
 
     # "However, Button stares at it with pain etched across her face."
-    ""
+    "No entanto, a Botão olha pra ele com dor estampada no rosto."
 
 # game/script.rpy:3123
 translate portuguese park_22620eb4:
 
     # m "What? Want a bite?"
-    m ""
+    m "Que foi? Quer uma mordida?"
 
 # game/script.rpy:3125
 translate portuguese park_46da0dff:
 
     # b "Hahaha... no... I really couldn't."
-    b ""
+    b "Hahaha... não... eu não poderia."
 
 # game/script.rpy:3127
 translate portuguese park_32f73a70:
 
     # b "But... why? Why kill something so cute, so innocently adorable?"
-    b ""
+    b "Tipo... pra que? Pra que matar uma coisa tão fofa e inocente?"
 
 # game/script.rpy:3128
 translate portuguese park_77b051b9:
 
     # b "It's awful..."
-    b ""
+    b "É terrível..."
 
 # game/script.rpy:3130
 translate portuguese park_731e73c1:
 
     # m "Are you talking about yourself? I don't have to-"
-    m ""
+    m "Tá falando de si mesma? Eu não preciso te co-"
 
 # game/script.rpy:3132
 translate portuguese park_df44d03d:
 
     # b "No!"
-    b ""
+    b "Não!"
 
 # game/script.rpy:3134
 translate portuguese park_dfb87501:
 
     # b "You know I want you to eat me!"
-    b ""
+    b "Você sabe que eu quero que me coma!"
 
 # game/script.rpy:3136
 translate portuguese park_9c6e37e7:
 
     # b "I mean the dogs! The one YOU'RE EATING RIGHT NOW!"
-    b ""
+    b "Me refiro aos cachorros! Esse que VOCÊ TÁ COMENDO!"
 
 # game/script.rpy:3137
 translate portuguese park_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:3139
 translate portuguese park_8e62db32:
 
     # m "Oh."
-    m ""
+    m "Ah."
 
 # game/script.rpy:3141
 translate portuguese park_a68f592a:
 
     # m "No, no, they're not actually made of dogs. We just call them that."
-    m ""
+    m "Não, não é isso, eles não são feitos de cachorros. É só o nome."
 
 # game/script.rpy:3143
 translate portuguese park_ac1b1231:
 
     # b "Don't lie to me..."
-    b ""
+    b "Não minta pra mim..."
 
 # game/script.rpy:3145
 translate portuguese park_1db35d6d:
 
     # m "Don't accuse me of lying."
-    m ""
+    m "Não me acuse de mentir."
 
 # game/script.rpy:3146
 translate portuguese park_412fcc80:
 
     # b "Then what are they?"
-    b ""
+    b "Então eles são do que?"
 
 # game/script.rpy:3148
 translate portuguese park_f11b4181:
 
     # m "Uh... not sure. Probably pork or beef."
-    m ""
+    m "Uh... talvez carne de porco ou de vaca."
 
 # game/script.rpy:3150
 translate portuguese park_5d675163:
 
     # b "Oh. Is pork-or-beef an animal too?"
-    b ""
+    b "Ah. E porco-ou-vaca é um animal também?"
 
 # game/script.rpy:3152
 translate portuguese park_91c24dca:
 
     # m "Those are two separate things. They're animals, yes. We've domesticated them for our food."
-    m ""
+    m "Eles são coisas separadas. E sim, ambos são animais. Nós os domesticamos como alimento."
 
 # game/script.rpy:3154
 translate portuguese park_82b753f7:
 
     # m "Even so, how they're treated is still unethical in my opinion..."
-    m ""
+    m "Ainda assim, o jeito como são tratados é antiético ao meu ver..."
 
 # game/script.rpy:3156
 translate portuguese park_3b1c08a6:
 
     # b "I'm kinda lost."
-    b ""
+    b "Tê meio perdida."
 
 # game/script.rpy:3158
 translate portuguese park_89263d33:
 
     # b "But if it's not a dog, it's ok!"
-    b ""
+    b "Mas se não é um cachorro, tá ok!"
 
 # game/script.rpy:3161
 translate portuguese park_2257ccba:
 
     # "You feel a bit better after eating something, and Button leaves to go play with a dalmatian that just entered the park."
-    ""
+    "Antedeguemon"
 
 # game/script.rpy:3162
 translate portuguese park_e7861108:
