@@ -5432,13 +5432,13 @@ translate portuguese park_91c24dca:
 translate portuguese park_82b753f7:
 
     # m "Even so, how they're treated is still unethical in my opinion..."
-    m "Ainda assim, o jeito como são tratados é antiético ao meu ver..."
+    m "Ainda assim, o jeito como são tratados ao meu ver é antiético..."
 
 # game/script.rpy:3156
 translate portuguese park_3b1c08a6:
 
     # b "I'm kinda lost."
-    b "Tê meio perdida."
+    b "Tô meio perdida."
 
 # game/script.rpy:3158
 translate portuguese park_89263d33:
@@ -5450,1291 +5450,1291 @@ translate portuguese park_89263d33:
 translate portuguese park_2257ccba:
 
     # "You feel a bit better after eating something, and Button leaves to go play with a dalmatian that just entered the park."
-    "Antedeguemon"
+    "Você se sente melhor após comer algo, e a Botão logo corre pra brincar com um dalmata que acabou de entrar no parque."
 
 # game/script.rpy:3162
 translate portuguese park_e7861108:
 
     # "You read a comic on your phone, enjoying the sunlight and the sounds of play, until Button tells you she's ready to go home."
-    ""
+    "Enquanto curte o sol aos sons dela brincando, você lê uma comic no celular, até que a Botão te diz estar pronta pra ir pra casa."
 
 # game/script.rpy:3199
 translate portuguese returnhome_3384845e:
 
     # "As soon as you enter the room, you head over to your desk, take out a boxcutter from your drawer..."
-    ""
+    "Logo após entrarem no quarto, você vai em direção a sua mesa, pega um estilete dentro da gaveta..."
 
 # game/script.rpy:3204
 translate portuguese returnhome_3ddd5d20:
 
     # "...and open up a new box of ramen noodles from under your bed. You take out three packages and toss the boxcutter to your desk."
-    ""
+    "...e abre uma caixa de miojo que tem em baixo da cama. Você pega uns três pacotes de miojo e joga o estilete em cima da mesa."
 
 # game/script.rpy:3206
 translate portuguese returnhome_0d05bb51:
 
     # m "I'm going to cook some ramen in the kitchenette quick. Be right back."
-    m ""
+    m "Vou lá na cozinha fazer um pouco de miojo. Já já eu volto."
 
 # game/script.rpy:3208
 translate portuguese returnhome_0dbfa178:
 
     # b "Mm."
-    b ""
+    b "Mm."
 
 # game/script.rpy:3209
 translate portuguese returnhome_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:3212
 translate portuguese returnhome_35ede9a7:
 
     # b "*sigh* {size=-10}I hate this...{size=+10}"
-    b ""
+    b "*aaff* {size=-10}Odeio isso...{size=+10}"
 
 # game/script.rpy:3214
 translate portuguese returnhome_e913c161:
 
     # b "No! I have to stop this! I can't worry %(player_name)s so much... He's already doing so much for me..."
-    b ""
+    b "Não! Eu tenho que parar! Não posso deixar o %(player_name)s preocupado... Ele já faz muito por mim..."
 
 # game/script.rpy:3216
 translate portuguese returnhome_5cc294dc:
 
     # b "Just... be happy!"
-    b ""
+    b "Só... seja feliz!"
 
 # game/script.rpy:3218
 translate portuguese returnhome_792de793:
 
     # b "Smile! Everything is ok! The outside is beautiful! %(player_name)s cares about you!"
-    b ""
+    b "Sorria! Está tudo bem! Lá fora é tudo lindo! %(player_name)s se importa com você!"
 
 # game/script.rpy:3219
 translate portuguese returnhome_4d96d47d:
 
     # b "You don't need to have meaning! It doesn't matter if you're never going to live again! You can just..."
-    b ""
+    b "Você não precisa ter sentido! Não importa se você não poderá viver de novo! Basta você só..."
 
 # game/script.rpy:3220
 translate portuguese returnhome_850ef128:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:3222
 translate portuguese returnhome_02d46461:
 
     # b "...die tomorrow..."
-    b ""
+    b "...morrer amanhã..."
 
 # game/script.rpy:3223
 translate portuguese returnhome_81b59b2d:
 
     # b "I wonder if it's going to hurt..."
-    b ""
+    b "Eu me pergunto se vai doer..."
 
 # game/script.rpy:3225
 translate portuguese returnhome_1176e860:
 
     # b "Am I going to feel lonely? Will it just be me? Floating in the nothingness after I die?"
-    b ""
+    b "Eu vou ficar sozinha? Vai ser só eu comigo mesma? Flutuando no vazio até morrer?"
 
 # game/script.rpy:3226
 translate portuguese returnhome_93c49580:
 
     # b "It's so scary..."
-    b ""
+    b "É tão assustador..."
 
 # game/script.rpy:3229
 translate portuguese returnhome_7c6ae8f0:
 
     # b "Why can't I just be happy?"
-    b ""
+    b "Por que não consigo ser feliz?"
 
 # game/script.rpy:3230
 translate portuguese returnhome_d2956582:
 
     # "Button stands tensely in the centre of the room while she waits."
-    ""
+    "A Botão fica tensa no centro do quarto enquanto ela espera."
 
 # game/script.rpy:3231
 translate portuguese returnhome_a20cefa7_1:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:3232
 translate portuguese returnhome_c08abb31:
 
     # "An odd compulsion overcomes her."
-    ""
+    "Uma estranha compulsão toma sua conta."
 
 # game/script.rpy:3234
 translate portuguese returnhome_657ab28f:
 
     # b "Argh!"
-    b ""
+    b "Argh!"
 
 # game/script.rpy:3236
 translate portuguese returnhome_caaad0aa:
 
     # "She slaps herself in the face. It doesn't hurt."
-    ""
+    "Ela baten a própria cara. Ela não sente dor."
 
 # game/script.rpy:3239
 translate portuguese returnhome_815057e4:
 
     # b "Why!?"
-    b ""
+    b "Por que!?"
 
 # game/script.rpy:3241
 translate portuguese returnhome_815057e4_1:
 
     # b "Why!?"
-    b ""
+    b "Por que!?"
 
 # game/script.rpy:3242
 translate portuguese returnhome_dbbc479b:
 
     # b "I don't want to do this anymore! I don't want tomorrow to come!"
-    b ""
+    b "Eu não quero mais fazer isso! Eu não quero que amanhã chegue!"
 
 # game/script.rpy:3244
 translate portuguese returnhome_747c44c5:
 
     # "She stares at the desk."
-    ""
+    "Ela olha pra mesa."
 
 # game/script.rpy:3246
 translate portuguese returnhome_186d8128:
 
     # "Her nails dig into her arms."
-    ""
+    "Ela aperta os braços com as unhas."
 
 # game/script.rpy:3248
 translate portuguese returnhome_21aeb48e:
 
     # b "Aaaaaaaaahh~ Hah~ Hah~"
-    b ""
+    b "Aaaaaaaaahh~ Hah~ Hah~"
 
 # game/script.rpy:3249
 translate portuguese returnhome_4db153b0:
 
     # "Without you nearby, it's harder to ignore the thoughts in her head."
-    ""
+    "Sem você por perto, é difícil ignorar os pensamentos na cabeça dela."
 
 # game/script.rpy:3251
 translate portuguese returnhome_1eb4b248:
 
     # b "{size=-10}I hate it! I hate it! Please come back!{size=+10}"
-    b ""
+    b "{size=-10}Que ódio! Que ódio! Por favor, volta!{size=+10}"
 
 # game/script.rpy:3253
 translate portuguese returnhome_84d2d070:
 
     # b "{size=-10}Please...{size=+10}"
-    b ""
+    b "{size=-10}Por favor...{size=+10}"
 
 # game/script.rpy:3260
 translate portuguese returnhome_a9f9da58:
 
     # m "Back... Sorry for the wait. I had to figure out if I still had to cook it for 3 minutes or 9 if I put them all in at once, but-"
-    m ""
+    m "Voltei... Desculpa a demora. Eu tava tentanto descobrir se eu tinha que cozinhar por 3 minutos ou 9 se eu colocasse tudo junto, mas-"
 
 # game/script.rpy:3262
 translate portuguese returnhome_c5a3331c:
 
     # m "Sorry, ignore my stupid excuses."
-    m ""
+    m "Deixa, ignora minhas desculpas."
 
 # game/script.rpy:3264
 translate portuguese returnhome_b34ee56e:
 
     # m "Are you ok?"
-    m ""
+    m "Você tá bem?"
 
 # game/script.rpy:3280
 translate portuguese returnhome_7d1c486e:
 
     # b "Yes!"
-    b ""
+    b "Sim!"
 
 # game/script.rpy:3282
 translate portuguese returnhome_887bd1d6:
 
     # m "I'm really sorry about earlier. I feel so bad."
-    m ""
+    m "Desculpa mesmo pelo que aconteceu. Sinto muito."
 
 # game/script.rpy:3294
 translate portuguese returnhome_a20eaade:
 
     # b "It's ok!"
-    b ""
+    b "Tá tudo bem!"
 
 # game/script.rpy:3296
 translate portuguese returnhome_74305302:
 
     # m "Ah, well... It's nice to see you smiling at least."
-    m ""
+    m "Ah, bem... É bom te ver sorrindo pelo menos."
 
 # game/script.rpy:3297
 translate portuguese returnhome_9654d4ad:
 
     # m "Um, I'm gonna eat now. How about we watch something together?"
-    m ""
+    m "Ah, eu vou comer agora. Que tal assistirmos algo juntos?"
 
 # game/script.rpy:3298
 translate portuguese returnhome_9ec61d04:
 
     # b "Ok!"
-    b ""
+    b "Ok!"
 
 # game/script.rpy:3302
 translate portuguese returnhome_c2345c71:
 
     # "You and {cps=20}Button...{/cps}"
-    ""
+    "Você e a {cps=20}Botão...{/cps}"
 
 # game/script.rpy:3330
 translate portuguese returnhome_683d118d:
 
     # bna "You and %(player_name)s watch... \"something\". You're not really sure. Does it matter?"
-    bna ""
+    bna "Você e %(player_name)s assistem... \"algo\". Você não tem certeza. Isso importa?"
 
 # game/script.rpy:3331
 translate portuguese returnhome_2d2ffb97:
 
     # bna "Time... just... passes..."
-    bna ""
+    bna "O tempo... só... passa..."
 
 # game/script.rpy:3417
 translate portuguese returnhome_d802a37f:
 
     # bna "{cps=20}On... and on...{/cps}"
-    bna ""
+    bna "{cps=20}De novo... e de novo...{/cps}"
 
 # game/script.rpy:3419
 translate portuguese returnhome_be90d1a9:
 
     # bna "The skies darken."
-    bna ""
+    bna "O céu se escurece."
 
 # game/script.rpy:3420
 translate portuguese returnhome_f34ff4e9:
 
     # bna "Whispers of dread creep up on you."
-    bna ""
+    bna "Sussurros de medo rastejam em você."
 
 # game/script.rpy:3421
 translate portuguese returnhome_909f8030:
 
     # bna "But it'll be ok."
-    bna ""
+    bna "Mas vai ficar tudo bem."
 
 # game/script.rpy:3422
 translate portuguese returnhome_b8c6de26:
 
     # bna "Just keep that smile plastered on your face. Laugh when you should."
-    bna ""
+    bna "Só mantenha o sorriso estampado no rosto. Ria quando tiver que rir."
 
 # game/script.rpy:3423
 translate portuguese returnhome_3bbc0f22:
 
     # bna "Even though you're feeling worse and worse."
-    bna ""
+    bna "Mesmo você se sentido cada vez mais pior."
 
 # game/script.rpy:3424
 translate portuguese returnhome_4a6d2e65:
 
     # bna "At least %(player_name)s is by your side. As long as he thinks you're ok, he'll be happy."
-    bna ""
+    bna "Ao menos %(player_name)s está ao seu lado. Desde que você aparente estar bem, ele ficará feliz."
 
 # game/script.rpy:3425
 translate portuguese returnhome_381b42e0:
 
     # bna "He doesn't like you when you're sad. He wouldn't want to be your friend anymore."
-    bna ""
+    bna "Ele não gosta quando você está triste. Ele não iria mais querer ser seu amigo."
 
 # game/script.rpy:3426
 translate portuguese returnhome_60b01ab5:
 
     # bna "Then you'd be alone."
-    bna ""
+    bna "E você ficaria sozinha."
 
 # game/script.rpy:3449
 translate portuguese returnhome_11107849:
 
     # m "Um... you ok?"
-    m ""
+    m "Uhm... tá tudo bem?"
 
 # game/script.rpy:3453
 translate portuguese returnhome_1043e735:
 
     # b "Huh?"
-    b ""
+    b "Huh?"
 
 # game/script.rpy:3455
 translate portuguese returnhome_be5c28bf:
 
     # b "YES! I'M OK!"
-    b ""
+    b "SIM! EU TÔ BEM!"
 
 # game/script.rpy:3457
 translate portuguese returnhome_79785ed3:
 
     # m "Okay... You had a weird look on, so I... nevermind."
-    m ""
+    m "Okay... Você tava com um olhar estranho, então... deixa quieto."
 
 # game/script.rpy:3459
 translate portuguese returnhome_dec566ac:
 
     # m "I was wondering..."
-    m ""
+    m "Eu tava pensando..."
 
 # game/script.rpy:3461
 translate portuguese returnhome_737005f0:
 
     # m "I'd like to make it up to you."
-    m ""
+    m "Eu gostaria de te compensar."
 
 # game/script.rpy:3464
 translate portuguese returnhome_f296bc46:
 
     # m "Is there anything in particular you'd like to do?"
-    m ""
+    m "Tem algo em particular que gostaria que eu fizesse?"
 
 # game/script.rpy:3465
 translate portuguese returnhome_6efd0bb7:
 
     # m "Anything at all... I'll try make it happen."
-    m ""
+    m "Qualquer coisa... Eu tentarei realizar."
 
 # game/script.rpy:3481
 translate portuguese choosedo_850ef128:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:3483
 translate portuguese choosedo_6237ac1e:
 
     # m "Button?"
-    m ""
+    m "Botão?"
 
 # game/script.rpy:3485
 translate portuguese choosedo_f17a0a22:
 
     # b "Oh!"
-    b ""
+    b "Oh!"
 
 # game/script.rpy:3487
 translate portuguese choosedo_734fa811:
 
     # b "Ah, sorry, I was just thinking!"
-    b ""
+    b "Ah, desculpa, é que eu tava refletindo!"
 
 # game/script.rpy:3489
 translate portuguese choosedo_f79310a5:
 
     # b "No, I'm good, thanks!"
-    b ""
+    b "Eu tô bem, não precisa!"
 
 # game/script.rpy:3491
 translate portuguese choosedo_f719b41f:
 
     # m "Sorry, I can't accept that. Take your time and just tell me!"
-    m ""
+    m "Eu não aceito 'não' como resposta. Pode me contar, sem pressa!"
 
 # game/script.rpy:3493
 translate portuguese choosedo_d5f45642:
 
     # b "(But there's no point. There's nothing I want.)"
-    b ""
+    b "(Mas não há porque. Não tem nada que eu queira.)"
 
 # game/script.rpy:3497
 translate portuguese choosedo_31cda67d:
 
     # b "A hug!"
-    b ""
+    b "Um abraço!"
 
 # game/script.rpy:3499
 translate portuguese choosedo_c8fc6bdb:
 
     # m "Just that?"
-    m ""
+    m "Só isso?"
 
 # game/script.rpy:3501
 translate portuguese choosedo_4f200c89:
 
     # b "Yup!"
-    b ""
+    b "Sim!"
 
 # game/script.rpy:3503
 translate portuguese choosedo_13a56527:
 
     # m "I can do that."
-    m ""
+    m "Beleza então."
 
 # game/script.rpy:3508
 translate portuguese choosedo_0e8d5985:
 
     # m "How's this?"
-    m ""
+    m "Que tal?"
 
 # game/script.rpy:3509
 translate portuguese choosedo_5622981a:
 
     # b "Good."
-    b ""
+    b "Bom."
 
 # game/script.rpy:3510
 translate portuguese choosedo_1b17310d:
 
     # m "Same. I love hugs."
-    m ""
+    m "Sim. Eu adoro abraços."
 
 # game/script.rpy:3511
 translate portuguese choosedo_d54d3803:
 
     # m "It's really relaxing."
-    m ""
+    m "É bem relaxante."
 
 # game/script.rpy:3512
 translate portuguese choosedo_473bd56f:
 
     # m "It's actually because of a hormone called \"oxytocin\". It reduces stress and anxiety."
-    m ""
+    m "É por conta de um hormônio chamado \"ocitocina\". Ele reduz estresse e ansiedade."
 
 # game/script.rpy:3513
 translate portuguese choosedo_850ef128_1:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:3515
 translate portuguese choosedo_7c879e26:
 
     # bna "It's not about about you."
-    bna ""
+    bna "Nunca foi sobre você."
 
 # game/script.rpy:3516
 translate portuguese choosedo_20bcf869:
 
     # bna "You're replacable. He's just going to order another one when you die. Does he even care?"
-    bna ""
+    bna "Você é substituível. Ele vai só comprar outro quando você morrer. Ele realmente se importa?"
 
 # game/script.rpy:3517
 translate portuguese choosedo_9c77071f:
 
     # bna "Or are you just pressuring him to care, with your anxieties and tears?"
-    bna ""
+    bna "Ou você tá pressionando ele a se importar, com suas lágrimas e ansiedades?"
 
 # game/script.rpy:3518
 translate portuguese choosedo_09f4efc0:
 
     # bna "He didn't want you from the start. He said it himself. Why are you deluding yourself?"
-    bna ""
+    bna "Ele não te queria de começo. Ele próprio disse isso. Por que você tá se iludindo?"
 
 # game/script.rpy:3519
 translate portuguese choosedo_c69d37da:
 
     # bna "Why are you believing him? When you know he's just doing it because he feels bad?"
-    bna ""
+    bna "Por que você acredita nele? Sendo que ele só fez isso tudo por se sentir mal?"
 
 # game/script.rpy:3520
 translate portuguese choosedo_bebd7ec6:
 
     # bna "Really... no one cares about you."
-    bna ""
+    bna "Sério... ninguém liga pra você."
 
 # game/script.rpy:3521
 translate portuguese choosedo_afb5a46d:
 
     # m "But even without that, it's also nice to just... bond with you."
-    m ""
+    m "Mas mesmo sem isso, também é bom só... criar laços."
 
 # game/script.rpy:3522
 translate portuguese choosedo_8646ce12:
 
     # m "So, whenever you want a hug, I'll be here... just ask."
-    m ""
+    m "Então, quando quiser um abraço, lembre-se... é só pedir."
 
 # game/script.rpy:3523
 translate portuguese choosedo_d3ec0a9b:
 
     # b "...Sure."
-    b ""
+    b "...Certo."
 
 # game/script.rpy:3530
 translate portuguese choosedo_92d32886:
 
     # m "I know we didn't do much today, but I promise I'll take you out somewhere awesome tomorrow!"
-    m ""
+    m "Eu sei que a gente não fez muito hoje, mas prometo que vamos pra um lugar daora amanhã!"
 
 # game/script.rpy:3531
 translate portuguese choosedo_a2af7b77:
 
     # m "We'll do anything you want!"
-    m ""
+    m "Faremos o que você quiser!"
 
 # game/script.rpy:3533
 translate portuguese choosedo_69411914:
 
     # b "Thank you! I look forward to it!"
-    b ""
+    b "Obrigada! Tô ansiosa pra isso!"
 
 # game/script.rpy:3537
 translate portuguese choosedo_29f4e65c:
 
     # m "By the way... aren't you thirsty? I thought you were supposed to be watered twice a day..."
-    m ""
+    m "A propósito... você tá com sede? Achei que era pra você ser regada duas vezes por dia..."
 
 # game/script.rpy:3538
 translate portuguese choosedo_da66bb3c:
 
     # bna "Thirst is about the only thing that gives you pain. Are you sure you want to give it up?"
-    bna ""
+    bna "Sede é basicamente a única coisa que te inflinge dor. Quer mesmo deixar de sentí-la?"
 
 # game/script.rpy:3540
 translate portuguese choosedo_28184a7b:
 
     # b "I'm good!"
-    b ""
+    b "Eu tô bem!"
 
 # game/script.rpy:3542
 translate portuguese choosedo_503225f4:
 
     # m "You know yourself better than I do, so ok."
-    m ""
+    m "Você se conhece melhor do que eu, então ok."
 
 # game/script.rpy:3544
 translate portuguese choosedo_b990f2cf:
 
     # m "Thanks for watching those videos with me earlier, it was really fun to share some of my favourites."
-    m ""
+    m "Valeu por assistir aqueles vídeos comigo, foi divertido compartilhar alguns dos meus favoritos."
 
 # game/script.rpy:3545
 translate portuguese choosedo_507b2c6f:
 
     # bna "You don't know what it is you watched. You just remember %(player_name)s laughing."
-    bna ""
+    bna "Você não sabe o que foi que assistiu. Você só lembra do %(player_name)s rindo."
 
 # game/script.rpy:3547
 translate portuguese choosedo_9d1a3906:
 
     # b "Yeah, it was really funny!"
-    b ""
+    b "É, foi bem engraçado!"
 
 # game/script.rpy:3549
 translate portuguese choosedo_aefea039:
 
     # m "Well, I'm gonna lie down now, but I bet you're going to want to cuddle again."
-    m ""
+    m "Bom, eu vou dormir agora, mas acho que você vai querer ficar abraçada de novo."
 
 # game/script.rpy:3551
 translate portuguese choosedo_082494b9:
 
     # b "No, I'm ok."
-    b ""
+    b "Não, eu tô bem."
 
 # game/script.rpy:3553
 translate portuguese choosedo_44c34c15:
 
     # m "Uh... unexpected. What are you going to do?"
-    m ""
+    m "Uhm... inesperado. O que pretende fazer?"
 
 # game/script.rpy:3555
 translate portuguese choosedo_0e2c6d12:
 
     # b "Hmm... not sure! Maybe I'll look around. Maybe I'll... think."
-    b ""
+    b "Hmm... não sei! Talvez ficar olhando o quarto. Talvez só... refletir."
 
 # game/script.rpy:3557
 translate portuguese choosedo_e913a4cb:
 
     # m "Ok..."
-    m ""
+    m "Tá certo..."
 
 # game/script.rpy:3559
 translate portuguese choosedo_80d45649:
 
     # m "If you change your mind-"
-    m ""
+    m "Se você mudar de idea-"
 
 # game/script.rpy:3561
 translate portuguese choosedo_81ad675e:
 
     # b "Mhm, thanks, goodnight!"
-    b ""
+    b "Aham, obrigada, boa noite!"
 
 # game/script.rpy:3563
 translate portuguese choosedo_3caf8f9d:
 
     # m "Alright, night. See you in the morning."
-    m ""
+    m "Certo, boa note. Até amanhã de manhã."
 
 # game/script.rpy:3605
 translate portuguese choosedo_9446ee3b:
 
     # m "Mmm... Good morning..."
-    m ""
+    m "Mmm... Bom dia..."
 
 # game/script.rpy:3607
 translate portuguese choosedo_6237ac1e_1:
 
     # m "Button?"
-    m ""
+    m "Botão?"
 
 # game/script.rpy:3611
 translate portuguese choosedo_a376d254:
 
     # m "BUTTON!"
-    m ""
+    m "BOTÃO!"
 
 # game/script.rpy:3644
 translate portuguese choosedo_6a6965b0:
 
     # m "{sc=3}{color=#000000}Oh my God!"
-    m ""
+    m "{sc=3}{color=#000000}Ai meu Deus!"
 
 # game/script.rpy:3645
 translate portuguese choosedo_17414144:
 
     # m "What happened!?" with sshake
-    m "" with sshake
+    m "O que aconteceu!?" with sshake
 
 # game/script.rpy:3646
 translate portuguese choosedo_850ef128_2:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:3647
 translate portuguese choosedo_d1ccd689:
 
     # b "It didn't even... {i}hurt{/i}."
-    b ""
+    b "Isso nem mesmo... {i}doeu{/i}."
 
 # game/script.rpy:3648
 translate portuguese choosedo_5b166a97:
 
     # m "I'm... I'm so sorry. I should have realised..."
-    m ""
+    m "Me... me desculpa. Eu deveria ter percebido..."
 
 # game/script.rpy:3649
 translate portuguese choosedo_61d1d0af:
 
     # m "I thought you were doing better... I thought you said you were looking forward to today... so I just ignored my worries..."
-    m ""
+    m "Eu pensei que você tava melhor... pensei que você tinha dito estar ansiosa pra hoje... e acabei ignorando as preocupações..."
 
 # game/script.rpy:3650
 translate portuguese choosedo_db248df9:
 
     # m "But you're obviously not ok!"
-    m ""
+    m "Mas você claramente não tá bem!"
 
 # game/script.rpy:3666
 translate portuguese choosedo_c6e179d5:
 
     # b "Yeah. I'm not."
-    b ""
+    b "É. Eu não tô."
 
 # game/script.rpy:3667
 translate portuguese choosedo_a3da8194:
 
     # b "I'm not ok."
-    b ""
+    b "Eu não tô bem."
 
 # game/script.rpy:3668
 translate portuguese choosedo_84390db2:
 
     # b "I'm just broken now."
-    b ""
+    b "Eu tô quebrada agora."
 
 # game/script.rpy:3669
 translate portuguese choosedo_f3ef3ecf:
 
     # m "Don't say that! You're just... it'll be okay..."
-    m ""
+    m "Não diga isso! Você... vai ficar tudo bem..."
 
 # game/script.rpy:3670
 translate portuguese choosedo_44db0fcd:
 
     # b "Liar."
-    b ""
+    b "Mentiroso."
 
 # game/script.rpy:3671
 translate portuguese choosedo_5d1b5786:
 
     # b "Ahh..."
-    b ""
+    b "Ahh..."
 
 # game/script.rpy:3672
 translate portuguese choosedo_1a96399a:
 
     # b "I want to leave... disappear... whatever."
-    b ""
+    b "Eu quero sumir... desaparecer... o que seja."
 
 # game/script.rpy:3673
 translate portuguese choosedo_571a4a9e:
 
     # b "You can eat me now, %(player_name)s. Like you wanted."
-    b ""
+    b "Você pode me devorar agora, %(player_name)s. Tal como queria."
 
 # game/script.rpy:3674
 translate portuguese choosedo_25931ba0:
 
     # m "You're not in the right mind to be making a decision like that..."
-    m ""
+    m "Você não tá com cabeça pra tomar uma decisão como essa..."
 
 # game/script.rpy:3676
 translate portuguese choosedo_74998515:
 
     # m "And your arm... why...?"
-    m ""
+    m "E o seu braço... por que...?"
 
 # game/script.rpy:3677
 translate portuguese choosedo_850ef128_3:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:3678
 translate portuguese choosedo_53988d1b:
 
     # m "I'm so sorry."
-    m ""
+    m "Me desculpa."
 
 # game/script.rpy:3679
 translate portuguese choosedo_26a216a1:
 
     # m "Let's just forget this and go out and do something! Or a therapist could-"
-    m ""
+    m "Vamos só esquecer isso e sair pra fazer algo! Ou um terapeuta poderia-"
 
 # game/script.rpy:3680
 translate portuguese choosedo_74d5c9fd:
 
     # "She shows you the boxcutter. It has bits of mushroom flesh stuck to it."
-    ""
+    "Ela te mostra o estilete. A lâmina tem pedaços de cogumelo grudados."
 
 # game/script.rpy:3681
 translate portuguese choosedo_b774c2de:
 
     # m "Oh my God! What? No! I'm not taking that!"
-    m ""
+    m "Ai meu Deus! O que? Não! Eu não vou pegar isso!"
 
 # game/script.rpy:3682
 translate portuguese choosedo_a9aedebc:
 
     # b "You don't know what it's like... feeling your body and mind start to shrivel."
-    b ""
+    b "Você não sabe como é... sentir o seu corpo e mente começarem a murchar."
 
 # game/script.rpy:3683
 translate portuguese choosedo_e1d0d6ba:
 
     # m "You're... hurting?"
-    m ""
+    m "Você... tá doendo?"
 
 # game/script.rpy:3684
 translate portuguese choosedo_806bec93:
 
     # b "Mm, yeah."
-    b ""
+    b "Sim..."
 
 # game/script.rpy:3685
 translate portuguese choosedo_9b871323:
 
     # b "Now, I can feel death {sc=1}{color=#000000}closing{/sc} in on me. Hour by hour."
-    b ""
+    b "Posso sentir a morte me {sc=1}{color=#000000}cercando{/sc}. De hora em hora."
 
 # game/script.rpy:3686
 translate portuguese choosedo_90e677e7:
 
     # b "Can you imagine that?"
-    b ""
+    b "Você consegue imaginar?"
 
 # game/script.rpy:3687
 translate portuguese choosedo_1cea9a9c:
 
     # b "I can't just pretend I'm happy anymore."
-    b ""
+    b "Não dá mais pra fingir que tô feliz."
 
 # game/script.rpy:3688
 translate portuguese choosedo_21ac637e:
 
     # "She laughs softly to herself."
-    ""
+    "Ela ri suavemente pra si mesma."
 
 # game/script.rpy:3695
 translate portuguese choosedo_9d38a483:
 
     # b "I've ruined myself already. I may as well die."
-    b ""
+    b "Eu já arruinei a mim mesma. Eu poderia só morrer."
 
 # game/script.rpy:3696
 translate portuguese choosedo_92d5b6cb:
 
     # m "Button, I know what you're going through. I can help you get better! Let's just hug and-"
-    m ""
+    m "Botão, eu sei o que você tá passando. Eu posso te ajudar a melhorar! Vamos nos abraçar e-"
 
 # game/script.rpy:3701
 translate portuguese choosedo_eee80796:
 
     # b "I hate your hugs."
-    b ""
+    b "Eu odeio seus abraços."
 
 # game/script.rpy:3702
 translate portuguese choosedo_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:3703
 translate portuguese choosedo_850ef128_4:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:3709
 translate portuguese choosedo_33a9b25c:
 
     # b "I'm sorry."
-    b ""
+    b "Me desculpa."
 
 # game/script.rpy:3710
 translate portuguese choosedo_668f1762:
 
     # b "I've become... a bad person."
-    b ""
+    b "Eu virei... uma pessoa ruim."
 
 # game/script.rpy:3711
 translate portuguese choosedo_0e4b9515:
 
     # m "No, you haven't! It's ok. I'll forgive a few angry words."
-    m ""
+    m "Não, não virou! Tá tudo bem. Eu perdoo suas palavras."
 
 # game/script.rpy:3712
 translate portuguese choosedo_030f1b85:
 
     # m "But in return, can you please try calm down with me? I promise it'll help."
-    m ""
+    m "Mas em troca, você poderia se acalmar comigo? Eu prometo que vou te ajudar."
 
 # game/script.rpy:3713
 translate portuguese choosedo_f9626455:
 
     # b "%(player_name)s..."
-    b ""
+    b "%(player_name)s..."
 
 # game/script.rpy:3714
 translate portuguese choosedo_eb7a0a73:
 
     # b "I know you mean well, but it's too late for me."
-    b ""
+    b "Suas intenções são boas, mas já é tarde pra mim."
 
 # game/script.rpy:3715
 translate portuguese choosedo_e2022202:
 
     # b "I'm fine if I disappear now."
-    b ""
+    b "Tá tudo bem se seu sumir agora."
 
 # game/script.rpy:3716
 translate portuguese choosedo_5a2fe8ca:
 
     # b "You know I'm right. We're out of time. As my last request..."
-    b ""
+    b "Você sabe que tô certa. Estamos sem tempo. Meu último desejo é..."
 
 # game/script.rpy:3717
 translate portuguese choosedo_850ef128_5:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:3718
 translate portuguese choosedo_534214d1:
 
     # b "... I'm too scared to do it myself."
-    b ""
+    b "... Tenho medo de fazer isso eu mesma."
 
 # game/script.rpy:3719
 translate portuguese choosedo_55e1f41e:
 
     # b "Could you help me?"
-    b ""
+    b "Pode me ajudar?"
 
 # game/script.rpy:3720
 translate portuguese choosedo_94a1811a:
 
     # b "Please?"
-    b ""
+    b "Por favor?"
 
 # game/script.rpy:3740
 translate portuguese no1_47ba7d94:
 
     # m "No."
-    m ""
+    m "Não."
 
 # game/script.rpy:3741
 translate portuguese no1_c59b9a71:
 
     # m "You still have time left, even if it's just a little. You can't ask me to cut that short."
-    m ""
+    m "Você ainda tem tempo restando, mesmo que só um pouco. Não dá pra pedir pra eu encurtá-lo."
 
 # game/script.rpy:3742
 translate portuguese no1_5ef085c5:
 
     # m "Because... there's still a possibility you can be happy again!"
-    m ""
+    m "Pois... ainda é possível que você fique feliz de novo!"
 
 # game/script.rpy:3750
 translate portuguese no1_88967e40:
 
     # b "It's hopeless."
-    b ""
+    b "Não há esperança."
 
 # game/script.rpy:3751
 translate portuguese no1_931f0921:
 
     # b "Happiness doesn't want me back."
-    b ""
+    b "A felicidade não me quer mais."
 
 # game/script.rpy:3753
 translate portuguese no1_45a6f05c:
 
     # b "I just... want to die."
-    b ""
+    b "Eu só quero... morrer."
 
 # game/script.rpy:3754
 translate portuguese no1_8cba14f4:
 
     # b "It's my only escape."
-    b ""
+    b "É minha única saída."
 
 # game/script.rpy:3774
 translate portuguese no2_e6bf6470:
 
     # m "Button, I... I know what you're going through. Trust me."
-    m ""
+    m "Botão, eu... eu sei o que você tá passando. Acredita em mim."
 
 # game/script.rpy:3775
 translate portuguese no2_4da925b3:
 
     # m "I know what it's like to do something to yourself and regret it."
-    m ""
+    m "Eu sei como é fazer algo pra si mesma e se arrepender depois."
 
 # game/script.rpy:3776
 translate portuguese no2_c65c23dd:
 
     # m "But it gets better. I promise you. Please?"
-    m ""
+    m "Mas tudo melhora. Eu prometo. Por favor."
 
 # game/script.rpy:3785
 translate portuguese no2_77a3cdd8:
 
     # b "What are {sc=1}{color=#000000}you {/sc}{sc=2}{color=#000000}doing{/sc}?"
-    b ""
+    b "O que {sc=1}{color=#000000}você tá {/sc}{sc=2}{color=#000000}fazendo{/sc}?"
 
 # game/script.rpy:3786
 translate portuguese no2_e94af96c:
 
     # m "Convincing you to live!"
-    m ""
+    m "Te convencendo a viver!"
 
 # game/script.rpy:3787
 translate portuguese no2_bcea5446:
 
     # b "You're not listening! You would have eaten me tonight anyway. There's no point."
-    b ""
+    b "Você não tá me ouvindo! Eu seria consumida a noite de qualquer jeito. Não faz sentido."
 
 # game/script.rpy:3788
 translate portuguese no2_35f0e4c9:
 
     # m "But, right now, we could still maybe have some fun! It can end on a good note!"
-    m ""
+    m "Mas agora, nós poderia nos divertir um pouco! Dá pra acabar em um bom tom!"
 
 # game/script.rpy:3789
 translate portuguese no2_83a3f187:
 
     # b "I tried! But I'm tired and I hurt."
-    b ""
+    b "Eu tentei! Mas o cansaço e a dor são grandes."
 
 # game/script.rpy:3790
 translate portuguese no2_1074f435:
 
     # b "Why won't you just... help me already?"
-    b ""
+    b "Por que você não vem e... me ajuda?"
 
 # game/script.rpy:3791
 translate portuguese no2_ac1a813d:
 
     # b "Please."
-    b ""
+    b "Por favor."
 
 # game/script.rpy:3812
 translate portuguese no3_f7e040c2:
 
     # m "No! I'm not going to!"
-    m ""
+    m "Não! Eu não vou!"
 
 # game/script.rpy:3831
 translate portuguese no3_54b0b714:
 
     # b "Why won't you {sc=2}{color=#000000}help{/sc} me?"
-    b ""
+    b "Por que você não me {sc=2}{color=#000000}ajuda{/sc}?"
 
 # game/script.rpy:3832
 translate portuguese no3_9335f9de:
 
     # b "You're the {sc=2}{color=#000000}only{/sc} one who can..."
-    b ""
+    b "Você é o {sc=2}{color=#000000}único{/sc} que pode..."
 
 # game/script.rpy:3833
 translate portuguese no3_0e784e98:
 
     # m "I can't kill you and I can't let you kill yourself."
-    m ""
+    m "Eu não posso te matar e nem deixar você se matar."
 
 # game/script.rpy:3834
 translate portuguese no3_70881fac:
 
     # b "You're being {sc=1}{color=#000000}selfish{/sc}!"
-    b ""
+    b "Você tá sendo {sc=1}{color=#000000}egoísta{/sc}!"
 
 # game/script.rpy:3835
 translate portuguese no3_34d07dc3:
 
     # b "I... I deserve to choose when I {sc=1}{color=#000000}die{/sc}!"
-    b ""
+    b "Eu... eu tenho o direito de escolher quando {sc=1}{color=#000000}morrer{/sc}!"
 
 # game/script.rpy:3856
 translate portuguese no4_d52914ee:
 
     # m "You're just emotional right now!"
-    m ""
+    m "Você só tá sendo emotiva!"
 
 # game/script.rpy:3857
 translate portuguese no4_5d8c35e0:
 
     # m "You just need to take some deep breaths first!"
-    m ""
+    m "Você só precisa parar e respirar fundo primeiro!"
 
 # game/script.rpy:3858
 translate portuguese no4_877a26ff:
 
     # m "If you just calm down..."
-    m ""
+    m "Se você só se acalmar..."
 
 # game/script.rpy:3868
 translate portuguese no4_b7c9f34b:
 
     # b "{sc=3}{b}{size=+40}{color=#000000}STOP TELLING ME WHAT TO DO!" with sshake
-    b "" with sshake
+    b "{sc=3}{b}{size=+40}{color=#000000}PARA DE ME DIZER O QUE FAZER!" with sshake
 
 # game/script.rpy:3871
 translate portuguese no4_7489dc67:
 
     # b "{sc=7}{b}{size=+40}{color=#000000}I HATE THIS!"
-    b ""
+    b "{sc=7}{b}{size=+40}{color=#000000}EU ODEIO ISSO!"
 
 # game/script.rpy:3872
 translate portuguese no4_99fab1ba:
 
     # m "Please stop shouting! I can't help you if-"
-    m ""
+    m "Para de gritar por favor! Não posso ajudar se você-"
 
 # game/script.rpy:3873
 translate portuguese no4_231cf544:
 
     # b "{sc=8}{b}{size=+40}{color=#000000}DON'T TALK ME OUT OF THIS!"
-    b ""
+    b "{sc=8}{b}{size=+40}{color=#000000}NÃO ME FALA O QUE FAZER!"
 
 # game/script.rpy:3874
 translate portuguese no4_aa5c0bbe:
 
     # b "{sc=8}{b}{size=+40}{color=#000000}WILL YOU HELP ME OR NOT!?"
-    b ""
+    b "{sc=8}{b}{size=+40}{color=#000000}VOCÊ VAI ME AJUDAR OU NÃO!?"
 
 # game/script.rpy:4116
 translate portuguese no7_b9b5b987:
 
     # m "{sc=3}{b}{size=+20}{color=#000000}I CAN'T OKAY!?"
-    m ""
+    m "{sc=3}{b}{size=+20}{color=#000000}EU NÃO CONSIGO, TÁ!?"
 
 # game/script.rpy:4117
 translate portuguese no7_74e3fcc8:
 
     # m "{sc=3}{b}{size=+20}{color=#000000}I JUST {cps=20}CAN'T{/cps} DO IT!"
-    m ""
+    m "{sc=3}{b}{size=+20}{color=#000000}EU SÓ {cps=20}NÃO CONSIGO!{/cps}"
 
 # game/script.rpy:4212
 translate portuguese killher_2d8ce0b7:
 
     # m "Fine..."
-    m ""
+    m "Certo..."
 
 # game/script.rpy:4213
 translate portuguese killher_a891494f:
 
     # m "I'll do it."
-    m ""
+    m "Eu farei isso."
 
 # game/script.rpy:4214
 translate portuguese killher_2e243c05:
 
     # m "I'm so sorry you're in so much pain. I'll help you. You won't be alone."
-    m ""
+    m "Eu sinto muito que doa tanto. Eu te ajudo. Você não tá sozinha nessa."
 
 # game/script.rpy:4223
 translate portuguese killher_fe844cba:
 
     # b "You mean it?"
-    b ""
+    b "Sério?"
 
 # game/script.rpy:4224
 translate portuguese killher_dfdec47c:
 
     # m "I do."
-    m ""
+    m "Sim."
 
 # game/script.rpy:4225
 translate portuguese killher_c18079fe:
 
     # m "I just... I guess I just don't want you to go."
-    m ""
+    m "Eu só... Eu só não quero que você se vá."
 
 # game/script.rpy:4226
 translate portuguese killher_b268cc0a:
 
     # m "You were the first thing in a long time that's brought me any joy."
-    m ""
+    m "Você foi a primeira coisa em tanto tempo que me deu alegria."
 
 # game/script.rpy:4227
 translate portuguese killher_599085c4:
 
     # m "But this isn't about me."
-    m ""
+    m "Mas isso não é sobre mim"
 
 # game/script.rpy:4234
 translate portuguese killher_850ef128:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:4241
 translate portuguese killher_0f34104f:
 
     # b "Thank you."
-    b ""
+    b "Obrigada."
 
 # game/script.rpy:4242
 translate portuguese killher_602811e4:
 
     # "Those words sting your ears."
-    ""
+    "Essas palavras são como flechas."
 
 # game/script.rpy:4246
 translate portuguese killher_554d44ac:
 
     # "Immediately, she holds out the boxcutter once more."
-    ""
+    "Imediatamente, ela estende o estilete mais uma vez."
 
 # game/script.rpy:4247
 translate portuguese killher_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:4248
 translate portuguese killher_6a3305d9:
 
     # "This time, you take it."
-    ""
+    "Dessa vez, você pega."
 
 # game/script.rpy:4249
 translate portuguese killher_f1f9ad47:
 
     # "You move closer and try not be sick. But this isn't about you, remember?"
-    ""
+    "Você se aproxima e tenta não vomitar. Mas não é sobre você, lembra?"
 
 # game/script.rpy:4250
 translate portuguese killher_82d578c7:
 
     # "Just listen to her. Just get this over with."
-    ""
+    "Só escuta ela. Só acaba logo com isso."
 
 # game/script.rpy:4251
 translate portuguese killher_57ece65e:
 
     # b "You'll just need to cut off my head."
-    b ""
+    b "Você só precisa cortar minha cabeça."
 
 # game/script.rpy:4252
 translate portuguese killher_4d652f15:
 
     # b "I'm ready."
-    b ""
+    b "Eu tô pronta"
 
 # game/script.rpy:4258
 translate portuguese killher_6a9c0ea0:
 
     # "You position the blade just below her jawline."
-    ""
+    "Você posiciona a lâmina abaixo do queixo dela."
 
 # game/script.rpy:4259
 translate portuguese killher_4298586f:
 
     # m "I'm sorry it was like this, Button."
-    m ""
+    m "Me desculpa que tenha sido assim, Botão."
 
 # game/script.rpy:4260
 translate portuguese killher_4b2efef6:
 
     # b "I'm not sorry. I'm just grateful. Goodbye."
-    b ""
+    b "Não me arrependo. Só estou grata. Adeus."
 
 # game/script.rpy:4262
 translate portuguese killher_d4dacc5d:
 
     # "Button's mouth relaxes into a smile as you slice her throat."
-    ""
+    "A boca da Botão relaxa em um sorriso ao ter a garganta cortada."
 
 # game/script.rpy:4263
 translate portuguese killher_9d931051:
 
     # "The boxcutter runs through her flesh like butter, just as she said."
-    ""
+    "O estilete atravessa a carne como manteiga, assim como ela disse."
 
 # game/script.rpy:4264
 translate portuguese killher_1ac38ace:
 
     # "You keep cutting, trying to end it all as quickly as possible."
-    ""
+    "Você continua cortando, tentando acabar o mais rápido possível."
 
 # game/script.rpy:4265
 translate portuguese killher_e9c87764:
 
     # "Her head thuds to the ground. Right next to her arm and limp body."
-    ""
+    "A cabeça dela cai no chão. Próximo ao braço e ao corpo dela."
 
 # game/script.rpy:4359
 translate portuguese killher_097fb36a:
 
     # b "Thank you for taking me out!"
-    b ""
+    b "Obrigado por me levar pra sair."
 
 # game/script.rpy:4360
 translate portuguese killher_ac3afacd:
 
     # m "Mhm."
-    m ""
+    m "Mhm."
 
 # game/script.rpy:4362
 translate portuguese killher_dff88d74:
 
     # m "Ugh, I'm still kinda hungry."
-    m ""
+    m "Antedeguemon"
 
 # game/script.rpy:4365
 translate portuguese killher_b523b35b:
