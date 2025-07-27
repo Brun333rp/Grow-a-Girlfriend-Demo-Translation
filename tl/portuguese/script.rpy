@@ -7316,37 +7316,37 @@ translate portuguese pizza_4da52a1a:
 translate portuguese pizza_0bf7e4c7:
 
     # "At your insistence, you pretend to be the receiver and run through the scenario with Button a few times."
-    "Antedeguemon"
+    "Por insistência sua, você finge ser o receptor e simula o cenário com a Botão algumas vezes."
 
 # game/script.rpy:4657
 translate portuguese pizza_17cfeaa2:
 
     # "You add in potential threats such as a bad connection, long waiting time, non-availability of your desired pizza..."
-    ""
+    "Você adiciona ao meio ameaças em potencial, como conexão ruim, tempo de espera, indisponibilidade da pizza desejada..."
 
 # game/script.rpy:4658
 translate portuguese pizza_2da08ea7:
 
     # "However she manoeuvres through all of your challenges expertly."
-    ""
+    "No entanto, ela supera todos os seus desafios com esperteza."
 
 # game/script.rpy:4659
 translate portuguese pizza_16ab3f8b:
 
     # "For a second, you think maybe YOU can do it afterall. You'd have Button at your side to support you!"
-    ""
+    "Por um segundo, você pensa ser CAPAZ de fazer isso sozinho. A Botão estaria ao seu lado pra apoiá-lo!"
 
 # game/script.rpy:4661
 translate portuguese pizza_edefac24:
 
     # "And so, your fingers really push the buttons."
-    ""
+    "E assim, você tecla os botões do telefone."
 
 # game/script.rpy:4663
 translate portuguese pizza_607e8961:
 
     # "But the sound of the dialing tone, of imminent connection to a stranger, kills your fragile confidence."
-    ""
+    "Antedeguemon"
 
 # game/script.rpy:4664
 translate portuguese pizza_26677143:
