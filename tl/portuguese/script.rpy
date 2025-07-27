@@ -5468,13 +5468,13 @@ translate portuguese returnhome_3384845e:
 translate portuguese returnhome_3ddd5d20:
 
     # "...and open up a new box of ramen noodles from under your bed. You take out three packages and toss the boxcutter to your desk."
-    "...e abre uma caixa de miojo que tem em baixo da cama. Você pega uns três pacotes de miojo e joga o estilete em cima da mesa."
+    "...e abre uma caixa de lámen que tem em baixo da cama. Você pega uns três pacotes de lámen e joga o estilete em cima da mesa."
 
 # game/script.rpy:3206
 translate portuguese returnhome_0d05bb51:
 
     # m "I'm going to cook some ramen in the kitchenette quick. Be right back."
-    m "Vou lá na cozinha fazer um pouco de miojo. Já já eu volto."
+    m "Vou lá na cozinha fazer um pouco de lámen. Já já eu volto."
 
 # game/script.rpy:3208
 translate portuguese returnhome_0dbfa178:
@@ -6734,589 +6734,589 @@ translate portuguese killher_ac3afacd:
 translate portuguese killher_dff88d74:
 
     # m "Ugh, I'm still kinda hungry."
-    m "Antedeguemon"
+    m "Ugh, ainda tô com fome."
 
 # game/script.rpy:4365
 translate portuguese killher_b523b35b:
 
     # b "Speaking of needs, I should probably water myself after all that exercise."
-    b ""
+    b "Falando em necessidades, eu deveria me regar depois de tanto exercício."
 
 # game/script.rpy:4376
 translate portuguese killher_20589e34:
 
     # b "And I'm thirrrrrrrsty!"
-    b ""
+    b "E eu tô com seeeeeede!"
 
 # game/script.rpy:4378
 translate portuguese killher_37aa2ed2:
 
     # m "AGAIN!? Can't you just... spray yourself?"
-    m ""
+    m "DE NOVO!? Você não pode... borrifar a si mesma?"
 
 # game/script.rpy:4380
 translate portuguese killher_30b26dd6:
 
     # b "Nah... It feels sooooo much nicer when you do it!"
-    b ""
+    b "Nah... É muuuuuito melhor quando você faz isso!"
 
 # game/script.rpy:4407
 translate portuguese day1_watered_4_19adf484:
 
     # b "Revitalisation, complete! Thank you!"
-    b ""
+    b "Revitalização completa! Obrigada!"
 
 # game/script.rpy:4412
 translate portuguese day1_watered_4_4004d440:
 
     # b "You said you were still hungry... Are you going to eat me tonight?"
-    b ""
+    b "Você disse que ainda tá com fome... Você vai me consumir hoje?"
 
 # game/script.rpy:4414
 translate portuguese day1_watered_4_c1f2c54a:
 
     # m "(The only thing I have to eat are instant noodles, and I'm getting pretty tired of those.)"
-    m ""
+    m "(A única coisa que tenho pra comer é lámen, e eu tô ficando meio enjoado disso.)"
 
 # game/script.rpy:4421
 translate portuguese day1_watered_4_b583b956:
 
     # m "I'm sorry..."
-    m ""
+    m "Me desculpa..."
 
 # game/script.rpy:4423
 translate portuguese day1_watered_4_854c2cda:
 
     # b "Don't be! Remember our first interaction? Retract your sorry!"
-    b ""
+    b "Não se sinta mal! Lembra quando nos conhecemos? Retire sua desculpa!"
 
 # game/script.rpy:4425
 translate portuguese day1_watered_4_72842bc8:
 
     # m "Sorry retracted."
-    m ""
+    m "Desculpa retirada."
 
 # game/script.rpy:4427
 translate portuguese day1_watered_4_f482297e:
 
     # m "It's just... It was fun."
-    m ""
+    m "É só que... Foi divertido."
 
 # game/script.rpy:4428
 translate portuguese day1_watered_4_e00eefba:
 
     # m "Thank you for being so nice."
-    m ""
+    m "Valeu por ser tão legal comigo."
 
 # game/script.rpy:4429
 translate portuguese day1_watered_4_7cb2c468:
 
     # m "I don't know how I'm going to eat you, but-"
-    m ""
+    m "Eu nem sei como eu vou te comer, mas-"
 
 # game/script.rpy:4431
 translate portuguese day1_watered_4_6c8a3f14:
 
     # b "Grilled with butter and garlic!"
-    b ""
+    b "Me grelha com manteiga e alho!"
 
 # game/script.rpy:4433
 translate portuguese day1_watered_4_7145fc63:
 
     # b "That way you'll get a very pure, but yummy, taste! It's great with pasta!"
-    b ""
+    b "Assim, você obtém um sabor puro, mas delicioso! Fica ótimo com macarrão!"
 
 # game/script.rpy:4434
 translate portuguese day1_watered_4_850ef128:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:4436
 translate portuguese day1_watered_4_7a61f51a:
 
     # b "%(player_name)s, I really enjoyed these past two days, but..."
-    b ""
+    b "%(player_name)s, eu realmente gostei desses últimos dias, mas..."
 
 # game/script.rpy:4438
 translate portuguese day1_watered_4_47d5adf0:
 
     # b "I've noticed that you get really stressed sometimes."
-    b ""
+    b "Eu percebi que você fica muito estressado às vezes."
 
 # game/script.rpy:4440
 translate portuguese day1_watered_4_36901455:
 
     # b "So... just know that I think you're pretty cool."
-    b ""
+    b "Então... saiba que eu acho você bem legal."
 
 # game/script.rpy:4442
 translate portuguese day1_watered_4_0b5e2626:
 
     # b "I really hope I've been able to help you relieve some stress a little. I think that was my original purpose."
-    b ""
+    b "Espero muito que eu tenha te ajudado a aliviar um pouco o estresse. Acho que esse era o meu propósito original."
 
 # game/script.rpy:4444
 translate portuguese day1_watered_4_829b24c5:
 
     # b "I hope you enjoy eating my body."
-    b ""
+    b "Espero que curta se alimentar de mim."
 
 # game/script.rpy:4446
 translate portuguese day1_watered_4_c132562f:
 
     # m "(Why are you like this?)"
-    m ""
+    m "(Por que você é assim?)"
 
 # game/script.rpy:4448
 translate portuguese day1_watered_4_f4639dc5:
 
     # m "Thanks too, Button."
-    m ""
+    m "Valeu também, Botão."
 
 # game/script.rpy:4450
 translate portuguese day1_watered_4_e1d37c31:
 
     # b "May I make a request?"
-    b ""
+    b "Posso pedir algo?"
 
 # game/script.rpy:4452
 translate portuguese day1_watered_4_a810d3f5:
 
     # m "Yeah?"
-    m ""
+    m "Sim?"
 
 # game/script.rpy:4454
 translate portuguese day1_watered_4_17b3b8b7:
 
     # m "(Is it going to be lewd???)"
-    m ""
+    m "(Vai ser algo obsceno???)"
 
 # game/script.rpy:4455
 translate portuguese day1_watered_4_00e276ba:
 
     # b "Can we..."
-    b ""
+    b "Podemos..."
 
 # game/script.rpy:4457
 translate portuguese day1_watered_4_871eef17:
 
     # b "... hug?"
-    b ""
+    b "... abraçar?"
 
 # game/script.rpy:4459
 translate portuguese day1_watered_4_92cd576e:
 
     # m "Oh... um... yeah."
-    m ""
+    m "Ah... é... claro."
 
 # game/script.rpy:4461
 translate portuguese day1_watered_4_590302e4:
 
     # b "Thank you!"
-    b ""
+    b "Obrigada!"
 
 # game/script.rpy:4470
 translate portuguese day1_watered_4_4ee440d6:
 
     # "You hug each other tightly. It's sad, but it doesn't feel as horrible as you thought it would."
-    ""
+    "Vocês dão um abraço apertado. É triste, mas não está sendo tão horrível quanto você imaginava."
 
 # game/script.rpy:4472
 translate portuguese day1_watered_4_e97e9d8e:
 
     # "And, to your utter surprise..."
-    ""
+    "E, pra sua grande surpresa..."
 
 # game/script.rpy:4473
 translate portuguese day1_watered_4_f5135efb:
 
     # "Button even presses a light kiss on your cheek!"
-    ""
+    "A Botão te dá um beijo de leve na bochecha!"
 
 # game/script.rpy:4484
 translate portuguese day1_watered_4_df95931a:
 
     # "She stopped responding after you chopped off her head."
-    ""
+    "Ela para de responder após ter a cabeça cortada."
 
 # game/script.rpy:4485
 translate portuguese day1_watered_4_24f52875:
 
     # "The rest you sealed in plastic bags to use over the next few days."
-    ""
+    "O resto, você guarda em sacos plásticos pra usar nos próximos dias."
 
 # game/script.rpy:4486
 translate portuguese day1_watered_4_4b25cf15:
 
     # "You slice the mushroom flesh and sauté it with butter, garlic and herbs, then toss it with some pasta."
-    ""
+    "Você corta a cabeça dela em fatias e refoga com manteiga, alho e ervas, e depois mistura com macarrão."
 
 # game/script.rpy:4516
 translate portuguese day1_watered_4_f16d2bd6:
 
     # "You're salivating at the aroma and when you finally taste it..."
-    ""
+    "O aroma te faz salivar e quando você finalmente experimenta..."
 
 # game/script.rpy:4517
 translate portuguese day1_watered_4_7eb7b9ee:
 
     # "Its nutritious, comforting juices spread over your tongue, instantly dissipating your mournful thoughts."
-    ""
+    "Uma explosão nutritiva e acolhedora de sabores invadem sua boca, afastando na hora os pensamentos tristes."
 
 # game/script.rpy:4518
 translate portuguese day1_watered_4_c9772a96:
 
     # "It's terrifying to think about the ethics of what has just transpired."
-    ""
+    "É assustador pensar sobre a ética do que acabou de acontecer."
 
 # game/script.rpy:4519
 translate portuguese day1_watered_4_c87fccc5:
 
     # "But you think you did a good job with her overall."
-    ""
+    "Mas você acha que fez um bom trabalho. Afinal..."
 
 # game/script.rpy:4523
 translate portuguese day1_watered_4_7bddd527:
 
     # "She said she was happy, right?"
-    ""
+    "Ela disse estar feliz, certo?"
 
 # game/script.rpy:4544
 translate portuguese day1_watered_4_a297d31b:
 
     # m "What? No. That's unnecessary. If I'm that hungry, I can just settle for some noodles."
-    m ""
+    m "Que? Não, não precisa. Já que eu tô com tanta fome, posso me contentar com lámen."
 
 # game/script.rpy:4546
 translate portuguese day1_watered_4_8e8319eb:
 
     # m "I've got like... a whole box of them under my bed."
-    m ""
+    m "Eu tenho tipo... uma caixa inteira em baixo da cama."
 
 # game/script.rpy:4548
 translate portuguese day1_watered_4_ab8912f9:
 
     # b "Why not? I'm right here."
-    b ""
+    b "Por que não? Eu tô logo aqui."
 
 # game/script.rpy:4550
 translate portuguese day1_watered_4_4ba4c3d3:
 
     # m "I just..."
-    m ""
+    m "Eu só..."
 
 # game/script.rpy:4552
 translate portuguese day1_watered_4_2127adce:
 
     # m "... want to hang out with you more."
-    m ""
+    m "... queria sair mais com você."
 
 # game/script.rpy:4554
 translate portuguese day1_watered_4_31b94495:
 
     # b "Ohoho!"
-    b ""
+    b "Ohoho!"
 
 # game/script.rpy:4555
 translate portuguese day1_watered_4_5091f912:
 
     # b "It seems you're getting attached to me, %(player_name)s. That's very dangerous."
-    b ""
+    b "Parece que você tá se apegando a mim, %(player_name)s. Isso é perigoso."
 
 # game/script.rpy:4556
 translate portuguese day1_watered_4_057b0bfa:
 
     # b "Do I need to get worried?"
-    b ""
+    b "Eu preciso me preocupar?"
 
 # game/script.rpy:4558
 translate portuguese day1_watered_4_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:4560
 translate portuguese day1_watered_4_3d9e6ca8:
 
     # m "Maybe."
-    m ""
+    m "Talvez."
 
 # game/script.rpy:4561
 translate portuguese day1_watered_4_850ff925:
 
     # m "I admit it. You're more fun to have around than I thought."
-    m ""
+    m "Eu admito. Você é mais divertida do que eu pensava."
 
 # game/script.rpy:4564
 translate portuguese day1_watered_4_dc887f39:
 
     # b "Whoa. Are you..."
-    b ""
+    b "Uau. Você tá..."
 
 # game/script.rpy:4566
 translate portuguese day1_watered_4_43104ec3:
 
     # b "... CONFESSING!?"
-    b ""
+    b "... SE DECLARANDO!?"
 
 # game/script.rpy:4568
 translate portuguese day1_watered_4_c2b6ee64:
 
     # m "{sc=3}{color=#000000}WHAT? NO!!!"
-    m ""
+    m "{sc=3}{color=#000000}QUE? NÃO!!!"
 
 # game/script.rpy:4570
 translate portuguese day1_watered_4_b5342a10:
 
     # m "Of course you'd think that!"
-    m ""
+    m "Óbvio que você ia pensar isso!"
 
 # game/script.rpy:4571
 translate portuguese day1_watered_4_d337eeb0:
 
     # m "But I just want to hang out!"
-    m ""
+    m "Mas eu só quero sair com você!"
 
 # game/script.rpy:4573
 translate portuguese day1_watered_4_f7299e09:
 
     # b "Ooh? In what kinda way?"
-    b ""
+    b "Ooh? Mas em que sentido?"
 
 # game/script.rpy:4575
 translate portuguese day1_watered_4_1296ccb7:
 
     # m "{sc=2}{color=#000000}Nooooo..."
-    m ""
+    m "{sc=2}{color=#000000}Nãããão..."
 
 # game/script.rpy:4577
 translate portuguese day1_watered_4_6f7efc35:
 
     # b "I'm just kidding! Hehe!"
-    b ""
+    b ""Eu tô brincando! Hihi!
 
 # game/script.rpy:4579
 translate portuguese day1_watered_4_a501aa7f:
 
     # m "Jesus."
-    m ""
+    m "Jesus."
 
 # game/script.rpy:4581
 translate portuguese day1_watered_4_ac040cc7:
 
     # b "What's Jesus?"
-    b ""
+    b "O que é Jesus?"
 
 # game/script.rpy:4583
 translate portuguese day1_watered_4_c232a492:
 
     # m "I am NOT dropping religion on you the day before..."
-    m ""
+    m "NÃO VOU falar de religião um dia antes de vo-..."
 
 # game/script.rpy:4584
 translate portuguese day1_watered_4_e612037c_1:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:4586
 translate portuguese day1_watered_4_d9e3658f:
 
     # m "I really have to do it, don't I? Is there no way you don't have to... die... tomorrow?"
-    m ""
+    m "Será que eu preciso fazer isso? Não existe algum jeito de você não... morrer... amanhã?"
 
 # game/script.rpy:4588
 translate portuguese day1_watered_4_9bb70378:
 
     # b "Well, it's either that... or I like..."
-    b ""
+    b "Bom, ou é desse jeito... ou eu tipo..."
 
 # game/script.rpy:4590
 translate portuguese day1_watered_4_3c63136b:
 
     # b "... dry up. In a very painful, slow process."
-    b ""
+    b "... murcho. Em um processso lento e doloroso."
 
 # game/script.rpy:4592
 translate portuguese day1_watered_4_6d6eb4b9:
 
     # b "So yeah, I'll take getting eaten over that!"
-    b ""
+    b "Então sim, prefiro ser comida do que isso!"
 
 # game/script.rpy:4594
 translate portuguese day1_watered_4_3e303240:
 
     # m "Yeah... I guess I would too."
-    m ""
+    m "É... acho que eu também."
 
 # game/script.rpy:4596
 translate portuguese day1_watered_4_d177536a:
 
     # b "So... what now?"
-    b ""
+    b "Então... e agora?"
 
 # game/script.rpy:4598
 translate portuguese day1_watered_4_7fe99276:
 
     # m "Mmm, food."
-    m ""
+    m "Bem, comida."
 
 # game/script.rpy:4607
 translate portuguese pizza_ae471c6c:
 
     # b "So you're going to eat noodles? You didn't seem that excited about it though."
-    b ""
+    b "Então você vai comer lámen? Você não parece estar tão animado quanto a isso."
 
 # game/script.rpy:4609
 translate portuguese pizza_ab13a212:
 
     # m "Yeah. They're not nutritious, filling, or even tasty. But that's all that I've been eating for months."
-    m ""
+    m "É. Não é nutritivo, nem saboroso, e nem sacia. Mas isso é tudo que eu ando comendo faz meses."
 
 # game/script.rpy:4611
 translate portuguese pizza_e3caa20f:
 
     # b "Then why don't you treat yourself!? Get something that makes you smile on the outside and inside!"
-    b ""
+    b "Então por que não se presenteia!? Coma algo que faça você sorrir de dentro pra fora!"
 
 # game/script.rpy:4613
 translate portuguese pizza_639924ad:
 
     # m "Well... I've been craving a pizza for a while... I haven't had one since I lived with my mom."
-    m ""
+    m "Bom... Já faz tempo que tô querendo uma pizza... Não como uma desde que eu morava com minha mãe. "
 
 # game/script.rpy:4615
 translate portuguese pizza_16bfe7e5:
 
     # m "Ugh, but I don't want to make the call..."
-    m ""
+    m "Ugh, mas eu não tô afim de ligar..."
 
 # game/script.rpy:4617
 translate portuguese pizza_410a70c4:
 
     # b "Why not?"
-    b ""
+    b "Por que não?"
 
 # game/script.rpy:4619
 translate portuguese pizza_5451b25f:
 
     # m "Haha... It's embarrassing, but I'm scared of talking over the phone."
-    m ""
+    m "Haha... É constrangedor, mas eu tenho medo de falar no telefone."
 
 # game/script.rpy:4620
 translate portuguese pizza_6804d82f:
 
     # m "Sometimes I forget my order or address or how to even talk because I'm so nervous, or they can't hear me..."
-    m ""
+    m "Às vezes eu esqueço meu pedido ou endereço ou até de falar por estar nervoso, ou eles não me ouvem..."
 
 # game/script.rpy:4621
 translate portuguese pizza_cf947c15:
 
     # m "I once made a conversation diagram of every possible response so I could just follow that instead of having to worry, but nope."
-    m ""
+    m "Uma vez eu fiz um diagrama de todas as respostas possíveis pra que eu pudesse me guiar sem me preocupar, mas não adiantou."
 
 # game/script.rpy:4622
 translate portuguese pizza_512d5a82:
 
     # m "In the heat of the moment, I forgot to read."
-    m ""
+    m "No calor do momento, eu desaprendi a ler."
 
 # game/script.rpy:4624
 translate portuguese pizza_cbb28d0f:
 
     # m "Sorry, I'm rambling and it's probably boring."
-    m ""
+    m "Foi mal, eu tô reclamando e isso provavelmente é chato."
 
 # game/script.rpy:4626
 translate portuguese pizza_e9a47a2f:
 
     # b "Why don't I order for you?"
-    b ""
+    b "Que tal eu pedir no seu lugar?"
 
 # game/script.rpy:4628
 translate portuguese pizza_f8f36dab:
 
     # m "You've never used a phone before in your life."
-    m ""
+    m "Você nunca fez uma ligação na sua vida."
 
 # game/script.rpy:4629
 translate portuguese pizza_8cabf92e:
 
     # b "But it's just like talking! Only you can't see each other, right?"
-    b ""
+    b "Mas é tipo, só falar! A diferença é que não é cara a cara, certo?"
 
 # game/script.rpy:4630
 translate portuguese pizza_5f0efae1:
 
     # b "I'm good at talking!"
-    b ""
+    b "Eu sou boa em falar!"
 
 # game/script.rpy:4633
 translate portuguese pizza_3088ec54:
 
     # b "I think..."
-    b ""
+    b "Eu acho..."
 
 # game/script.rpy:4635
 translate portuguese pizza_9d4ffe9e:
 
     # m "But... how will you remember the address and the name of the pizzas I want? What if you forget?"
-    m ""
+    m "Mas... como você vai lembrar o endereço e o nome das pizzas que eu quero? E se você esquecer?"
 
 # game/script.rpy:4637
 translate portuguese pizza_16036d54:
 
     # b "I've got a good memory! I can even remember things from when I was just a lil spore."
-    b ""
+    b "Eu tenho uma boa memória! Eu me lembro de coisas de quando eu ainda era um esporo."
 
 # game/script.rpy:4638
 translate portuguese pizza_ed08ae8f:
 
     # b "I can remember the sound of your voice, though I couldn't tell what you were saying back then."
-    b ""
+    b "Eu me lembro de como era sua voz, apesar de eu não entender o que você dizia até então."
 
 # game/script.rpy:4640
 translate portuguese pizza_26a0e3d3:
 
     # m "Whoa. That's incredible! Can you remember anything else from then?"
-    m ""
+    m "Uau. Isso é incrível! Consegue lembrar"
 
 # game/script.rpy:4642
 translate portuguese pizza_1a7a1d77:
 
     # b "Hmm, just an instinct to outcompete my sisters so they wouldn't absorb me."
-    b ""
+    b "Ah, só o instinto de predominar sobre minhas irmãs e não ser absorvida."
 
 # game/script.rpy:4644
 translate portuguese pizza_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:4646
 translate portuguese pizza_0b99b74a:
 
     # b "But I won! I absorbed THEM! Hehe!"
-    b ""
+    b "Mas eu venci! EU AS ABSORVI! Hihi!"
 
 # game/script.rpy:4648
 translate portuguese pizza_0190e127:
 
     # m "I... I have no words. Congrats on winning."
-    m ""
+    m "Eu... não tenho palavras. Parabéns por vencer."
 
 # game/script.rpy:4650
 translate portuguese pizza_4da52a1a:
 
     # b "Thanks! Now tell me what I need to remember..."
-    b ""
+    b "Obrigada! Agora me diga o que preciso lembrar..."
 
 # game/script.rpy:4656
 translate portuguese pizza_0bf7e4c7:
 
     # "At your insistence, you pretend to be the receiver and run through the scenario with Button a few times."
-    ""
+    "Antedeguemon"
 
 # game/script.rpy:4657
 translate portuguese pizza_17cfeaa2:
