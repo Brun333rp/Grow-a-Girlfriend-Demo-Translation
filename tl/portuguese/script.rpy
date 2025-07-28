@@ -7202,7 +7202,7 @@ translate portuguese pizza_410a70c4:
 translate portuguese pizza_5451b25f:
 
     # m "Haha... It's embarrassing, but I'm scared of talking over the phone."
-    m "Haha... É constrangedor, mas eu tenho medo de falar no telefone."
+    m "Haha... É constrangedor, mas eu tenho medo de fazer ligações."
 
 # game/script.rpy:4620
 translate portuguese pizza_6804d82f:
@@ -7280,7 +7280,7 @@ translate portuguese pizza_ed08ae8f:
 translate portuguese pizza_26a0e3d3:
 
     # m "Whoa. That's incredible! Can you remember anything else from then?"
-    m "Uau. Isso é incrível! Consegue lembrar"
+    m "Uau. Que incrível! Consegue lembrar mais coisas daquele período?"
 
 # game/script.rpy:4642
 translate portuguese pizza_1a7a1d77:
@@ -7340,343 +7340,343 @@ translate portuguese pizza_16ab3f8b:
 translate portuguese pizza_edefac24:
 
     # "And so, your fingers really push the buttons."
-    "E assim, você tecla os botões do telefone."
+    "E assim, você tecla os botões do celular."
 
 # game/script.rpy:4663
 translate portuguese pizza_607e8961:
 
     # "But the sound of the dialing tone, of imminent connection to a stranger, kills your fragile confidence."
-    "Antedeguemon"
+    "Mas o som de discagem, sinalizando a conexão iminente com um estranho, acaba com a sua frágil confiança."
 
 # game/script.rpy:4664
 translate portuguese pizza_26677143:
 
     # "Just like I knew you would, you don't even try. You hand the phone over to Button so she can do it."
-    ""
+    "Tal como já se esperava, você sequer tenta. Você entrega o celular pra Botão atender no seu lugar."
 
 # game/script.rpy:4669
 translate portuguese pizza_58915475:
 
     # b "Hi! I wanted to order a pizza with you. Is that ok?"
-    b ""
+    b "Alô! Eu gostaria de pedir uma pizza. Tá tudo certo?"
 
 # game/script.rpy:4670
 translate portuguese pizza_1ee92cac:
 
     # b "...Yes. My order is..."
-    b ""
+    b "...Sim. Meu pedido é..."
 
 # game/script.rpy:4672
 translate portuguese pizza_23e1eb07:
 
     # "You're a grown up. Will you ever get better?"
-    ""
+    Você já tá crescidinho. Será que nunca irá melhorar?"
 
 # game/script.rpy:4674
 translate portuguese pizza_533f0214:
 
     # b "What's that...? Oh, hold on, please. %(player_name)s, they have a special! Do you want to add an extra pizza to get a free ice cream?"
-    b ""
+    b "É mesmo...? Tá, pera um pouco. %(player_name)s, eles têm um combo! Você quer adicionar outra pizza pra ganhar um sorvete grátis?"
 
 # game/script.rpy:4676
 translate portuguese pizza_f036a76f:
 
     # m "(I can't decide on a second pizza right now! Too much pressure! I wish I could have that ice cream though...)"
-    m ""
+    m "(Eu não consigo escolher mais uma pizza agora! É muita pressão! Mas confesso que o sorvete não cairia mal...)"
 
 # game/script.rpy:4678
 translate portuguese pizza_1d49c709:
 
     # m "No... I'm good."
-    m ""
+    m "Não... não precisa."
 
 # game/script.rpy:4680
 translate portuguese pizza_5279433b:
 
     # b "No thank you, we're good!... Ok... You too, bye!"
-    b ""
+    b "Valeu, mas já tá bom assim!... Tá... Valeu, tchau!"
 
 # game/script.rpy:4681
 translate portuguese pizza_957ded5c:
 
     # b "Woohoo! I did it! Pizza is coming!"
-    b ""
+    b "Woohoo! Eu consegui! A pizza tá vindo!"
 
 # game/script.rpy:4683
 translate portuguese pizza_33579d79:
 
     # m "Thanks, Button. I couldn't have done that."
-    m ""
+    m "Valeu, Botão. Eu não conseguiria sozinho."
 
 # game/script.rpy:4685
 translate portuguese pizza_4c0af5a3:
 
     # b "You're welcome!"
-    b ""
+    b "Não há de que!"
 
 # game/script.rpy:4687
 translate portuguese pizza_bec96a11:
 
     # b "It wasn't even as hard as your practice runs!"
-    b ""
+    b "Não foi nem tão difícil quanto as suas simulações!"
 
 # game/script.rpy:4688
 translate portuguese pizza_d3b08c4d:
 
     # b "You just need to stay calm, and then you can try next time!"
-    b ""
+    b "Você só precisa manter a calma pra então tentar na próxima!"
 
 # game/script.rpy:4690
 translate portuguese pizza_d4949453:
 
     # m "Maybe. I want to get over this at some point."
-    m ""
+    m "Talvez. Eu quero superar isso em algum momento."
 
 # game/script.rpy:4692
 translate portuguese pizza_1f591706:
 
     # b "Why do you get scared?"
-    b ""
+    b "Por que você tem medo?"
 
 # game/script.rpy:4693
 translate portuguese pizza_619a4637:
 
     # m "Um..."
-    m ""
+    m "Bom..."
 
 # game/script.rpy:4695
 translate portuguese pizza_64d91354:
 
     # m "I don't know."
-    m ""
+    m "Eu não sei."
 
 # game/script.rpy:4696
 translate portuguese pizza_c328391f:
 
     # m "It's just scary for me. It's worse than talking face-to-face, which I already mess up most of the time. I hate it."
-    m ""
+    m "Mas é assustador pra mim. É pior do que falar cara-a-cara, coisa da qual já sou ruim maior parte das vezes. Odeio isso."
 
 # game/script.rpy:4698
 translate portuguese pizza_b0ab60ec:
 
     # b "I don't understand, but I believe you'll get better. I saw you thinking about doing it!"
-    b ""
+    b "Tô meio confusa, mas acredito que vá melhorar. Eu até te vi considerando fazer a ligação!"
 
 # game/script.rpy:4700
 translate portuguese pizza_a198a1ac:
 
     # m "Yeah, maybe next time my instinct won't be to throw my phone across the room."
-    m ""
+    m "É, talvez na próxima meu instinto não seja arremessar o celular pelo quarto."
 
 # game/script.rpy:4711
 translate portuguese pizza_c321ef8a:
 
     # "You chat and chill until your phone rings, signaling the arrival of the delivery man."
-    ""
+    "Vocês batem papo até o celular tocar, sinalizando a chegada do entregador."
 
 # game/script.rpy:4731
 translate portuguese pizza_4ef6002e:
 
     # "Pizza obtained, you return to the room."
-    ""
+    "Pizza obtida, você retorna ao quarto."
 
 # game/script.rpy:4735
 translate portuguese pizza_86068bb2:
 
     # m "Pizza, my princess."
-    m ""
+    m "Pizza, que princesa."
 
 # game/script.rpy:4737
 translate portuguese pizza_86a55d0c:
 
     # b "...?"
-    b ""
+    b "...?"
 
 # game/script.rpy:4738
 translate portuguese pizza_60814414:
 
     # m "So beautiful..."
-    m ""
+    m "Tão bonita..."
 
 # game/script.rpy:4739
 translate portuguese pizza_b23b2c26:
 
     # m "I've missed you so much... Ah, and so hot too!"
-    m ""
+    m "Senti tanto a sua falta... Ah, e como é gostosa!"
 
 # game/script.rpy:4741
 translate portuguese pizza_481cfb28:
 
     # b "Really?"
-    b ""
+    b "Sério isso?"
 
 # game/script.rpy:4743
 translate portuguese pizza_daa2defc:
 
     # m "I'm just having fun!"
-    m ""
+    m "Eu só tô brincando!"
 
 # game/script.rpy:4745
 translate portuguese pizza_ee91a6e9:
 
     # b "So you're not going to make out with your pizza or something!?"
-    b ""
+    b "Então você não vai fazer amor com sua pizza ou algo assim!?"
 
 # game/script.rpy:4746
 translate portuguese pizza_d1837a2c:
 
     # m "Don't tempt me."
-    m ""
+    m "Não me convença."
 
 # game/script.rpy:4748
 translate portuguese pizza_cc0b503b:
 
     # "As you lift open the flap of the pizza box, you lean your face in and sniff deeply."
-    ""
+    "Ao abrir a caixa de pizza, você inclina o rosto e a cheira profundamente."
 
 # game/script.rpy:4750
 translate portuguese pizza_76ec8564:
 
     # "That's when you realise that something is horribly wrong."
-    ""
+    "Foi quando você percebeu que algo está horrivelmente errado."
 
 # game/script.rpy:4752
 translate portuguese pizza_5763444a:
 
     # m "No!" with sshake
-    m "" with sshake
+    m "Não!" with sshake
 
 # game/script.rpy:4754
 translate portuguese pizza_89a4f20b:
 
     # b "What's wrong?"
-    b ""
+    b "O que foi?"
 
 # game/script.rpy:4756
 translate portuguese pizza_73a9194b:
 
     # m "It's the wrong order..."
-    m ""
+    m "É o pedido errado..."
 
 # game/script.rpy:4758
 translate portuguese pizza_27ab0f21:
 
     # m "I was so excited for my special quadruple cheese! But this... just isn't that!"
-    m ""
+    m "Eu estava ansiando a pizza de quatro queijos especial. Mas... não foi o que recebi!"
 
 # game/script.rpy:4760
 translate portuguese pizza_e184d142:
 
     # b "What is it?"
-    b ""
+    b "E o que é?"
 
 # game/script.rpy:4762
 translate portuguese pizza_bb43b787:
 
     # m "Some rando's order. There's feta, olives, pesto, sundried tomatoes, umm... possibly blue cheese? Some meat thing..."
-    m ""
+    m "Pedido aleatório. Tem queijo feta, azeitona, molho pesto, tomate seco, e... talvez gorgonzola? Algum tipo de carne..."
 
 # game/script.rpy:4764
 translate portuguese pizza_1ad9072d:
 
     # b "You don't like it? It looks really good!"
-    b ""
+    b "Você não gosta? Parece muito bom!"
 
 # game/script.rpy:4766
 translate portuguese pizza_59fd91cf:
 
     # m "It's just not what I wanted... I'd only get my quadcheesy pizza if I aced my exams, and then my mom would make the call for me..."
-    m ""
+    m "Mas não é o que eu queria... Eu só conseguia pizza de quatro queijos se eu fosse bem nas provas, daí minha mãe fazia a ligação..."
 
 # game/script.rpy:4767
 translate portuguese pizza_2a6d1d45:
 
     # m "I miss those times. I still had hope then. This isn't my hope."
-    m ""
+    m "Nessa época eu ainda tinha esperança. Agora esses tempos se foram."
 
 # game/script.rpy:4769
 translate portuguese pizza_5805ba1d:
 
     # m "Now I'm too stupid scared to call the pizza place and tell them they got it wrong!"
-    m ""
+    m "E agora eu tô com medo de mais pra ligar e falar que meu pedido veio errado!"
 
 # game/script.rpy:4771
 translate portuguese pizza_bf91708d:
 
     # m "Stupid piece of shit pizza mix-up. I gave that guy a good tip too! This pizza probably..."
-    m ""
+    m "Pizzaria estúpida de merda. E eu ainda deu uma boa gorjeta pro cara! Essa pizza deve ser..."
 
 # game/script.rpy:4775
 translate portuguese pizza_33ba6430:
 
     # m "Holy shit, this is amazing."
-    m ""
+    m "Caralho, ela é incrível."
 
 # game/script.rpy:4776
 translate portuguese pizza_acc9c623:
 
     # m "This."
-    m ""
+    m "Essa."
 
 # game/script.rpy:4777
 translate portuguese pizza_a6c89ad1:
 
     # m "This is my new favourite."
-    m ""
+    m "É minha nova favorita."
 
 # game/script.rpy:4778
 translate portuguese pizza_d56d1056:
 
     # m "Can you eat? Can you try this?"
-    m ""
+    m "Consegue comer? Pode experimentar?"
 
 # game/script.rpy:4780
 translate portuguese pizza_e2e044d5:
 
     # b "I don't need to, but thanks for offering. You enjoy the pizza!"
-    b ""
+    b "Eu não preciso, mas obrigada peal oferta. Aproveite sua pizza!"
 
 # game/script.rpy:4782
 translate portuguese pizza_d4ebe3b4:
 
     # m "Aaaah, man, now I really wanna lie back, eat this pizza, and watch some anime!"
-    m ""
+    m "Aaaah, cara, agora eu quero deitar, comer essa pizza, e assistir animes!"
 
 # game/script.rpy:4784
 translate portuguese pizza_4fb9b4b7:
 
     # b "What's anime?"
-    b ""
+    b "O que é anime?"
 
 # game/script.rpy:4786
 translate portuguese pizza_8480a690:
 
     # m "{i}\"What's anime\"?{/i} Oh boy..."
-    m ""
+    m "{i}\"O que é anime\"?{/i} Pois bem..."
 
 # game/script.rpy:4790
 translate portuguese pizza_dd8e3adf:
 
     # "You introduce Button to anime!"
-    ""
+    "Você introduz animes pra Botão!"
 
 # game/script.rpy:4791
 translate portuguese pizza_f88f393f:
 
     # "You have to watch in dubs, since she can't read, but she doesn't know what she's missing anyway."
-    ""
+    "Ela não consegue ler, então vocês assistem dublado, mas não é como se ela estivesse perdendo algo."
 
 # game/script.rpy:4792
 translate portuguese pizza_32f18306:
 
     # "You show her a few of your favourite, beginner-friendly series that you think she'd like."
-    ""
+    "Você a mostra alguns de seus favoritos, dos quais você acha que ela pode gostar."
 
 # game/script.rpy:4793
 translate portuguese pizza_5fa6dcf1:
 
     # "Just as you predicted... she gets attached to characters who have obvious death flags attached to them."
-    ""
+    "Antedeguemon"
 
 # game/script.rpy:4795
 translate portuguese pizza_fc663050:
