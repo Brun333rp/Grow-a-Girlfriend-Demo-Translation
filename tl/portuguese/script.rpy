@@ -7672,7 +7672,7 @@ translate portuguese pizza_32f18306:
 translate portuguese pizza_5fa6dcf1:
 
     # "Just as you predicted... she gets attached to characters who have obvious death flags attached to them."
-    "Tal como previsto... ela se apega a personagens que têm um aviso de morte estampado neles."
+    "Tal como previsto... ela se apega a personagens que têm um aviso óbvio de morte estampado neles."
 
 # game/script.rpy:4795
 translate portuguese pizza_fc663050:
