@@ -7684,553 +7684,553 @@ translate portuguese pizza_fc663050:
 translate portuguese pizza_4ecd9df2:
 
     # "You decide to stay up all night with her, since it should be her last one."
-    "checkpoint"
+    "Você decide ficar acordado a noite toda com ela, já que deve ser a última dela."
 
 # game/script.rpy:4798
 translate portuguese pizza_3411529b:
 
     # "Pizza, anime, and the both of you in the bed, laughing together..."
-    ""
+    "Pizza, anime e vocês dois na cama, rindo juntos..."
 
 # game/script.rpy:4799
 translate portuguese pizza_c6303090:
 
     # "It's a wonderful night."
-    ""
+    "É uma noite maravilhosa."
 
 # game/script.rpy:4800
 translate portuguese pizza_4bd5e1bb:
 
     # "How long has it been since you've felt so at peace?"
-    ""
+    "Quando foi a última vez que você sentiu tanta paz?"
 
 # game/script.rpy:4801
 translate portuguese pizza_ff4384fd:
 
     # "Why does tomorrow have to come?"
-    ""
+    "Por que o amanhã precisa vir?"
 
 # game/script.rpy:4803
 translate portuguese pizza_4112582f:
 
     # na "Ara ara, Naegi-kun... it's time to give yourself to me completely."
-    na ""
+    na "Ara ara, Naegi-kun... chegou a hora de você se entregar completamente a mim."
 
 # game/script.rpy:4804
 translate portuguese pizza_88eabcd3:
 
     # na "How much... do you truly love me?"
-    na ""
+    na "O quanto... você realmente me ama?"
 
 # game/script.rpy:4805
 translate portuguese pizza_850ef128:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:4806
 translate portuguese pizza_6e5dde37:
 
     # m "(I forgot about this part.)"
-    m ""
+    m "(Eu tinha esquecido essa parte.)"
 
 # game/script.rpy:4807
 translate portuguese pizza_8fa5854a:
 
     # "You and Button sit through some typical anime fan service."
-    ""
+    "Você e a Botão vêem cenas típicas de fanservice de anime."
 
 # game/script.rpy:4808
 translate portuguese pizza_943465d9:
 
     # "You're well aware of how weird this probably is to a non-weeb, but you're too scared to gauge her expression."
-    ""
+    "Você sabe muito bem o quão estranho isso pode ser pra uma não-otaku, mas você tá desconfortável demais pra avaliar a expressão dela."
 
 # game/script.rpy:4809
 translate portuguese pizza_9a4f2fb1:
 
     # "Yup. Just stare straight ahead."
-    ""
+    "Yup. Só encara pra frente."
 
 # game/script.rpy:4810
 translate portuguese pizza_7c43c8b2:
 
     # na "Mmmf~ Naegi-kun! I love you! Mmmm~ aaaah~"
-    na ""
+    na "Mmmf~ Naegi-kun! Eu te amo! Mmmm~ aaaah~"
 
 # game/script.rpy:4811
 translate portuguese pizza_0b026d98:
 
     # "Oh God."
-    ""
+    "Meu Deus"
 
 # game/script.rpy:4816
 translate portuguese pizza_b551e295:
 
     # b "I didn't know THIS was in anime!"
-    b ""
+    b "Eu não sabia que ISSO existia em animes!"
 
 # game/script.rpy:4817
 translate portuguese pizza_87e96bfd:
 
     # m "I'm sorry. I forgot about this part... if you're uncomfortable-"
-    m ""
+    m "Me desculpe. Eu me esqueci dessa parte... se você se sentir desconfortável-"
 
 # game/script.rpy:4818
 translate portuguese pizza_d9a376da:
 
     # "You pause the anime."
-    ""
+    "Você pausa o anime."
 
 # game/script.rpy:4820
 translate portuguese pizza_6d435304:
 
     # b "{size=+20}{sc=2}{color=#000000}NO! DON'T STOOOOOOP!!!{/sc}{/color}{size=-20}"
-    b ""
+    b "{size=+20}{sc=2}{color=#000000}NÃO! NÃO PARAAAAAAA!!!{/sc}{/color}{size=-20}"
 
 # game/script.rpy:4822
 translate portuguese pizza_f9eff4d4:
 
     # m "You CANNOT shout that at night in my dormitory!"
-    m ""
+    m "Você NÃO PODE gritar isso à noite no meu dormitório!"
 
 # game/script.rpy:4824
 translate portuguese pizza_af9fdfcb:
 
     # m "Shit! What if someone heard you? I'll never live it down..."
-    m ""
+    m "Merda! E se alguém tivesse te ouvido? Eu nunca iria me livrar dessa..."
 
 # game/script.rpy:4826
 translate portuguese pizza_b69eb05d:
 
     # b "Sorry, I just-"
-    b ""
+    b "Desculpa, eu só-"
 
 # game/script.rpy:4828
 translate portuguese pizza_47ba7d94:
 
     # m "No."
-    m ""
+    m "Não."
 
 # game/script.rpy:4830
 translate portuguese pizza_dd4c4f48:
 
     # m "Don't apologise. You don't have any malice. And I shouted at you again... sorry."
-    m ""
+    m "Não peça desculpas. Você não teve malícia. E eu gritei com você de novo... desculpa."
 
 # game/script.rpy:4832
 translate portuguese pizza_f9f1ae91:
 
     # b "If I can't apologise, you can't either!"
-    b ""
+    b "Se eu não posso me desculpar, você também não pode!"
 
 # game/script.rpy:4834
 translate portuguese pizza_a6afd76a:
 
     # m "I deserve it though."
-    m ""
+    m "Mas eu mereci isso."
 
 # game/script.rpy:4836
 translate portuguese pizza_35517bf7:
 
     # b "But you didn't do it on purpose - just like me!"
-    b ""
+    b "Mas você não fez de propósito - assim como eu!"
 
 # game/script.rpy:4838
 translate portuguese pizza_8b98665b:
 
     # m "Ahh, fine. Sorry retracted."
-    m ""
+    m "Ahh, tá bom. Desculpa retirada."
 
 # game/script.rpy:4840
 translate portuguese pizza_ac897c93:
 
     # b "Good! Now press play!"
-    b ""
+    b "Ótimo! Agora dá o play!"
 
 # game/script.rpy:4842
 translate portuguese pizza_d5a4b245:
 
     # m "You're ok to watch this? Isn't it awkward for you?"
-    m ""
+    m "Você se sente confortável assistindo isso? Não é constrangedor?"
 
 # game/script.rpy:4844
 translate portuguese pizza_7cbae85c:
 
     # b "No! It's very... interesting!"
-    b ""
+    b "Não! É bem... interessante!"
 
 # game/script.rpy:4848
 translate portuguese pizza_17c78e24:
 
     # "You force yourself to sit through the whole thing."
-    ""
+    "Você se força a assistir tudo até o final."
 
 # game/script.rpy:4849
 translate portuguese pizza_f9ba34b4:
 
     # "You don't miss how enraptured Button is. What have you done to her innocent soul?"
-    ""
+    "Você não deixa de notar o encanto em Botão. O que você fez com a alma inocente dela?"
 
 # game/script.rpy:4850
 translate portuguese pizza_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:4851
 translate portuguese pizza_1f54054e:
 
     # "Well, maybe innocent is an exaggeration."
-    ""
+    "Bom, talvez inocente seja um exagero."
 
 # game/script.rpy:4852
 translate portuguese pizza_e7f433a2:
 
     # "You just reeeeeeeally hope that nobody heard Button's yell."
-    ""
+    "Você só reeeeeeealmente espera que ninguém tenha ouvido o grito da Botão."
 
 # game/script.rpy:4875
 translate portuguese pizza_e612037c_1:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:4876
 translate portuguese pizza_0af8dd76:
 
     # "As you wake up... the sounds of generic anime distract you from your usual morning brooding."
-    ""
+    "Ao acordar... os sons de anime genéricos distraem você da sua melancolia matinal usual."
 
 # game/script.rpy:4878
 translate portuguese pizza_a6b99bb2:
 
     # "As you open your eyes, you realise that you've been holding Button's arm in place of your plushie."
-    ""
+    "Ao abrir os olhos, você percebe que estava segurando o braço da Botão no lugar do seu bichinho de pelúcia."
 
 # game/script.rpy:4880
 translate portuguese pizza_6b7abe4f:
 
     # m "Button! Still?"
-    m ""
+    m "Botão! Ainda?"
 
 # game/script.rpy:4882
 translate portuguese pizza_c596576b:
 
     # m "AND you're in my bed again!"
-    m ""
+    m "E você tá na minha cama DE NOVO!"
 
 # game/script.rpy:4884
 translate portuguese pizza_14554a3c:
 
     # b "I never left! Come on, aren't you used to it already?"
-    b ""
+    b "Eu nunca saí! Qual é, você já não se acostumou?"
 
 # game/script.rpy:4886
 translate portuguese pizza_f443a40d:
 
     # b "You even hugged me in your sleep! And you s-"
-    b ""
+    b "Você até me abraçou enquanto dormia! E você t-"
 
 # game/script.rpy:4888
 translate portuguese pizza_2c03ac6e:
 
     # m "Nope. Not a word more."
-    m ""
+    m "Nope. Nenhuma palavra a mais."
 
 # game/script.rpy:4890
 translate portuguese pizza_623bfc18:
 
     # b "But anyway! I'm on the fifth season of the anime you showed me! We HAVE to discuss-"
-    b ""
+    b "Mas enfim! Eu tô na quinta temporada do anime que você me mostrou! PRECISAMOS discu-"
 
 # game/script.rpy:4892
 translate portuguese pizza_740207ad:
 
     # m "Aaaand that's enough."
-    m ""
+    m "Eeeeee já basta."
 
 # game/script.rpy:4893
 translate portuguese pizza_fa7c82fb:
 
     # "You turn off your laptop mid-anime. It's hot to the touch."
-    ""
+    "Você desliga o laptop no meio do anime. É quente ao toque."
 
 # game/script.rpy:4896
 translate portuguese pizza_9dd45bc1:
 
     # b "Nooooo! Don't take away my anime!"
-    b ""
+    b "Nããaoo! Não tira o meu anime!"
 
 # game/script.rpy:4898
 translate portuguese pizza_2db21ca7:
 
     # m "You've had enough! My PC too. Both of you need a break."
-    m ""
+    m "Já basta pra você! Pro meu PC também. Ambos precisam de um descanso."
 
 # game/script.rpy:4900
 translate portuguese pizza_26f9157f:
 
     # b "Noooooo~"
-    b ""
+    b "Nãããaoo~"
 
 # game/script.rpy:4902
 translate portuguese pizza_4dd7582c:
 
     # m "Oh God. Come on, take your water and shut up."
-    m ""
+    m "Ai Deus. Venha, tome a sua água e aquiete-se."
 
 # game/script.rpy:4924
 translate portuguese day1_watered_5_df9140b9:
 
     # b "Mmm, feeling juicy again!"
-    b ""
+    b "Mmm, me sinto suculenta de novo!"
 
 # game/script.rpy:4929
 translate portuguese day1_watered_5_629e1dc2:
 
     # m "Haha, you're kinda silly, you know that?"
-    m ""
+    m "Haha, você é meio bobinha, sabia disso?"
 
 # game/script.rpy:4931
 translate portuguese day1_watered_5_046ea230:
 
     # b "Silliness is fun!"
-    b ""
+    b "Ser bobinha é divertido!"
 
 # game/script.rpy:4933
 translate portuguese day1_watered_5_7be6a719:
 
     # b "{i}NOW{/i} can we talk about the anime!?"
-    b ""
+    b "{i}AGORA{/i} podemos falar do anime!?"
 
 # game/script.rpy:4934
 translate portuguese day1_watered_5_2a2bf53f:
 
     # m "Sure, sure."
-    m ""
+    m "Claro, claro."
 
 # game/script.rpy:4938
 translate portuguese day1_watered_5_6a1dd595:
 
     # "You have some leftover pizza for breakfast while Button weebs out on you for a good hour or so."
-    ""
+    "Você come as sobras de pizza como café da manhã enquanto a Botão otaqueia por uma hora mais ou menos."
 
 # game/script.rpy:4939
 translate portuguese day1_watered_5_994d139f:
 
     # "It's extremely entertaining hearing fresh thoughts on one of your favourite shows!"
-    ""
+    "É extremamente divertido ouvir novas opiniões sobre um de seus animes favoritos!"
 
 # game/script.rpy:4943
 translate portuguese day1_watered_5_679cfcf8:
 
     # b "Can I make a special request today?"
-    b ""
+    b "Posso fazer um pedido especial hoje?"
 
 # game/script.rpy:4945
 translate portuguese day1_watered_5_8543e63a:
 
     # m "Uh, sure?"
-    m ""
+    m "Uh, claro?"
 
 # game/script.rpy:4947
 translate portuguese day1_watered_5_a0aa2a07:
 
     # b "Take me to the beach!"
-    b ""
+    b "Me leva pra praia!"
 
 # game/script.rpy:4950
 translate portuguese day1_watered_5_00a2537f:
 
     # m "Uuugh..."
-    m ""
+    m "Uuugh..."
 
 # game/script.rpy:4951
 translate portuguese day1_watered_5_83e8e43a:
 
     # m "Not my favourite place honestly. It's kind of uncomfortable..."
-    m ""
+    m "Não é meu lugar favorito pra ser honesto. É meio desconfortável..."
 
 # game/script.rpy:4953
 translate portuguese day1_watered_5_290c8148:
 
     # b "No problem! You can stay under the nice, cool shade of the umbrella! Just like that one character in the anime!"
-    b ""
+    b "Sem problema! Você pode ficar na bela e fria sombra do guarda-sol! Assim como aquele personagem no anime!"
 
 # game/script.rpy:4955
 translate portuguese day1_watered_5_1b1a3bb1:
 
     # m "Oooooh."
-    m ""
+    m "Oooooh."
 
 # game/script.rpy:4956
 translate portuguese day1_watered_5_d5cc4ee1:
 
     # m "So you got to the beach episode, huh?"
-    m ""
+    m "Então você viu o episódio da praia, huh?"
 
 # game/script.rpy:4957
 translate portuguese day1_watered_5_26ce1f94:
 
     # "The thought of the beach gives you a headache. The sand, the sun, the wind, the people, the expectation to undress..."
-    ""
+    "Só de pensar na praia já te dá dor de cabeça. A areia, o sol, o vento, as pessoas, a expectativa de tirar a roupa..."
 
 # game/script.rpy:4958
 translate portuguese day1_watered_5_480d8b21:
 
     # "Normally you would say no."
-    ""
+    "Normalmente você diria não."
 
 # game/script.rpy:4959
 translate portuguese day1_watered_5_d83a4b4b:
 
     # "But this is day three."
-    ""
+    "Mas é o terceiro dia."
 
 # game/script.rpy:4961
 translate portuguese day1_watered_5_d186aebe:
 
     # m "Ah, fine. We'll stop by the shop and get you a swimsuit... and some ice cream for me too."
-    m ""
+    m "Ah, tá bom. Vamos passar na loja pra te comprar um maiô... e um sorvete pra mim também."
 
 # game/script.rpy:4963
 translate portuguese day1_watered_5_4a8d7d8e:
 
     # b "Woohooooo!"
-    b ""
+    b "Woohooooo!"
 
 # game/script.rpy:4965
 translate portuguese day1_watered_5_7dfadd43:
 
     # m "Just help me carry stuff, ok?"
-    m ""
+    m "Só me ajude a carregar as coisas, ok?"
 
 # game/script.rpy:4967
 translate portuguese day1_watered_5_42e730da:
 
     # b "Button shall be the strongman!"
-    b ""
+    b "Botão será a homona fortona!"
 
 # game/script.rpy:4987
 translate portuguese day1_watered_5_51cfdc34:
 
     # "It takes an hour via train, but that doesn't dampen her excitement one bit."
-    ""
+    "Demora uma hora de trem, mas isso não diminui nem um pouco a excitação dela."
 
 # game/script.rpy:4988
 translate portuguese day1_watered_5_af2f605e:
 
     # "She loves buying the ticket, climbing onboard, and feeling the train accelerate and turn. It makes you smile."
-    ""
+    "Ela adora comprar a passagem, subir a bordo e sentir o trem acelerar e virar. Isso faz você sorrir."
 
 # game/script.rpy:4989
 translate portuguese day1_watered_5_20c834e6:
 
     # "How would she react to a rollercoaster? If you didn't eat her tonight, maybe you could both go tomorrow?"
-    ""
+    "Como ela reagiria a uma montanha-russa? Se você não a comesse esta noite, talvez vocês pudessem ir amanhã?"
 
 # game/script.rpy:4990
 translate portuguese day1_watered_5_ad45c7de:
 
     # "She looks alright now. Maybe you could do it!"
-    ""
+    "Ela parece bem agora. Talvez você consiga fazer isso!"
 
 # game/script.rpy:4991
 translate portuguese day1_watered_5_50e594a5:
 
     # "Maybe if you just water her extra, she can manage another day."
-    ""
+    "Talvez se você apenas regá-la mais, ela consiga sobreviver outro dia."
 
 # game/script.rpy:4992
 translate portuguese day1_watered_5_9fdc1d3f:
 
     # "Just before you walk to the beach, you purchase some snacks and water, while Button browses the swimwear."
-    ""
+    "Pouco antes de caminhar até a praia, você compra alguns lanchinhos e água, enquanto a Botão analiza as roupas de banho."
 
 # game/script.rpy:4993
 translate portuguese day1_watered_5_1f6c0107:
 
     # "She finds a really cute one! It's pricey, but who cares! It's perfect."
-    ""
+    "Ela acha um muito fofo! É caro, mas quem se importa! É perfeito."
 
 # game/script.rpy:4994
 translate portuguese day1_watered_5_8465b8e5:
 
     # "Then, finally..."
-    ""
+    "Então, finalmente..."
 
 # game/script.rpy:5007
 translate portuguese day1_watered_5_0b8c6125:
 
     # b "{sc=7}{color=#000000}AHHHHHH! THIS IS AMAZING!!!{/sc}"
-    b ""
+    b "{sc=7}{color=#000000}AHHHHHH! ISSO É INCRÍVEL!!!{/sc}"
 
 # game/script.rpy:5008
 translate portuguese day1_watered_5_c1cf14f5:
 
     # b "The sand feels so hot and fluffy! But the wet part is cold and hard!"
-    b ""
+    b "A areia é tão quentinha e fofa! Mas a parte molhada é fria e dura!"
 
 # game/script.rpy:5010
 translate portuguese day1_watered_5_6583d789:
 
     # m "That's because when the sand gets wet, it compresses and... she's gone."
-    m ""
+    m "Isso porque quando a areia fica molhada ela comprime e... cadê ela?"
 
 # game/script.rpy:5014
 translate portuguese day1_watered_5_cc0ef34a:
 
     # "It's a pleasant day, and the beach is relatively empty, since who goes on a Wednesday morning?"
-    ""
+    "O dia está agradável e a praia tá relativamente vazia, pois quem vai na quarta-feira de manhã?"
 
 # game/script.rpy:5016
 translate portuguese day1_watered_5_4c8cc19a:
 
     # "You find the perfect base camp and dig up a hole to set up the umbrella."
-    ""
+    "Você encontra o ponto perfeito e cava um buraco para montar o guarda-sol."
 
 # game/script.rpy:5018
 translate portuguese day1_watered_5_a52d11ba:
 
     # "Lounging on a towel, you eat your ice cream."
-    ""
+    "Sentado sob uma toalha, você toma o seu sorvete."
 
 # game/script.rpy:5020
 translate portuguese day1_watered_5_c210eb7c:
 
     # "All the while Button runs about with the water on the shoreline."
-    ""
+    "Enquanto isso, Button corre de um lado para o outro com a água na beira da praia."
 
 # game/script.rpy:5021
 translate portuguese day1_watered_5_2766d68f:
 
     # "But after a little while, she coerces you to \"just try\" swim with her."
-    ""
+    "Mas após um tempinho, ela te coage a \"apenas tentar\" nadar com ela."
 
 # game/script.rpy:5026
 translate portuguese day1_watered_5_ecbd5cea:
 
     # m "You can take it off!?"
-    m ""
+    m "Você consegue tirar!?"
 
 # game/script.rpy:5028
 translate portuguese day1_watered_5_1dd48aca:
 
     # b "It's just a hat, silly!"
-    b ""
+    b "É só um chapéu, bobinho!"
 
 # game/script.rpy:5030
 translate portuguese day1_watered_5_cc30f8e4:
 
     # m "I thought it was like... your head or something."
-    m ""
+    m "Eu achei que era tipo... a sua cabeça ou algo assim."
 
 # game/script.rpy:5031
 translate portuguese day1_watered_5_59c03e84:
 
     # m "Do all your clothes just grow-"
-    m ""
+    m "checkpoint"
 
 # game/script.rpy:5033
 translate portuguese day1_watered_5_537a9f4c:
