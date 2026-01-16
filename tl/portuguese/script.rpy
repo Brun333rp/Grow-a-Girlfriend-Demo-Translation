@@ -8746,589 +8746,589 @@ translate portuguese day1_watered_5_2efc3c96:
 translate portuguese day1_watered_5_62379a9b:
 
     # b "Don't worry! I've had a great life. I couldn't have asked for a better friend than you."
-    b "checkpoint"
+    b "Não se preocupa! Eu tive uma vida ótima. Não poderia ter pedido um amigo melhor que você."
 
 # game/script.rpy:5253
 translate portuguese day1_watered_5_5c97110c:
 
     # "Is that really true? You only took her to a field, a park, and a beach!"
-    ""
+    "Isso é verdade? Você só levou ela pra um campo, um parque e uma praia!"
 
 # game/script.rpy:5254
 translate portuguese day1_watered_5_a4e548a6:
 
     # "What about the cinema? Festivals? Dances? Fireworks? Amusement parks?"
-    ""
+    "E quanto ao cinema? Festivais? Bailes? Fogos de artifício? Parques de diversões?"
 
 # game/script.rpy:5255
 translate portuguese day1_watered_5_e2d0ab9a:
 
     # "If you had been more proactive, she would have been happier."
-    ""
+    "Se você tivesse sido mais proativo, ela estaria mais feliz."
 
 # game/script.rpy:5256
 translate portuguese day1_watered_5_0a08d0a4:
 
     # "You were the one holding her back."
-    ""
+    "Você era o único impedindo ela."
 
 # game/script.rpy:5258
 translate portuguese day1_watered_5_3d63e402:
 
     # b "Stop it. I know what you're doing."
-    b ""
+    b "Pare com isso. Eu sei o que está fazendo."
 
 # game/script.rpy:5260
 translate portuguese day1_watered_5_35809d0d:
 
     # m "I-"
-    m ""
+    m "Eu-"
 
 # game/script.rpy:5262
 translate portuguese day1_watered_5_fccd6fa8:
 
     # b "Hush. I'm about to give you the reality of things."
-    b ""
+    b "Shiu. Estou prestes a te contar a realidade das coisas."
 
 # game/script.rpy:5265
 translate portuguese day1_watered_5_9dbfe608:
 
     # b "You've made me a very happy mushroom."
-    b ""
+    b "Você me fez um cogumelo muito feliz."
 
 # game/script.rpy:5266
 translate portuguese day1_watered_5_77102fb0:
 
     # b "If not for you, I likely would have ended up as many of my sisters- staying at home, tending to their masters."
-    b ""
+    b "Se não fosse você, eu provavelmente teria acabado como muitas de minhas irmãs: ficando em casa, atendendo a seus mestres."
 
 # game/script.rpy:5268
 translate portuguese day1_watered_5_b81ba754:
 
     # b "Not necessarily a bad life, but..."
-    b ""
+    b "Não necessariamente uma vida ruim, mas..."
 
 # game/script.rpy:5270
 translate portuguese day1_watered_5_e931e87c:
 
     # b "I'm very glad it wasn't mine."
-    b ""
+    b "Eu tô feliz que não foi a minha."
 
 # game/script.rpy:5271
 translate portuguese day1_watered_5_7bf915cb:
 
     # b "I'm ready, %(player_name)s. You can trust me on that."
-    b ""
+    b "Eu estou pronta, %(player_name)s. Pode confiar em mim nisso."
 
 # game/script.rpy:5278
 translate portuguese day1_watered_5_a891494f:
 
     # m "I'll do it."
-    m ""
+    m "Deixa comigo."
 
 # game/script.rpy:5280
 translate portuguese day1_watered_5_2fd3b21a:
 
     # b "Woah, really?"
-    b ""
+    b "Uau, sério?"
 
 # game/script.rpy:5282
 translate portuguese day1_watered_5_a14f39f7:
 
     # m "What do you mean \"really\"? Isn't that what you want me to do?"
-    m ""
+    m "Como assim \"sério\"? Não era isso que você queria que eu fizesse?"
 
 # game/script.rpy:5284
 translate portuguese day1_watered_5_3af8b3f1:
 
     # b "I was just prepared to fight you on this-"
-    b ""
+    b "Eu já tava preparada pra discutir com você-"
 
 # game/script.rpy:5286
 translate portuguese day1_watered_5_5db26f2f:
 
     # b "But neeeevermind! Great! Perfect! Thank you!"
-    b ""
+    b "Mas deeeeixa pra lá! Ótimo! Perfeito! Obrigada!"
 
 # game/script.rpy:5288
 translate portuguese day1_watered_5_3d50226c:
 
     # m "You and your personality."
-    m ""
+    m "Você e sua personalidade."
 
 # game/script.rpy:5300
 translate portuguese day1_watered_5_62266673:
 
     # m "There's something I need to say."
-    m ""
+    m "Tem algo que eu preciso dizer."
 
 # game/script.rpy:5302
 translate portuguese day1_watered_5_80aa413a:
 
     # b "Ok."
-    b ""
+    b "Ok."
 
 # game/script.rpy:5304
 translate portuguese day1_watered_5_fe8a7d5b:
 
     # m "What if... I eat you tomorrow? And we can go out again?"
-    m ""
+    m "E se... deixarmos pra amanhã? E sairmos de novo?"
 
 # game/script.rpy:5305
 translate portuguese day1_watered_5_7a439786:
 
     # m "It'd just be one more day! You look fine now, maybe-"
-    m ""
+    m "Seria só mais um dia! Você parece ótima agora, talvez-"
 
 # game/script.rpy:5307
 translate portuguese day1_watered_5_7b53c933:
 
     # b "Yeah, I LOOK fine."
-    b ""
+    b "É, eu PAREÇO ótima."
 
 # game/script.rpy:5308
 translate portuguese day1_watered_5_777f8a06:
 
     # b "But I'm really tired, ok?"
-    b ""
+    b "Mas eu tô bem cansada, ok?"
 
 # game/script.rpy:5310
 translate portuguese day1_watered_5_efa4ad26:
 
     # b "In a way that I know I can never recover from."
-    b ""
+    b "De um jeito que eu sei que nunca irei me recuperar."
 
 # game/script.rpy:5311
 translate portuguese day1_watered_5_e528c179:
 
     # b "I've already passed my peak, and now... it's starting to hurt more and more, every hour."
-    b ""
+    b "Eu já passei do meu auge, e agora... tá começando a doer mais e mais, a cada hora."
 
 # game/script.rpy:5313
 translate portuguese day1_watered_5_6d2c438f:
 
     # b "I loved the beach, but all that saltwater probably wasn't the best idea. I feel really weird."
-    b ""
+    b "Eu amei a praia, mas toda aquela água salgada provavelmente não foi a melhor idea. Me sinto estranha."
 
 # game/script.rpy:5315
 translate portuguese day1_watered_5_d343a3e3:
 
     # b "It's ok. I'm ready to die! I always have been, remember?"
-    b ""
+    b "Tá tudo bem. Eu tô pronta pra morrer! Eu sempre estive, lembra?"
 
 # game/script.rpy:5317
 translate portuguese day1_watered_5_7d3395d7:
 
     # m "No, not ok! I can't murder you!"
-    m ""
+    m "Não tá tudo bem! Não posso te matar!"
 
 # game/script.rpy:5319
 translate portuguese day1_watered_5_7642b0f9:
 
     # b "Do you want me to suffer?"
-    b ""
+    b "Você quer que eu sofra?"
 
 # game/script.rpy:5321
 translate portuguese day1_watered_5_16cb344a:
 
     # m "No! But how can you ask me to {sc=3}{color=#000000}KILL{/sc} you!?"
-    m ""
+    m "Não! Mas como pode me pedir pra {sc=3}{color=#000000}EU TE MATAR{/sc}!?"
 
 # game/script.rpy:5322
 translate portuguese day1_watered_5_0e45cf21:
 
     # m "How are you so eager to die!?"
-    m ""
+    m "Como você tá tão disposta a morrer!?"
 
 # game/script.rpy:5324
 translate portuguese day1_watered_5_51ec8fbb:
 
     # b "You think I want to die!?"
-    b ""
+    b "Acha que eu quero morrer!?"
 
 # game/script.rpy:5325
 translate portuguese day1_watered_5_ab7471a6:
 
     # b "You think I'm not scared? That I haven't thought about it?"
-    b ""
+    b "Acha que eu não tenho medo? Que eu não estive pensando sobre?"
 
 # game/script.rpy:5327
 translate portuguese day1_watered_5_9ebce40b:
 
     # b "I'm going to die whether I like it or not! Either a quick death by your hand and I nourish you-"
-    b ""
+    b "Eu vou morrer independente do que eu ache! Ou eu tenho uma morte rápida e te sirvo de alimento-"
 
 # game/script.rpy:5329
 translate portuguese day1_watered_5_29f21bdf:
 
     # b "Or I slowly rot away!"
-    b ""
+    b "Ou eu apodreço lentamente!"
 
 # game/script.rpy:5330
 translate portuguese day1_watered_5_2dfd8371:
 
     # b "{sc=4}{color=#000000}AT LEAST LET MY DEATH BE MEANINGFUL!{/sc}"
-    b ""
+    b "{sc=4}{color=#000000}PELO MENOS QUE MINHA MORTE TENHA UM PROPÓSITO!{/sc}"
 
 # game/script.rpy:5332
 translate portuguese day1_watered_5_26751b3d:
 
     # m "Just one more day!"
-    m ""
+    m "Só mais um dia!"
 
 # game/script.rpy:5333
 translate portuguese day1_watered_5_acb7483c:
 
     # m "Can't we just try?"
-    m ""
+    m "Não podemos tentar?"
 
 # game/script.rpy:5335
 translate portuguese day1_watered_5_206ad3fc:
 
     # b "I don't want to! I want to stop fighting. I want the pain to stop."
-    b ""
+    b "Eu não quero! Eu quero parar de lutar. Eu quero que a dor pare."
 
 # game/script.rpy:5337
 translate portuguese day1_watered_5_59f2f5b9:
 
     # b "And I want to die while I still feel somewhat fine."
-    b ""
+    b "E eu quero morrer enquanto ainda me sinto relativamente bem."
 
 # game/script.rpy:5342
 translate portuguese day1_watered_5_e612037c_2:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:5343
 translate portuguese day1_watered_5_10fcab73:
 
     # b "Look. I know it's hard. I'm-"
-    b ""
+    b "Olha. Eu sei que é difícil. Eu-"
 
 # game/script.rpy:5345
 translate portuguese day1_watered_5_a891494f_1:
 
     # m "I'll do it."
-    m ""
+    m "Deixa comigo."
 
 # game/script.rpy:5347
 translate portuguese day1_watered_5_36632bf4:
 
     # b "You... will?"
-    b ""
+    b "Você... vai?"
 
 # game/script.rpy:5348
 translate portuguese day1_watered_5_4225379e:
 
     # m "Yes. There's just no other choice."
-    m ""
+    m "Sim. Não existe outra escolha."
 
 # game/script.rpy:5350
 translate portuguese day1_watered_5_72924b8b:
 
     # m "You were made to be this way. I knew that from the start."
-    m ""
+    m "Você foi feita dessa forma. Eu já sabia desde o início."
 
 # game/script.rpy:5351
 translate portuguese day1_watered_5_f3571d21:
 
     # m "I just... didn't think it was going to be this sad for me."
-    m ""
+    m "Eu só... não imaginei que isso seria tão triste pra mim."
 
 # game/script.rpy:5353
 translate portuguese day1_watered_5_be6625fd:
 
     # b "You don't need to be sad! Like I said, I'm ready, I've had a good life, and that's what matters!"
-    b ""
+    b "Você não precisa ficar triste! Como eu disse, eu tô pronta, eu tive uma boa vida, e é isso que importa!"
 
 # game/script.rpy:5355
 translate portuguese day1_watered_5_d78f4ebf:
 
     # b "Plus, there's something reassuring about knowing I'm going to nourish you. Like... it just makes me happy."
-    b ""
+    b "Além disso, há algo reconfortante em saber te servirei de alimento. Tipo... isso me deixa feliz."
 
 # game/script.rpy:5359
 translate portuguese day1_watered_5_e612037c_3:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:5361
 translate portuguese day1_watered_5_10fcab73_1:
 
     # b "Look. I know it's hard. I'm-"
-    b ""
+    b "Olha. Eu sei que é difícil. Eu-"
 
 # game/script.rpy:5364
 translate portuguese day1_watered_5_47ba7d94:
 
     # m "No."
-    m ""
+    m "Não."
 
 # game/script.rpy:5365
 translate portuguese day1_watered_5_710dcf71:
 
     # m "No. I can't."
-    m ""
+    m "Não. Eu não posso."
 
 # game/script.rpy:5366
 translate portuguese day1_watered_5_97d2129e:
 
     # m "I need you."
-    m ""
+    m "Eu preciso de você."
 
 # game/script.rpy:5367
 translate portuguese day1_watered_5_b395ab1b:
 
     # m "We can still go out tomorrow, even if I need to carry you."
-    m ""
+    m "Ainda podemos sair amanhã, mesmo que eu precise te carregar."
 
 # game/script.rpy:5369
 translate portuguese day1_watered_5_23c14a00:
 
     # m "Please, Button. I beg you."
-    m ""
+    m "Por favor, Botão. Eu imploro."
 
 # game/script.rpy:5371
 translate portuguese day1_watered_5_06e24eee:
 
     # b "Please don't cry..."
-    b ""
+    b "Não chore, por favor..."
 
 # game/script.rpy:5372
 translate portuguese day1_watered_5_3fd3ee16:
 
     # m "Please, Button."
-    m ""
+    m "Por favor, Botão."
 
 # game/script.rpy:5374
 translate portuguese day1_watered_5_850ef128_1:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:5376
 translate portuguese day1_watered_5_4b5d4c67:
 
     # b "You're making this really hard for me."
-    b ""
+    b "Você está tornando isso muito difícil para mim."
 
 # game/script.rpy:5377
 translate portuguese day1_watered_5_423aea95:
 
     # b "I'll t-try. For you."
-    b ""
+    b "E-eu vou tentar. Por você."
 
 # game/script.rpy:5378
 translate portuguese day1_watered_5_3a3cd092:
 
     # b "Just please..."
-    b ""
+    b "Mas por favor..."
 
 # game/script.rpy:5379
 translate portuguese day1_watered_5_eed6cfb6:
 
     # b "{cps=20}If it hurts too much, you need to-{/cps}{nw}"
-    b ""
+    b "{cps=20}Se doer muito, você precisa me-{/cps}{nw}"
 
 # game/script.rpy:5417
 translate portuguese day1_watered_5_b6142cb4:
 
     # b "{cps=20}{size=-15}Please kill me.{/cps}"
-    b ""
+    b "{cps=20}{size=-15}Me mata por favor.{/cps}"
 
 # game/script.rpy:5420
 translate portuguese day1_watered_5_6237ac1e:
 
     # m "Button?"
-    m ""
+    m "Botão?"
 
 # game/script.rpy:5424
 translate portuguese day1_watered_5_b6142cb4_1:
 
     # b "{cps=20}{size=-15}Please kill me.{/cps}"
-    b ""
+    b "{cps=20}{size=-15}Por favor me mata.{/cps}"
 
 # game/script.rpy:5426
 translate portuguese day1_watered_5_f04379c8:
 
     # m "{sc=3}{color=#000000}{size=+15}OH MY GOD!"
-    m ""
+    m "{sc=3}{color=#000000}{size=+15}AI MEU DEUS!"
 
 # game/script.rpy:5427
 translate portuguese day1_watered_5_bb32ccef:
 
     # b "{cps=25}{color=#000000}{size=-15}It hurts so much. Please kill me, %(player_name)s.{/cps}"
-    b ""
+    b "{cps=25}{color=#000000}{size=-15}Tá doendo muito. Me mata por favor, %(player_name)s.{/cps}"
 
 # game/script.rpy:5429
 translate portuguese day1_watered_5_65f45dab:
 
     # m "I'm so sorry! I didn't know!"
-    m ""
+    m "Me desculpa! Eu não sabia!"
 
 # game/script.rpy:5431
 translate portuguese day1_watered_5_70a6c182:
 
     # b "{sc=3}{color=#000000}PLEASE KILL ME!" with sshake
-    b "" with sshake
+    b "{sc=3}{color=#000000}POR FAVOR ME MATA!" with sshake
 
 # game/script.rpy:5436
 translate portuguese day1_watered_5_59eef974:
 
     # m "Ok! I'll kill you! I'm sorry!"
-    m ""
+    m "Ok! Eu te mato! Desculpa!"
 
 # game/script.rpy:5440
 translate portuguese day1_watered_5_fff1e6ea:
 
     # "As quick as you can, you grab the closest blade you have: the boxcutter in your desk."
-    ""
+    "O mais rápido possível, você pega a lâmina mais próxima que há: o estilete que está na sua mesa."
 
 # game/script.rpy:5442
 translate portuguese day1_watered_5_23c0bd2e:
 
     # m "{sc=3}{color=#000000}I'M SORRY BUTTON!"
-    m ""
+    m "{sc=3}{color=#000000}DESCULPA BOTÃO!"
 
 # game/script.rpy:5444
 translate portuguese day1_watered_5_a59bdabd:
 
     # "You shakily cut through Button's throat."
-    ""
+    "Você tremulamente corta a garganta da Botão."
 
 # game/script.rpy:5446
 translate portuguese day1_watered_5_54caeead:
 
     # "It's so brittle, her neck crumbles off immediately."
-    ""
+    "É tão frágil que o pescoço dela se desfaz imediatamente."
 
 # game/script.rpy:5449
 translate portuguese day1_watered_5_e612037c_4:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:5450
 translate portuguese day1_watered_5_6998286c:
 
     # "You've decapitated her."
-    ""
+    "Você a decapitou."
 
 # game/script.rpy:5456
 translate portuguese day1_watered_5_3490d821:
 
     # "Button's wails for death halt. Abruptly."
-    ""
+    "Os lamentos da Botão cessam. Abruptamente."
 
 # game/script.rpy:5457
 translate portuguese day1_watered_5_bd4cd586:
 
     # "She's dead."
-    ""
+    "Ela está morta."
 
 # game/script.rpy:5458
 translate portuguese day1_watered_5_74f2bcef:
 
     # "She's a dead corpse on the floor."
-    ""
+    "Ela virou um cadáver no chão."
 
 # game/script.rpy:5508
 translate portuguese submitandeat_2936c38c:
 
     # m "Hah... I'm-"
-    m ""
+    m "Hah... Eu-"
 
 # game/script.rpy:5510
 translate portuguese submitandeat_7c9d053e:
 
     # m "I'm going to miss you."
-    m ""
+    m "Vou sentir sua falta."
 
 # game/script.rpy:5512
 translate portuguese submitandeat_797e0436:
 
     # b "Ah, wait!"
-    b ""
+    b "Ah, espera!"
 
 # game/script.rpy:5514
 translate portuguese submitandeat_0ad9863e:
 
     # b "This is for you!"
-    b ""
+    b "Isso é pra você!"
 
 # game/script.rpy:5522
 translate portuguese submitandeat_8a5145a3:
 
     # m "Haha!"
-    m ""
+    m "Haha!"
 
 # game/script.rpy:5524
 translate portuguese submitandeat_f208e675:
 
     # m "It's so you. I love it. Thank you."
-    m ""
+    m "É tão sua cara. Eu adorei. Obrigado."
 
 # game/script.rpy:5527
 translate portuguese submitandeat_5b3723ae:
 
     # b "I'm glad to hear that. May I request... one last hug?"
-    b ""
+    b "Que bom ouvir isso. Posso pedir... um último abraço?"
 
 # game/script.rpy:5536
 translate portuguese submitandeat_0215187b:
 
     # b "I don't know what awaits me on the other side. It's scary, but thanks to you..."
-    b ""
+    b "Não sei o que me espera do outro lado. É assustador, mas graças a você..."
 
 # game/script.rpy:5537
 translate portuguese submitandeat_f089c535:
 
     # b "...living was worth dying for."
-    b ""
+    b "... viver justificou até a morte."
 
 # game/script.rpy:5538
 translate portuguese submitandeat_2d2d1c94:
 
     # "Button hugs you tight, one last time."
-    ""
+    "A Botão te abraça forte, pela última vez."
 
 # game/script.rpy:5543
 translate portuguese submitandeat_16b30e54:
 
     # b "I'll wait while you... get it."
-    b ""
+    b "Vou esperar enquanto você... pega."
 
 # game/script.rpy:5545
 translate portuguese submitandeat_fc8f51a1:
 
     # m "Get... what?"
-    m ""
+    m "Pegar... o que?"
 
 # game/script.rpy:5548
 translate portuguese submitandeat_066c9025:
 
     # b "Something nice and sharp."
-    b ""
+    b "Alguma coisa bem afiada."
 
 # game/script.rpy:5550
 translate portuguese submitandeat_51014642:
 
     # m "Oh. I see."
-    m ""
+    m "Ah. Entendi."
 
 # game/script.rpy:5587
 translate portuguese picked_up_bc_a67336f0:
 
     # "Yes. This will do."
-    ""
+    "Sim. Isso serve."
 
 # game/script.rpy:5588
 translate portuguese picked_up_bc_dc9d6c70:
 
     # "You extend the blade, watching with dread as its gleaming, razor-thin neck hungrily emerges."
-    ""
+    "checkpoint"
 
 # game/script.rpy:5589
 translate portuguese picked_up_bc_8034318e:
