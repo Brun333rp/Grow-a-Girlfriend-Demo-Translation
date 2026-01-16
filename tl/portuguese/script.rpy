@@ -3304,7 +3304,7 @@ translate portuguese leavehouse_9661d7fa:
 translate portuguese leavehouse_c3372dc8:
 
     # b "Eeeek! It's eating me! {sc=4}{color=#000000}HELP!"
-    b "Aaaah! Ele tá me comendo! {sc=4}{color=#000000}SOCORRO!"
+    b "Ih! Ele tá me comendo! {sc=4}{color=#000000}SOCORRO!"
 
 # game/script.rpy:2310
 translate portuguese leavehouse_8e798c79:
@@ -8230,523 +8230,523 @@ translate portuguese day1_watered_5_cc30f8e4:
 translate portuguese day1_watered_5_59c03e84:
 
     # m "Do all your clothes just grow-"
-    m "checkpoint"
+    m "As suas roupas simplesmente cres-?"
 
 # game/script.rpy:5033
 translate portuguese day1_watered_5_537a9f4c:
 
     # b "Come on! Let's GO already!"
-    b ""
+    b "Qual é! VAMBORA logo!"
 
 # game/script.rpy:5034
 translate portuguese day1_watered_5_ea2bda2e:
 
     # "She pulls you down to the water's edge."
-    ""
+    "Ela te puxa para a beira d'água."
 
 # game/script.rpy:5037
 translate portuguese day1_watered_5_dc715129:
 
     # b "EEK! IT'S SO COLD! I LOVE IT!"
-    b ""
+    b "AH! É TÃO FRIOZINHO! EU ADOREI!"
 
 # game/script.rpy:5038
 translate portuguese day1_watered_5_8818d85e:
 
     # m "Same, but I hate it."
-    m ""
+    m "Eu também, só que não."
 
 # game/script.rpy:5040
 translate portuguese day1_watered_5_e6651a6d:
 
     # b "Let's go deeper!"
-    b ""
+    b "Vamos mais fundo!"
 
 # game/script.rpy:5042
 translate portuguese day1_watered_5_c63bca40:
 
     # m "It's hard enough with just my ankles!"
-    m ""
+    m "Já é difícil só com os meus joelhos!"
 
 # game/script.rpy:5044
 translate portuguese day1_watered_5_63df47ac:
 
     # b "Come ooooon! Please just be my doormat and swim more!"
-    b ""
+    b "Qual éééééé! Por favor, seja meu capacho e nade mais!"
 
 # game/script.rpy:5046
 translate portuguese day1_watered_5_a1a5c743:
 
     # m "Who taught you to speak like that?"
-    m ""
+    m "Quem te ensinou a falar assim?"
 
 # game/script.rpy:5047
 translate portuguese day1_watered_5_ce10a2cf:
 
     # "Anime."
-    ""
+    "Os animes."
 
 # game/script.rpy:5049
 translate portuguese day1_watered_5_bcda6fb7:
 
     # b "What must I do to convince you?"
-    b ""
+    b "O que devo fazer pra te convencer?"
 
 # game/script.rpy:5051
 translate portuguese day1_watered_5_a4e0a298:
 
     # m "You could also just respect my wishes, you know..."
-    m ""
+    m "Você poderia simplesmente respeitar meus desejos, sabe..."
 
 # game/script.rpy:5053
 translate portuguese day1_watered_5_850ef128:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:5055
 translate portuguese day1_watered_5_45e44f9c:
 
     # m "Whatever you're scheming-"
-    m ""
+    m "Seja lá o que estiver tramando-"
 
 # game/script.rpy:5057
 translate portuguese day1_watered_5_07ae506b:
 
     # b "Oops!"
-    b ""
+    b "Oops!"
 
 # game/script.rpy:5058
 translate portuguese day1_watered_5_bb714e17:
 
     # "She. Splashes. You."
-    ""
+    "Ela. Te espirra. Com água."
 
 # game/script.rpy:5060
 translate portuguese day1_watered_5_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:5062
 translate portuguese day1_watered_5_6a5247aa:
 
     # b "Oops?"
-    b ""
+    b "Oops?"
 
 # game/script.rpy:5063
 translate portuguese day1_watered_5_7668288e:
 
     # "She splashes you AGAIN!"
-    ""
+    "Ela espirra água em você DE NOVO!"
 
 # game/script.rpy:5065
 translate portuguese day1_watered_5_43b30f83:
 
     # m "{sc=7}{color=#000000}BUTTON!"
-    m ""
+    m "{sc=7}{color=#000000}BOTÃO!"
 
 # game/script.rpy:5067
 translate portuguese day1_watered_5_2e044717:
 
     # b "Oh noooooo~!"
-    b ""
+    b "Oh nãããaoo~!"
 
 # game/script.rpy:5073
 translate portuguese day1_watered_5_ad549c7e:
 
     # "You end up watching the sunset together."
-    ""
+    "Vocês acabam vendo o pôr do sol juntos."
 
 # game/script.rpy:5080
 translate portuguese day1_watered_5_6a3f14be:
 
     # "She looks really happy. You feel proud of yourself."
-    ""
+    "Ela parece muito feliz. Você sente orgulho de si mesmo."
 
 # game/script.rpy:5086
 translate portuguese day1_watered_5_195f6aa6:
 
     # "She leans her head on your shoulder."
-    ""
+    "Ela encosta a cabeça no seu ombro."
 
 # game/script.rpy:5087
 translate portuguese day1_watered_5_46816830:
 
     # "With her snuggled beside you, it feels like nothing is wrong anymore."
-    ""
+    "Com ela aconchegada ao seu lado, parece que nada mais está errado."
 
 # game/script.rpy:5088
 translate portuguese day1_watered_5_b1afa068:
 
     # "Glancing at her, you notice for the first time how her hair shifts from light to dark brown. Sometimes you forget that she isn't a human."
-    ""
+    "Ao olhar pra ela, você percebe pela primeira vez como o cabelo dela muda de castanho claro pra castanho escuro. Às vezes você esquece que ela não é humana."
 
 # game/script.rpy:5089
 translate portuguese day1_watered_5_2a270f41:
 
     # "Even her eyes twinkle with playful mischief, and her mannerisms are so life-like, so appealing..."
-    ""
+    "Os olhos dela cintilam com brincalhona travessura, e seus gestos são tão vívidos, tão cativantes…"
 
 # game/script.rpy:5091
 translate portuguese day1_watered_5_d7901383:
 
     # "That's when it hits you."
-    ""
+    "É aí que cai a ficha."
 
 # game/script.rpy:5092
 translate portuguese day1_watered_5_5818e2ae:
 
     # "You're attracted to her."
-    ""
+    "Você tá atraído por ela."
 
 # game/script.rpy:5093
 translate portuguese day1_watered_5_e4b7e745:
 
     # "Maybe it was her spunky, fun personality that drew you out of your hole."
-    ""
+    "Talvez tenha sido a personalidade corajosa e divertida dela que te atraiu pra fora da toca."
 
 # game/script.rpy:5094
 translate portuguese day1_watered_5_a7c45bb4:
 
     # "Maybe it was how she showed you that you don't need to feel guilty for having fun."
-    ""
+    "Talvez porque ela lhe mostrou que você não precisa se sentir culpado por se divertir."
 
 # game/script.rpy:5095
 translate portuguese day1_watered_5_9575f59d:
 
     # "Maybe it's how you admire her self strength, and her simple, yet resolute, goal to have fun in life."
-    ""
+    "Talvez porque você admira a resiliência que ela tem e o objetivo simples, porém resoluto, dela de se divertir na vida."
 
 # game/script.rpy:5096
 translate portuguese day1_watered_5_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:5097
 translate portuguese day1_watered_5_8ada8fd9:
 
     # "COME ON!"
-    ""
+    "QUAL É!"
 
 # game/script.rpy:5098
 translate portuguese day1_watered_5_ac3aeb2f:
 
     # "You're {i}really{/i} not going to say anything about her BODY?"
-    ""
+    "Você {i}realmente{/i} não vai dizer nada sobre o CORPO dela?"
 
 # game/script.rpy:5099
 translate portuguese day1_watered_5_94f8c7d7:
 
     # "She's pretty hot, dude. {sc=4}{color=#000000}THAT BIKINI!"
-    ""
+    "Ela é bem gostosa, cara. {sc=4}{color=#000000}AQUELE BIQUÍNI!"
 
 # game/script.rpy:5100
 translate portuguese day1_watered_5_f10f0c65:
 
     # "Either way, you have the insatiable desire..."
-    ""
+    "De qualquer forma, você tem um desejo insaciável..."
 
 # game/script.rpy:5101
 translate portuguese day1_watered_5_1e982bd0:
 
     # "...to draw her face near..."
-    ""
+    "... de se aproximar do rosto dela..."
 
 # game/script.rpy:5102
 translate portuguese day1_watered_5_d27fd145:
 
     # "... and kiss her."
-    ""
+    "... e beijá-la."
 
 # game/script.rpy:5109
 translate portuguese day1_watered_5_7976f1c4:
 
     # m "Hey..."
-    m ""
+    m "Ei..."
 
 # game/script.rpy:5110
 translate portuguese day1_watered_5_e7c15a9d:
 
     # m "Ahhh..."
-    m ""
+    m "Uhhh..."
 
 # game/script.rpy:5111
 translate portuguese day1_watered_5_0265e29c:
 
     # m "I know I said I wanted to be friends, but..."
-    m ""
+    m "Eu tinha dito que só seriamos amigos, mas..."
 
 # game/script.rpy:5113
 translate portuguese day1_watered_5_7d33ab3d:
 
     # m "Is it ok if I {sc=1}{color=#000000}kiss you?"
-    m ""
+    m "Tá tudo bem se eu {sc=1}{color=#000000}te beijar?"
 
 # game/script.rpy:5115
 translate portuguese day1_watered_5_36369a3c:
 
     # b "Wait, really!? You want to kiss me!?"
-    b ""
+    b "Pera, sério!? Você quer me beijar!?"
 
 # game/script.rpy:5117
 translate portuguese day1_watered_5_3626ef0c:
 
     # m "Y-Yes..."
-    m ""
+    m "S-Sim..."
 
 # game/script.rpy:5119
 translate portuguese day1_watered_5_f35a6b0c:
 
     # b "Oh my gosh, oh my gosh! YES! PLEASE KISS ME! FINALLY!"
-    b ""
+    b "Oh meu Deus, oh meu Deus! SIM! POR FAVOR, ME BEIJA! FINALMENTE!"
 
 # game/script.rpy:5120
 translate portuguese day1_watered_5_18110a8f:
 
     # "Her enthusiasm makes you smile."
-    ""
+    "O entusiasmo dela te faz sorrir."
 
 # game/script.rpy:5121
 translate portuguese day1_watered_5_fbef9168:
 
     # m "(She's so cute. So this is what it feels like... to like someone.)"
-    m ""
+    m "(Ela é tão fofa. Então é assim que é... gostar de alguém.)"
 
 # game/script.rpy:5122
 translate portuguese day1_watered_5_23296d76:
 
     # "Look how excited she is. What if you mess up the kiss? It'd be embarrassing if you disappointed her expectations."
-    ""
+    "Olha como ela está animada. E se você estragar o beijo? Seria constrangedor se você decepcionasse as expectativas dela."
 
 # game/script.rpy:5123
 translate portuguese day1_watered_5_f75dcfeb:
 
     # m "(Ugh, you're right. What do I do? HOW do I-?)"
-    m ""
+    m "(Ai, você tem razão. O que eu faço? COMO eu faço-?)"
 
 # game/script.rpy:5135
 translate portuguese day1_watered_5_d7004fe6:
 
     # b "You're such a worrier."
-    b ""
+    b "Você se preocupa demais."
 
 # game/script.rpy:5136
 translate portuguese day1_watered_5_b53e5504:
 
     # "Her hand on your cheek is making your heart seize, scrambling your panicked thoughts."
-    ""
+    "A mão dela na sua bochecha faz seu coração disparar, embaralhando seus pensamentos em pânico."
 
 # game/script.rpy:5137
 translate portuguese day1_watered_5_46268102:
 
     # b "May I?"
-    b ""
+    b "Eu posso?"
 
 # game/script.rpy:5138
 translate portuguese day1_watered_5_bb3fc7d3:
 
     # m "Uh... m-may you... what?"
-    m ""
+    m "Uh... v-você... o que?"
 
 # game/script.rpy:5139
 translate portuguese day1_watered_5_17e5e6d3:
 
     # b "You're so silly."
-    b ""
+    b "Você é tão bobo."
 
 # game/script.rpy:5148
 translate portuguese day1_watered_5_35423a57:
 
     # "As she presses her lips against yours, your head blanks, leaving only the sensation of those soft, blissful lips."
-    ""
+    "Ao ter seus lábios pressionados pelos dela, sua mente fica em branco, restando apenas a sensação daqueles lábios macios e sublimes."
 
 # game/script.rpy:5158
 translate portuguese day1_watered_5_52cc4315:
 
     # "It's like a bolt of electricity running up your spine, frying your brain, leaving you stunned."
-    ""
+    "É como um choque elétrico percorrendo sua espinha, fritando seu cérebro e te deixando atordoado."
 
 # game/script.rpy:5162
 translate portuguese day1_watered_5_1a18ae7e:
 
     # "You grab Button's waist and pull her tight, wanting to trap that lovely warm feeling she's giving you forever."
-    ""
+    "Você agarra a cintura da Botão e a puxa pra perto, querendo aprisionar para sempre a sensação aconchegante que ela lhe proporciona."
 
 # game/script.rpy:5163
 translate portuguese day1_watered_5_f42b8205:
 
     # "Nothing else matters. Only you and her exist right now. Nothing could make this moment better."
-    ""
+    "Nada mais importa. Só você e ela existem agora. Nada faria esse momento melhor."
 
 # game/script.rpy:5165
 translate portuguese day1_watered_5_ca66d9fb:
 
     # "No thoughts, no worry. Only her."
-    ""
+    "Sem pensamentos, sem preocupação. Só ela."
 
 # game/script.rpy:5171
 translate portuguese day1_watered_5_ec1ead23:
 
     # "But time won't stop for anyone."
-    ""
+    "Mas o tempo não para pra ninguém."
 
 # game/script.rpy:5172
 translate portuguese day1_watered_5_b395197b:
 
     # m "Button, I don't want to say goodbye to you. I feel like I hardly got to know you."
-    m ""
+    m "Botão, eu não quero dizer adeus. Eu sinto que mal pude te conhecer."
 
 # game/script.rpy:5173
 translate portuguese day1_watered_5_4bbeb1fe:
 
     # b "Me neither, %(player_name)s. But there's nothing we can do."
-    b ""
+    b "Eu também, %(player_name)s. Mas não há nada que possamos fazer."
 
 # game/script.rpy:5174
 translate portuguese day1_watered_5_675446f1:
 
     # "She holds your hand tightly. You can't tell whose is causing all the shaking."
-    ""
+    "Ela segura a sua mão com força. Você não sabe dizer se é a sua mão ou a dela que está tremendo tanto."
 
 # game/script.rpy:5175
 translate portuguese day1_watered_5_ee79b5a0:
 
     # b "The only thing we can do is be grateful."
-    b ""
+    b "A única coisa que podemos fazer é sermos gratos."
 
 # game/script.rpy:5188
 translate portuguese day1_watered_5_9724e356:
 
     # m "(There's no way that would end well)."
-    m ""
+    m "(Não há a menor chance disso dar certo)."
 
 # game/script.rpy:5189
 translate portuguese day1_watered_5_252cdc31:
 
     # m "(We'd both just get hurt later on...)"
-    m ""
+    m "(Nós dois acabaríamos nos machucando mais tarde...)"
 
 # game/script.rpy:5190
 translate portuguese day1_watered_5_977c2e77:
 
     # "That's what you tell yourself."
-    ""
+    "É isso que você diz pra si mesmo."
 
 # game/script.rpy:5191
 translate portuguese day1_watered_5_06c8bb7a:
 
     # "So you scoot slightly away."
-    ""
+    "Então você se afasta um pouco."
 
 # game/script.rpy:5192
 translate portuguese day1_watered_5_7333348c:
 
     # "Button's smile falters for a second."
-    ""
+    "O sorriso da Botão esmorece por um segundo."
 
 # game/script.rpy:5193
 translate portuguese day1_watered_5_bf614b90:
 
     # "But then she goes on staring at the sunset."
-    ""
+    "Mas depois ela continua a contemplar o pôr do sol."
 
 # game/script.rpy:5197
 translate portuguese day1_watered_5_6f0f2874:
 
     # "That beach trip takes the whole day, but it was a great one."
-    ""
+    "Essa ida à praia durou o dia todo, mas foi ótima."
 
 # game/script.rpy:5223
 translate portuguese day1_watered_5_dd387d2b:
 
     # m "Ugh, finally home. I've got sand literally everywhere."
-    m ""
+    m "Ufa, finalmente em casa. Tô com areia em tudo quanto é lugar."
 
 # game/script.rpy:5224
 translate portuguese day1_watered_5_00b87bea:
 
     # b "Haaaah~ the beach was amazing!"
-    b ""
+    b "Haaaah~ a praia foi incrível!"
 
 # game/script.rpy:5226
 translate portuguese day1_watered_5_a756fcaf:
 
     # b "You enjoyed it too, right? Our last day?"
-    b ""
+    b "Você também gostou, né? Nosso último dia..."
 
 # game/script.rpy:5228
 translate portuguese day1_watered_5_e612037c_1:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:5230
 translate portuguese day1_watered_5_f72e3f88:
 
     # m "Yeah. Thanks for the suggestion."
-    m ""
+    m "É. Valeu pela sugestão."
 
 # game/script.rpy:5232
 translate portuguese day1_watered_5_02ae3335:
 
     # m "Honestly, it might have been my favourite day ever."
-    m ""
+    m "Sinceramente, talvez tenha sido o meu dia favorito de todo o sempre."
 
 # game/script.rpy:5234
 translate portuguese day1_watered_5_74b0e36f:
 
     # b "I'm just that magical. You're welcome!"
-    b ""
+    b "Eu sou simplesmente mágica. De nada!"
 
 # game/script.rpy:5236
 translate portuguese day1_watered_5_56ba0c6b:
 
     # b "These last few days have been amazing, and I'm truly grateful to you..."
-    b ""
+    b "Esses últimos dias foram incríveis, e eu sou realmente grata a você..."
 
 # game/script.rpy:5239
 translate portuguese day1_watered_5_a20cefa7_1:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:5241
 translate portuguese day1_watered_5_37e64d8d:
 
     # b "But I feel really tired, more and more. Like I'm being... drained, in a way."
-    b ""
+    b "Mas eu me sinto cada vez mais e mais cansada. Como se eu estivesse sendo... drenada, ou algo assim."
 
 # game/script.rpy:5243
 translate portuguese day1_watered_5_1118f907:
 
     # b "I think it's time for me to go."
-    b ""
+    b "Acho que é hora de eu ir."
 
 # game/script.rpy:5246
 translate portuguese day1_watered_5_2aeb11a3:
 
     # m "Like... now?"
-    m ""
+    m "Tipo... agora?"
 
 # game/script.rpy:5247
 translate portuguese day1_watered_5_ddd8abed:
 
     # b "Yes."
-    b ""
+    b "Sim."
 
 # game/script.rpy:5249
 translate portuguese day1_watered_5_2efc3c96:
 
     # m "... Do you have to?"
-    m ""
+    m "... Você precisa?"
 
 # game/script.rpy:5251
 translate portuguese day1_watered_5_62379a9b:
 
     # b "Don't worry! I've had a great life. I couldn't have asked for a better friend than you."
-    b ""
+    b "checkpoint"
 
 # game/script.rpy:5253
 translate portuguese day1_watered_5_5c97110c:
