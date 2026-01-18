@@ -9610,7 +9610,7 @@ translate portuguese strings:
 
     # game/script.rpy:1022
     old "It's lasted you since you were preteen, but you're not allowed a new one until it stops working."
-    new "Dura desde que você era pré-adolescente, mas você só vai pega uma nova até essa aqui parar de funfar."
+    new "Dura desde que você era pré-adolescente, mas você só vai pegar uma nova até essa aqui parar de funfar."
 
     # game/script.rpy:1026
     old "Blahaj believes in you!"
@@ -9650,7 +9650,7 @@ translate portuguese strings:
 
     # game/script.rpy:1188
     old "Button End 2: Mush-room bound."
-    new "Final 2 (Botão): Mofando no quarto."
+    new "Final 2 (Botão): Líquen disse que isso é problema meu?"
 
     # game/script.rpy:1204
     old "It said please..."
@@ -9674,7 +9674,7 @@ translate portuguese strings:
 
     # game/script.rpy:1432
     old "Filled with instant noodles, the only thing you can muster the effort to prepare nowadays."
-    new "Cheia de macarrão instantâneo, a única coisa que você consegue se dá ao trabalho de preparar atualmente."
+    new "Cheia de macarrão instantâneo, a única coisa que você consegue se dar ao trabalho de preparar atualmente."
 
     # game/script.rpy:1650
     old "Is she pretty?"
@@ -9770,7 +9770,7 @@ translate portuguese strings:
 
     # game/script.rpy:2198
     old "{sc=1}Now it's just you and me, and no one to interfere.{/sc}"
-    new "{sc=1}Agora é só eu e você, e ninguém pra intervir.{/sc}"
+    new "{sc=1}Agora é só eu e você, e ninguém pra interferir.{/sc}"
 
     # game/script.rpy:2202
     old "Doesn't it feel so euphoric...? {sc=2}To hurt yourself like this...?{/sc}"
@@ -9786,7 +9786,7 @@ translate portuguese strings:
 
     # game/script.rpy:2216
     old "Button End 3: Spore, unfortunate soul."
-    new "Final 3 (Botão): Pobre alma embolorada."
+    new "Final 3 (Botão): Pobre alma hinfeliz."
 
     # game/script.rpy:2402
     old "Should I eat her now?"
@@ -9974,189 +9974,189 @@ translate portuguese strings:
 
     # game/script.rpy:4181
     old "Button End 9: Truffled mind."
-    new "Final 9 (Botão): Cabeça Micelada"
+    new "Final 9 (Botão): Mente micelada"
 
     # game/script.rpy:4271
     old "You can't stop your hands from {sc=2}shaking{/sc}. You can't look away from her smiling face."
-    new "checkpoint"
+    new "Você não consegue impedir que suas mãos {sc=2}tremam{/sc}. Você não consegue desviar o olhar do rosto sorridente dela."
 
     # game/script.rpy:4274
     old "You don't know why this had to happen. But it's over. It's over."
-    new ""
+    new "Você não sabe por que isso teve que acontecer. Mas acabou. Acabou."
 
     # game/script.rpy:4277
     old "Now you understand how it feels to be surrounded by sadness. Why people stopped talking to you."
-    new ""
+    new "Agora você entende como é estar cercado de tristeza. O porque das pessoas pararem de falar com você."
 
     # game/script.rpy:4280
     old "Because in a horrible way, you feel..."
-    new ""
+    new "Porque de uma forma horrível, você se sente..."
 
     # game/script.rpy:4283
     old "...{i}glad{/i} that she's finally gone."
-    new ""
+    new "...{i}feliz{/i} que ela finalmente se foi."
 
     # game/script.rpy:4286
     old "It's a despicable kind of relief."
-    new ""
+    new "É um tipo de alívio desprezível."
 
     # game/script.rpy:4289
     old "You're glad to be alone again."
-    new ""
+    new "Você tá feliz por estar sozinho de novo."
 
     # game/script.rpy:4292
     old "Alone... with {sc=2}{color=#871d17}me{/color}.{/sc}"
-    new ""
+    new "Sozinho... {sc=2}{color=#871d17}comigo{/color}.{/sc}"
 
     # game/script.rpy:4300
     old "Button End 8: Morel dilemma."
-    new ""
+    new "Final 8 (Botão): Fungo do poço."
 
     # game/script.rpy:4393
     old "Those wide eyes are always watching for anything inappropriate."
-    new ""
+    new "Esses olhos arregalados estão sempre atentos a qualquer coisa inadequada."
 
     # game/script.rpy:4396
     old "Sometimes, you like it raw."
-    new ""
+    new "Às vezes, você gosta cru."
 
     # game/script.rpy:4415
     old "Am I eating her tonight?"
-    new ""
+    new "Eu vou comê-la essa noite?"
 
     # game/script.rpy:4419
     old "Ok..."
-    new ""
+    new "Ok..."
 
     # game/script.rpy:4528
     old "Button End 5: That's yummy! No cap."
-    new ""
+    new "Final 5 (Botão): Que delícia! Esporacular."
 
     # game/script.rpy:4542
     old "I don't want to."
-    new ""
+    new "Eu não quero."
 
     # game/script.rpy:4859
     old "Even though you tried to stay up, you drift off..."
-    new ""
+    new "Mesmo você tentando ficar acordado, você adormeceu..."
 
     # game/script.rpy:4915
     old "You don't track how often you drink. Apparently, you're supposed to."
-    new ""
+    new "Você não monitora quantas vezes você bebe. Aparentemente, você deveria."
 
     # game/script.rpy:5104
     old "Should you do it?"
-    new ""
+    new "Você deveria fazer isso?"
 
     # game/script.rpy:5107
     old "Kiss her."
-    new ""
+    new "Beijá-la."
 
     # game/script.rpy:5186
     old "Bad idea."
-    new ""
+    new "Má ideia."
 
     # game/script.rpy:5274
     old "Is this really it?"
-    new ""
+    new "É isso?"
 
     # game/script.rpy:5276
     old "She's ready. I am too."
-    new ""
+    new "Ela está pronta. Eu também."
 
     # game/script.rpy:5298
     old "I want you to live another day!"
-    new ""
+    new "Eu quero que você viva mais um dia!"
 
     # game/script.rpy:5339
     old "You're having second thoughts..."
-    new ""
+    new "Você está tendo dúvidas..."
 
     # game/script.rpy:5341
     old "I have to listen. I have to do it."
-    new ""
+    new "Eu preciso ouví-la. Eu preciso fazer isso."
 
     # game/script.rpy:5358
     old "I'm not giving up like this!"
-    new ""
+    new "Eu não vou desistir assim!"
 
     # game/script.rpy:5387
     old "You hold Button in your arms while you sleep..."
-    new ""
+    new "Você segura a Botão em seus braços enquanto dorme..."
 
     # game/script.rpy:5391
     old "But you're stirred awake."
-    new ""
+    new "Mas algo te acorda."
 
     # game/script.rpy:5415
     old "The following scene shows beheading."
-    new ""
+    new "A cena a seguir mostra decapitação."
 
     # game/script.rpy:5432
     old "What are you waiting for!? DO IT!"
-    new ""
+    new "O que está esperando!? FAÇA ISSO LOGO!"
 
     # game/script.rpy:5434
     old "I HAVE TO KILL HER!"
-    new ""
+    new "EU TENHO QUE MATAR ELA!"
 
     # game/script.rpy:5466
     old "{sc=1}Why were you so selfish?{/sc}"
-    new ""
+    new "{sc=1}Por que você foi tão egoísta?{/sc}"
 
     # game/script.rpy:5469
     old "{sc=1}{/sc}You're so ashamed that you can't bring yourself to eat her."
-    new ""
+    new "{sc=1}Você está tão envergonhado que não consegue comê-la.{/sc}"
 
     # game/script.rpy:5473
     old "{sc=1}{/sc}You'd kissed her yesterday. Now, her dead face stares at you, those lips agape mid-scream."
-    new ""
+    new "{sc=1}Você a beijou ontem. Agora, o rosto morto dela olha para você, com os lábios abertos no meio de um grito.{/sc}"
 
     # game/script.rpy:5475
     old "You're not even crying because she's {sc=1}dead."
-    new ""
+    new "Você não está chorando porque ela {sc=1}morreu."
 
     # game/script.rpy:5478
     old "You're crying because you're scared {sc=2}{color=#871d17}she didn't forgive you."
-    new ""
+    new "Você está chorando porque tem medo de que {sc=2}{color=#871d17}ela não te perdoou."
 
     # game/script.rpy:5486
     old "Button End 7: I'm sorry."
-    new ""
+    new "Final 7 (Botão): Me desculpa."
 
     # game/script.rpy:5569
     old "After the last 3 days, how could you just go back to mindlessly watching shows?"
-    new ""
+    new "Depois dos últimos 3 dias, como você poderia simplesmente voltar a assistir programas sem pensar?"
 
     # game/script.rpy:5572
     old "Noot Noot is embarrassed to admit he will miss Button."
-    new ""
+    new "Pinguini tem vergonha de admitir que sentirá falta de Button."
 
     # game/script.rpy:5575
     old "Blahaj is ready to comfort you."
-    new ""
+    new "Tutuba está pronto pra te confortar."
 
     # game/script.rpy:5578
     old "What are you supposed to do with this now?"
-    new ""
+    new "O que você deve fazer com isso agora?"
 
     # game/script.rpy:5581
     old "You won't be needing these for a while."
-    new ""
+    new "Você não precisará disso por um tempo."
 
     # game/script.rpy:5598
     old "Noot Noot can't look."
-    new ""
+    new "Pinguini não consegue olhar."
 
     # game/script.rpy:5601
     old "The shark longs for the smell of blood."
-    new ""
+    new "O tubarão anseia pelo cheiro de sangue."
 
     # game/script.rpy:5618
     old "The following scene depicts and describes beheading."
-    new ""
+    new "A cena a seguir retrata e descreve a decapitação."
 
     # game/script.rpy:5746
     old "Button End 6: Goodbye Button, my new friend."
-    new ""
+    new "Final 6 (Botão): Adeus Botão, minha nova amiga."
 
