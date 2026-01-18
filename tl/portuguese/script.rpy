@@ -208,7 +208,7 @@ translate portuguese buy_mushroom_8474b4a3:
 translate portuguese buy_mushroom_9a377f1d:
 
     # "Look, you can buy a starter-kit there. Surely you couldn't mess this up too, right?"
-    "Veja só, você pode comprar um kit inicial. Não teria como você estragar isso, certo?"
+    "Veja, você pode comprar um kit inicial. Não teria como você estragar isso, certo?"
 
 # game/script.rpy:749
 translate portuguese buy_mushroom_4aa4a1c4:
@@ -1948,7 +1948,7 @@ translate portuguese about_2fe3751f:
 translate portuguese about_55d84bd1:
 
     # m "But I'm going to say something stupid!"
-    m "Mas eu vou dizer algo estúpido!"
+    m "Mas eu ia dizer algo estúpido!"
 
 # game/script.rpy:1706
 translate portuguese about_e7d95b4b:
@@ -2536,7 +2536,7 @@ translate portuguese why_choose_f9b9b3ae:
 translate portuguese why_choose_eeee6177:
 
     # m "Well, everything else was out of stock. You were the only thing still left over."
-    m "Bom, tava tudo fora de estoque, exceto você. Você era a única coisa restando."
+    m "Bom, as outras opções estavam fora de estoque. Você era a única coisa restando."
 
 # game/script.rpy:1920
 translate portuguese why_choose_17dc2a59:
@@ -9328,657 +9328,657 @@ translate portuguese picked_up_bc_a67336f0:
 translate portuguese picked_up_bc_dc9d6c70:
 
     # "You extend the blade, watching with dread as its gleaming, razor-thin neck hungrily emerges."
-    "checkpoint"
+    "Você saca a lâmina do estilete, observando com pavor enquanto ela surge, reluzente e faminta."
 
 # game/script.rpy:5589
 translate portuguese picked_up_bc_8034318e:
 
     # "Then... you face Button."
-    ""
+    "E então... você encara a Botão."
 
 # game/script.rpy:5607
 translate portuguese about_to_kill_button_66787d1f:
 
     # b "It's okay, %(player_name)s."
-    b ""
+    b "Tá tudo bem, %(player_name)s."
 
 # game/script.rpy:5619
 translate portuguese about_to_kill_button_c4e1393a:
 
     # b "I'm ready. You cut off my head... and I'll die."
-    b ""
+    b "Eu tô pronta. Você corta minha cabeça... e eu morro."
 
 # game/script.rpy:5620
 translate portuguese about_to_kill_button_bf201c3d:
 
     # m "Your head? I-is that really necessary?"
-    m ""
+    m "Sua cabeça? I-Isso é realmente necessário?"
 
 # game/script.rpy:5623
 translate portuguese about_to_kill_button_b871d591:
 
     # b "It won't even hurt me. I promise."
-    b ""
+    b "Isso sequer vai me doer. Eu prometo."
 
 # game/script.rpy:5665
 translate portuguese now_killing_button_188af99e:
 
     # "As you position it against her neck, she places her hands on your wrist, stabilising you."
-    ""
+    ""Ao posicionar a lâmina no pescoço dela, ela coloca as mãos no seu pulso, dando estabilidade.
 
 # game/script.rpy:5666
 translate portuguese now_killing_button_3e2eea10:
 
     # "And, together-"
-    ""
+    "E assim, juntos-"
 
 # game/script.rpy:5675
 translate portuguese now_killing_button_490da564:
 
     # "-you drag the blade across her throat, pressing hard into the mushroom flesh."
-    ""
+    "-você arrasta a lâmina pela garganta dela, pressionando com força a carne de cogumelo."
 
 # game/script.rpy:5676
 translate portuguese now_killing_button_97bca493:
 
     # b "Be happy. Don't forget to season me, okay?"
-    b ""
+    b "Seja feliz. Não esqueça de me temperar, ok?"
 
 # game/script.rpy:5677
 translate portuguese now_killing_button_304963e8:
 
     # b "Thanks for everything."
-    b ""
+    b "Obrigada por tudo."
 
 # game/script.rpy:5678
 translate portuguese now_killing_button_61c8a84b:
 
     # "As her flesh tears, instinctively, you expect resistance, but it's gliding."
-    ""
+    "Ao rasgar a carne, instintivamente você espera resistência, mas o corte desliza."
 
 # game/script.rpy:5679
 translate portuguese now_killing_button_432d8cb2:
 
     # "The end is approaching too quickly, but Button pays it no mind."
-    ""
+    "O fim se aproxima muito rápido, mas a Botão sequer liga."
 
 # game/script.rpy:5680
 translate portuguese now_killing_button_a1302166:
 
     # "Her last moment is spent looking at you."
-    ""
+    "Em seus últimos momentos, ela te olha."
 
 # game/script.rpy:5691
 translate portuguese now_killing_button_20a2772e:
 
     # "And then, her connection to life is severed."
-    ""
+    "E então, sua ligação com a vida é rompida."
 
 # game/script.rpy:5692
 translate portuguese now_killing_button_bf33052c:
 
     # "Her eyes blanken, the lingering smile finally fading from her lips."
-    ""
+    "Seus olhos ficam vazios, com o sorriso dela finalmente desaparecendo de seus lábios."
 
 # game/script.rpy:5693
 translate portuguese now_killing_button_7f8d359e:
 
     # "Button is gone."
-    ""
+    "A Botão se foi."
 
 # game/script.rpy:5700
 translate portuguese now_killing_button_5f383ef1:
 
     # "You hold her limp, headless body close, whispering your appreciation and your favourite memories."
-    ""
+    "Você segura o corpo flácido e decapitado dela, enquanto sussurra seu apreço por ela e suas memórias favoritas."
 
 # game/script.rpy:5701
 translate portuguese now_killing_button_6e6d9701:
 
     # "Just in case she could still hear you."
-    ""
+    "Só pra caso ela ainda pudesse te ouvir."
 
 # game/script.rpy:5702
 translate portuguese now_killing_button_dc201bf8:
 
     # "Now, you have to carry out her wishes."
-    ""
+    "Agora, você tem que realizar os desejos dela."
 
 # game/script.rpy:5704
 translate portuguese now_killing_button_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:5726
 translate portuguese now_killing_button_21e1a481:
 
     # "It's strange how someone you love can be so nauseatingly delicious."
-    ""
+    "É estranho como alguém que você ama pode ser tão nauseantemente deliciosa."
 
 # game/script.rpy:5727
 translate portuguese now_killing_button_12aa01f8:
 
     # "You gorge yourself. Nothing will be wasted. Nothing."
-    ""
+    "Você se empanturra. Nada será desperdiçado. Nada."
 
 # game/script.rpy:5728
 translate portuguese now_killing_button_fa599929:
 
     # "Every bite is succulent, tender, popping with warm juice between your teeth."
-    ""
+    "Cada mordida é suculenta, macia, estourando com suco quente entre os seus dentes."
 
 # game/script.rpy:5729
 translate portuguese now_killing_button_f7194a79:
 
     # "Her lips, her eyes, her cheeks, her neck... grilled just enough to release its pure, juicy flavour."
-    ""
+    "Seus lábios, seus olhos, suas bochechas, seu pescoço... grelhados para liberar seu sabor puro e suculento."
 
 # game/script.rpy:5730
 translate portuguese now_killing_button_63eadbaa:
 
     # "Breakfast, lunch, dinner. From top to bottom. From her hair to her toes..."
-    ""
+    "Café da manhã, almoço, jantar. De cima pra baixo. Do cabelo aos dedos dos pés..."
 
 # game/script.rpy:5731
 translate portuguese now_killing_button_517cc25c:
 
     # "You remove her from existence, one heavenly, repulsive gulp at a time."
-    ""
+    "Você a remove da existência a cada divina, porém repulsiva, mordida."
 
 # game/script.rpy:5732
 translate portuguese now_killing_button_531204e3:
 
     # "It's a little salty. Maybe from the ocean. Maybe from your tears."
-    ""
+    "É um pouco salgado. Talvez do oceano. Talvez das suas lágrimas."
 
 # game/script.rpy:5733
 translate portuguese now_killing_button_9720f7eb:
 
     # "But in a way, it's like tasting happy memories."
-    ""
+    "Mas de um jeito, é como provar memórias felizes."
 
 # game/script.rpy:5737
 translate portuguese now_killing_button_07e2a043:
 
     # "You don't think you could ever go back to your old ways."
-    ""
+    "Você não acha que poderia voltar aos seus velhos hábitos."
 
 # game/script.rpy:5738
 translate portuguese now_killing_button_a3948f68:
 
     # "In the span of just a few days, someone with a beautiful heart came and went, leaving hope in her wake."
-    ""
+    "No espaço de apenas alguns dias, alguém com um coração lindo veio e foi embora, deixando esperança em seu rastro."
 
 # game/script.rpy:5739
 translate portuguese now_killing_button_76e3144c:
 
     # "You don't despair that she's gone. You just feel like maybe everything isn't so bad."
-    ""
+    "Você não se desespera por ela ter ido. Você só acha que talvez as coisas não são tão ruins."
 
 # game/script.rpy:5740
 translate portuguese now_killing_button_bb65f961:
 
     # "Like... maybe you can knock on your neighbour's door after all."
-    ""
+    "Tipo... talvez você possa bater na porta do seu vizinho, afinal de contas."
 
 translate portuguese strings:
 
     # game/script.rpy:239
     old "Button"
-    new ""
+    new "Botão"
 
     # game/script.rpy:243
     old "Me"
-    new ""
+    new "Eu"
 
     # game/script.rpy:250
     old "You"
-    new ""
+    new "Você"
 
     # game/script.rpy:635
     old "{color=#4a3138}You're having your favourite nightmare."
-    new ""
+    new "{color=#4a3138}Você está tendo seu pesadelo favorito."
 
     # game/script.rpy:638
     old "{color=#4a3138}In it, you're dead."
-    new ""
+    new "{color=#4a3138}Nele, você está morto."
 
     # game/script.rpy:643
     old "{color=#4a3138}You see nothing. You hear nothing. You feel nothing. You think nothing."
-    new ""
+    new "{color=#4a3138}Você vê nada. Você escuta nada. Você sente nada. Você pensa nada."
 
     # game/script.rpy:645
     old "{color=#4a3138}The heavy burdens of life disappear."
-    new ""
+    new "{color=#4a3138}Os pesados ​​fardos da vida desaparecem."
 
     # game/script.rpy:647
     old "{color=#4a3138}All the things you've cried over don't matter anymore."
-    new ""
+    new "{color=#4a3138}Todas as coisas pelas quais você chorou não importam mais."
 
     # game/script.rpy:651
     old "Even your {sc=2}failures{/sc}. They're gone, because you're gone."
-    new ""
+    new "Até mesmo suas {sc=2}falhas{/sc}. Elas se vão, porque você se foi."
 
     # game/script.rpy:654
     old "Being nothing is terrifying, but at least you don't hurt anymore."
-    new ""
+    new "Ser nada é assustador, mas pelo menos você não se machuca mais."
 
     # game/script.rpy:656
     old "Every night, the prospect of not waking up becomes more appealing."
-    new ""
+    new "A cada noite, a possibilidade de não acordar se torna mais atraente."
 
     # game/script.rpy:659
     old "Unfortunately, that won't happen today."
-    new ""
+    new "Infelizmente, isso não será hoje."
 
     # game/script.rpy:809
     old "These stay closed."
-    new ""
+    new "Essas ficam fechadas"
 
     # game/script.rpy:812
     old "It's been there since you gave up."
-    new ""
+    new "Isso está aí desde que você desistiu."
 
     # game/script.rpy:816
     old "At least Blahaj loves you."
-    new ""
+    new "Pelo menos o Tutuba te ama."
 
     # game/script.rpy:819
     old "Simple, stuffed, and always on your side."
-    new ""
+    new "Simples, de pelúcia, e sempre ao seu lado."
 
     # game/script.rpy:822
     old "If you keep it closed, the responsibility of laundering doesn't exist."
-    new ""
+    new "Se você manter fechado, a responsabilidade de lavar não existe."
 
     # game/script.rpy:914
     old "Trust my gut."
-    new ""
+    new "Confiar no meu instinto."
 
     # game/script.rpy:979
     old "Button End 1: So mushroom for improvement."
-    new ""
+    new "Final 1 (Botão): Fungindo do ideal."
 
     # game/script.rpy:993
     old "Just follow the instructions."
-    new ""
+    new "Só siga as instruções."
 
     # game/script.rpy:1016
     old "Laptop-chan is too busy downloading anime to care."
-    new ""
+    new "Laptop-chan está muito ocupada baixando animes pra se importar."
 
     # game/script.rpy:1022
     old "It's lasted you since you were preteen, but you're not allowed a new one until it stops working."
-    new ""
+    new "Dura desde que você era pré-adolescente, mas você só vai pega uma nova até essa aqui parar de funfar."
 
     # game/script.rpy:1026
     old "Blahaj believes in you!"
-    new ""
+    new "Tutuba acredita em você!"
 
     # game/script.rpy:1029
     old "Noot Noot's button eyes stare unblinkingly into your soul. What is life?"
-    new ""
+    new "Os olhos de botão de Pinguini encaram, sem piscar, a sua alma. O que é a vida?"
 
     # game/script.rpy:1083
     old "Laptop-chan is STILL too busy downloading anime to care."
-    new ""
+    new "Laptop-chan AINDA está muito ocupada baixando animes pra se importar."
 
     # game/script.rpy:1086
     old "Blahaj is so proud of you!"
-    new ""
+    new "Tutuba sente orgulho de você!"
 
     # game/script.rpy:1089
     old "Noot Noot will be here for you when you need him."
-    new ""
+    new "Pinguini está aqui pra quando você precisar dele."
 
     # game/script.rpy:1113
     old "Weeks of self-hatred pass..."
-    new ""
+    new "Semanas de autodepreciação se passam..."
 
     # game/script.rpy:1115
     old "But you water your mushroom daily."
-    new ""
+    new "Mas você rega seu cogumelo diariamente."
 
     # game/script.rpy:1150
     old "You can throw it out the window and pretend it never happened, or help it."
-    new ""
+    new "Você pode jogar pela janela e fingir que nunca aconteceu, ou ajudar."
 
     # game/script.rpy:1152
     old "NOPE. 1000 percent NOPE. GET OUT."
-    new ""
+    new "NÃO. 1000% NÃO. CAI FORA DAQUI."
 
     # game/script.rpy:1188
     old "Button End 2: Mush-room bound."
-    new ""
+    new "Final 2 (Botão): Mofando no quarto."
 
     # game/script.rpy:1204
     old "It said please..."
-    new ""
+    new "Ela disse por favor..."
 
     # game/script.rpy:1268
     old "What's your name?"
-    new ""
+    new "Qual é o seu nome?"
 
     # game/script.rpy:1353
     old "Still coughing, Button shakes her head."
-    new ""
+    new "Ainda tossindo, a Botão balança a cabeça."
 
     # game/script.rpy:1426
     old "Blahaj senses a new potential friend!"
-    new ""
+    new "Tutuba sente uma nova amiga em potencial!"
 
     # game/script.rpy:1429
     old "Noot Noot stares suspiciously at Button."
-    new ""
+    new "Pinguini olha desconfiado pra Botão."
 
     # game/script.rpy:1432
     old "Filled with instant noodles, the only thing you can muster the effort to prepare nowadays."
-    new ""
+    new "Cheia de macarrão instantâneo, a única coisa que você consegue se dá ao trabalho de preparar atualmente."
 
     # game/script.rpy:1650
     old "Is she pretty?"
-    new ""
+    new "Ela é bonita?"
 
     # game/script.rpy:1653
     old "Appearance doesn't matter."
-    new ""
+    new "Aparência não importa."
 
     # game/script.rpy:1693
     old "Cute as a button!"
-    new ""
+    new "Fofa como um botão!"
 
     # game/script.rpy:1734
     old "They're the most widely-consumed type, huh?"
-    new ""
+    new "Eles são o tipo mais consumido, huh?"
 
     # game/script.rpy:1736
     old "I prefer Shiitake mushrooms."
-    new ""
+    new "Eu prefiro cogumelos shiitake."
 
     # game/script.rpy:1762
     old "Cool, but... isn't that murder?"
-    new ""
+    new "Legal, mas... não é assassinato?"
 
     # game/script.rpy:1796
     old "Should I really tell her everything?"
-    new ""
+    new "Eu deveria contar tudo pra ela?"
 
     # game/script.rpy:1798
     old "Share your opinion about life, death, and meaning."
-    new ""
+    new "Dizer sua opinião sobre a vida, morte e propósito."
 
     # game/script.rpy:1800
     old "Not a good idea."
-    new ""
+    new "Não é uma boa ideia."
 
     # game/script.rpy:1882
     old "Why did I choose her?"
-    new ""
+    new "Por que eu escolhi ela?"
 
     # game/script.rpy:1884
     old "Because she looked the cutest!"
-    new ""
+    new "Porque ela era a mais fofa!"
 
     # game/script.rpy:1916
     old "Everything else was already taken."
-    new ""
+    new "As outras opções estavam esgotadas."
 
     # game/script.rpy:1984
     old "Can you take Button out for a moment?"
-    new ""
+    new "Você pode levar a Botão pra sair um pouco?"
 
     # game/script.rpy:1986
     old "I can."
-    new ""
+    new "Eu posso."
 
     # game/script.rpy:2002
     old "I can't! I can't! I CAN'T!!!"
-    new ""
+    new "Não posso! Não posso! NÃO POSSO!!!"
 
     # game/script.rpy:2142
     old "Can I put my worries aside and have fun with Button?"
-    new ""
+    new "Posso deixar minhas preocupações de lado e me divertir com a Botão?"
 
     # game/script.rpy:2144
     old "Yes."
-    new ""
+    new "Sim."
 
     # game/script.rpy:2150
     old "What do you think you're doing?"
-    new ""
+    new "O que acha que está fazendo?"
 
     # game/script.rpy:2152
     old "You can't salvage this. You can't just \"make it up\" to her."
-    new ""
+    new "Não tem jeito de salvar isso. Não dá pra simplesmente \"compensar\"."
 
     # game/script.rpy:2154
     old "Did you see her face?"
-    new ""
+    new "Você viu a cara dela?"
 
     # game/script.rpy:2156
     old "She's {sc=2}never{/sc} going to forget this. \nYou've already ruined this relationship."
-    new ""
+    new "Ela {sc=2}nunca{/sc} vai esquecer disso. \nVocê já arruinou essa relação."
 
     # game/script.rpy:2164
     old "No."
-    new ""
+    new "Não."
 
     # game/script.rpy:2195
     old "{sc=1}I'm glad you finally listened to me.{/sc}"
-    new ""
+    new "{sc=1}Tô feliz que finalmente me escutou.{/sc}"
 
     # game/script.rpy:2198
     old "{sc=1}Now it's just you and me, and no one to interfere.{/sc}"
-    new ""
+    new "{sc=1}Agora é só eu e você, e ninguém pra intervir.{/sc}"
 
     # game/script.rpy:2202
     old "Doesn't it feel so euphoric...? {sc=2}To hurt yourself like this...?{/sc}"
-    new ""
+    new "Não é uma sensação de euforia...? {sc=2}Se machucar desse jeito...?{/sc}"
 
     # game/script.rpy:2205
     old "To {sc=2}purposely{/sc} do things you hate? To deny yourself love? It's because..."
-    new ""
+    new "Fazer coisas que você odeia {sc=2}de propósito{/sc}? Negar amor a si mesmo? É porque..."
 
     # game/script.rpy:2208
     old "{sc=1}You {color=#871d17}deserve{/color} it.{/sc}"
-    new ""
+    new "{sc=1}Você {color=#871d17}merece{/color} isso.{/sc}"
 
     # game/script.rpy:2216
     old "Button End 3: Spore, unfortunate soul."
-    new ""
+    new "Final 3 (Botão): Pobre alma embolorada."
 
     # game/script.rpy:2402
     old "Should I eat her now?"
-    new ""
+    new "Eu deveria comê-la agora?"
 
     # game/script.rpy:2404
     old "I'm hungry..."
-    new ""
+    new "Tô com fome..."
 
     # game/script.rpy:2523
     old "Button End 4: Fast food."
-    new ""
+    new "Final 4 (Botão): Fast food."
 
     # game/script.rpy:2694
     old "With Button in your arms, you don't even realise it, but you've fallen asleep..."
-    new ""
+    new "Com a Botão em seus braços, você nem percebe, mas você caiu no sono..."
 
     # game/script.rpy:2723
     old "At some point, without realising it, your eyes drift closed..."
-    new ""
+    new "Em algum momento, sem você perceber, seus olhos se fecham..."
 
     # game/script.rpy:2868
     old "Blahaj loves water too!"
-    new ""
+    new "Tutuba ama água também!"
 
     # game/script.rpy:3475
     old "Anything I want to do?"
-    new ""
+    new "Tem algo que eu queira fazer?"
 
     # game/script.rpy:3478
     old "Die."
-    new ""
+    new "Morrer."
 
     # game/script.rpy:3495
     old "Hug."
-    new ""
+    new "Abraçar."
 
     # game/script.rpy:3574
     old "You wait until he falls asleep..."
-    new ""
+    new "Você espera até ele cair no sono..."
 
     # game/script.rpy:3602
     old "The following scenes contain descriptions and depictions of self-harm, suicidal ideation, and dismemberment."
-    new ""
+    new "As cenas a seguir contêm descrições e representações de automutilação, ideação suicida e desmembramento."
 
     # game/script.rpy:3729
     old "\"Help\" her."
-    new ""
+    new "\"Ajudar\" ela."
 
     # game/script.rpy:3736
     old "Refuse."
-    new ""
+    new "Recusar."
 
     # game/script.rpy:3763
     old "Help her."
-    new ""
+    new "Ajudá-la."
 
     # game/script.rpy:3770
     old "Refuse!"
-    new ""
+    new "Recusar!"
 
     # game/script.rpy:3808
     old "{sc=2}Help her."
-    new ""
+    new "{sc=2}Ajudá-la."
 
     # game/script.rpy:3845
     old "{sc=3}PLEASE KILL ME!"
-    new ""
+    new "{sc=3}ME MATA POR FAVOR!"
 
     # game/script.rpy:3852
     old "NO!"
-    new ""
+    new "NÃO!"
 
     # game/script.rpy:3885
     old "{sc=4}{b}PLEASE!\nPLEASE!\nPLEASE!"
-    new ""
+    new "{sc=4}{b}POR FAVOR!\nPOR FAVOR!\nPOR FAVOR!"
 
     # game/script.rpy:3904
     old "{sc=2}NO!"
-    new ""
+    new "{sc=2}NÃO!"
 
     # game/script.rpy:3913
     old "{sc=8}{b}{size=+50}PLEASE!{/size}"
-    new ""
+    new "{sc=8}{b}{size=+50}POR FAVOR!{/size}"
 
     # game/script.rpy:4030
     old "{sc=8}{b}{size=+20}Please..."
-    new ""
+    new "{sc=8}{b}{size=+20}Por favor..."
 
     # game/script.rpy:4034
     old "{b}{size=+100}THIS IS\nTOO MUCH"
-    new ""
+    new "{b}{size=+100}ISSO\nÉ MUITO\nPRA MIM"
 
     # game/script.rpy:4053
     old "{move}{sc=8}{b}{size=+30}Why is this happening!?{/move}"
-    new ""
+    new "{move}{sc=8}{b}{size=+30}Por que isso tá acontecendo!?{/move}"
 
     # game/script.rpy:4078
     old "{move}{b}{size=+150}I CAN'T SPEAK!{/move}"
-    new ""
+    new "{move}{b}{size=+150}NÃO CONSIGO FALAR!{/move}"
 
     # game/script.rpy:4088
     old "{move}{sc=8}{b}{size=+50}COME ON JUST SAY SOMETHING ALREADY!{/size}"
-    new ""
+    new "{move}{sc=8}{b}{size=+50}VAMOS LÁ DIGA ALGUMA COISA LOGO!{/size}"
 
     # game/script.rpy:4093
     old "{size=+100}I CAN'T HANDLE THIS!"
-    new ""
+    new "{size=+100}NÃO CONSIGO LIDAR COM ISSO!"
 
     # game/script.rpy:4096
     old "{size=+100}HOW DO I SAY IT?"
-    new ""
+    new "{size=+100}COMO EU DIGO ISSO?"
 
     # game/script.rpy:4099
     old "{size=+100}WHERE IS IT!?"
-    new ""
+    new "{size=+100}ONDE ESTÁ?"
 
     # game/script.rpy:4103
     old "{size=+50}I JUST NEED TO FIND IT!"
-    new ""
+    new "{size=+50}EU SÓ PRECISO ENCONTRAR!"
 
     # game/script.rpy:4107
     old "{size=+50}THE ABILITY TO SAY \"NO\"!?"
-    new ""
+    new "{size=+50}A ABILIDADE DE DIZER \"NÃO\"!?"
 
     # game/script.rpy:4119
     old "{color=#8B0000}PLEASE GOD WHY WON'T HE LISTEN? WHY WON'T HE HELP ME? I WANT THE SUFFERING TO END. MY CHEST HURTS. MY BODY HURTS. I WANT TO STOP THINKING. \nI HATE EVERYTHING. I HATE MYSELF. I HATE YOU.\n WHY WHY WHY? I HATE LIFE. I HATE EXISTING. \n SOMEONE PLEASE END ME ALREADY!\n SOMEONE! PLEASE! HELP ME! HELP! HELP! \nNOBODY UNDERSTANDS ME! I'M WORTHLESS!\nIT'S ALL HOPELESS! NOTHING MATTERS!\nI WANNA DIE I WANNA DIE I WANNA DIE\nI WANNA DIE I WANNA DIE\n I WANNA DIE I WANNA DIE\n I WANNA DIE I WANNA DIE I WANNA DIE\n BUT IF NO ONE WILL HELP ME I GUESS I'LL JUST\nJUST END MYSELF! A WORTHLESS PRODUCT!\nI'M GOING TO CUT MYSELF TO PIECES!\nI'M GOING TO KILL MYSELF!\n EVERYTHING WAS A MISTAKE I WISH I COULD\nJUST GO BACK TO HAVING NEVER MET YOU. WHY COULDN'T I JUST BE HAPPIER? I FEEL SO GUILTY FOR FEELING SO BAD\n BUT I CAN'T RECOVER IT'S TOO LATE IT'S TOO LATE IT'S TOO LATE IT'S TOO LATE IT'S TOO LATE IT'S TOO LATE IT'S TOO LATE"
-    new ""
+    new "{color=#8B0000}POR FAVOR DEUS POR QUE ELE NÂO ESCUTA? POR QUE ELE NÃO AJUDA? EU QUERO QUE O SOFRIMENTO ACABE. MEU PEITO DÓI. MEU CORPO DÓI. EU QUERO PARAR DE PENSAR. \nEU ODEIO TUDO. EU ODEIO A MIM MESMA. EU TE ODEIO.\n POR QUE POR QUE POR QUE? EU ODEIO A VIDA. EU ODEIO EXISTIR. \n ALGUÉM POR FAVOR ACABA COMIGO!\n ALGUÉM! POR FAVOR! ME AJUDA! AJUDA! AJUDA! \nNINGUÉM ME ENTENDE! EU SOU INÚTIL!\nNÃO EXISTE ESPERANÇA! NADA IMPORTA!\nEU QUERO MORRER EU QUERO MORRER EU QUERO MORRER\nEU QUERO MORRER EU QUERO MORRER\nEU QUERO MORRER EU QUERO MORRER\n EU QUERO MORRER EU QUERO MORRER EU QUERO MORRER\n MAS SE NINGUÉM VAI ME AJUDAR ACHO QUE EU VOU\nFAZER ISSO EU MESMA! UM PRODUTO INÚTIL!\nEU VOU ME CORTAR EM PEDAÇOS!\nEU VOU ME MATAR!\n TUDO FOI UM ERRO EU SÓ QUERIA PODER\nVOLTAR ATRÁS E NUNCA TER TE CONHECIDO. POR QUE EU SÓ NÃO POSSO SER FELIZ? ME SINTO TÃO CULPADA POR ME SENTIR MAL\n MAS NÃO DÁ PRA ME RECUPERAR É MUITO TARDE É MUITO TARDE É MUITO TARDE É MUITO TARDE É MUITO TARDE É MUITO TARDE É MUITO TARDE"
 
     # game/script.rpy:4120
     old "{color=#8B0000}THIS IS A NIGHTMARE AND I JUST WANT IT TO END.\n   I CAN REMEMBER BEING HAPPY BUT I CAN NEVER GO BACK.\n  I TRIED SO HARD BUT I'M AT MY BREAKING POINT\nTHERE WAS SO MUCH I WANTED TO DO\n  IT HURTS TO THINK ABOUT IT\nI'M SORRY! I'M SORRY! I'M SORRY! I'M A\n   E M P T Y    B R O K E N    D E A D    A P A T H Y  \nP A I N    S T R E S S E D   I WANNA DISAPPEAR AND NEVER REMEMBER ANYTHING AGAIN \n I HATE THAT I'M SO SAD \n I'M OVER THIS! I'M OVER EVERYTHING!\n   I HATE THE WORLD NOTHING CAN MAKE ME HAPPY\n     WHO'S FAULT IS IT? I DON'T CARE IT HURTS \n IT HURTS SO MUCH IT HURTS SO MUCH IT HURTS \n IT HURTS SO MUCH IT HURTS SO MUCH IT HURTS \n IT HURTS SO MUCH IT HURTS SO MUCH IT HURTS \n IT HURTS SO MUCH IT HURTS SO MUCH IT HURTS"
-    new ""
+    new "{color==#8B0000}ISSO É UM PESADELO E EU SÓ QUERO QUE ACABE.\n   EU ME LEMBRO DE SER FELIZ MAS NÃO POSSO VOLTAR.\n  EU ME ESFORCEI MUITO MAS CHEGUEI NO MEU LIMITE\nTINHA MUITA COISA QUE EU QUERIA FAZER\n ME MACHUCA PENSAR NISSO\nME DESCULPA! ME DESCULPA! ME DESCULPA! EU ESTOU\n   V A Z I A    Q U E B R A D A    M O R T A    A P Á T I C A \nC O M   D O R    E S T R E S S A D A   EU QUERO DESAPARECER E NUNCA MAIS LEMBRAR DE NADA\n EU ODEIO ESTAR TÃO TRISTE \n CHEGA! CHEGA DE TUDO!\n   EU ODEIO O MUNDO NADA ME FARÁ FELIZ\n     DE QUEM É A CULPA? EU NÃO ME IMPORTO ISSO DÓI \n ISSO DÓI MUITO ISSO DÓI MUITO ISSO DÓI \n ISSO DÓI MUITO ISSO DÓI MUITO ISSO DÓI \n ISSO DÓI MUITO ISSO DÓI MUITO ISSO DÓI \n ISSO DÓI MUITO ISSO DÓI MUITO ISSO DÓI"
 
     # game/script.rpy:4122
     old "{color=#FFFFFF}I hate you."
-    new ""
+    new "{color=#FFFFFF}Eu te odeio."
 
     # game/script.rpy:4146
     old "{size=+150}{color=#7C3333}STOP I'M SO SORRY PLEASE STOP!"
-    new ""
+    new "{size=+150}{color=#7C3333}PARA EU SINTO MUITO POR FAVOR PARA!"
 
     # game/script.rpy:4148
     old "{size=+100}{color=#AA3D3D}AAAAAAA AAAAHH HHHHH"
-    new ""
+    new "{size=+100}{color=#AA3D3D}AAAAAAA AAAAHH HHHHH"
 
     # game/script.rpy:4150
     old "{size=+200}{color=#AA3D3D}I'M SO SORRY! I'M SO SORRY! I'M SO SORRY!"
-    new ""
+    new "{size=+200}{color=#AA3D3D}EU SINTO MUITO! EU SINTO MUITO! EU SINTO MUITO!"
 
     # game/script.rpy:4151
     old "{size=+100}{color=#AA3D3D}AAAA  A AAA AAAAAAA AAAAAAAAAAA  AAAAAAAAAA AAAAAA  AAAA  AAAAAA AAAAAAAA AAAAAAAAAAAAAA AA"
-    new ""
+    new "{size=+100}{color=#AA3D3D}AAAA  A AAA AAAAAAA AAAAAAAAAAA  AAAAAAAAAA AAAAAA  AAAA  AAAAAA AAAAAAAA AAAAAAAAAAAAAA AA"
 
     # game/script.rpy:4153
     old "{size=+150}{color=#AA3D3D}A   AA AAA AAA A  AAAA AAAAA  AA AAAA AAAAAAAAAAAAA     AAAAAAAAAAA     AAA"
-    new ""
+    new "{size=+100}{color=#AA3D3D}AAAA  A AAA AAAAAAA AAAAAAAAAAA  AAAAAAAAAA AAAAAA  AAAA  AAAAAA AAAAAAAA AAAAAAAAAAAAAA AA"
 
     # game/script.rpy:4155
     old "{size=+500}{color=#AA3D3D}I HATE YOU I HATE YOU I HATE YOU I HATE YOU I HATE YOU"
-    new ""
+    new "{size=+500}{color=#AA3D3D}EU TE ODEIO EU TE ODEIO EU TE ODEIO EU TE ODEIO EU TE ODEIO"
 
     # game/script.rpy:4156
     old "{size=+150}{color=#AA3D3D}OH MY GOD! YOU'RE-! I-I DON'T-!"
-    new ""
+    new "{size=+150}{color=#AA3D3D}OH MEU DEUS! VOCÊ-! E-EU NÃO-!"
 
     # game/script.rpy:4158
     old "{size=+500}{color=#AA3D3D}WHY WHY WHY!?"
-    new ""
+    new "{size=+500}{color=#AA3D3D}POR QUE POR QUE POR QUE!?"
 
     # game/script.rpy:4167
     old "{color=#FFFFFF}It's not your fault, is it?"
-    new ""
+    new "{color=#FFFFFF}Não é sua culpa, certo?"
 
     # game/script.rpy:4169
     old "{color=#FFFFFF}You tried so hard..."
-    new ""
+    new "{color=#FFFFFF}Você tentou tanto..."
 
     # game/script.rpy:4171
     old "{color=#FFFFFF}Maybe you can fix your mistakes next time."
-    new ""
+    new "{color=#FFFFFF}Talvez você possa corrigir seus erros da próxima vez."
 
     # game/script.rpy:4173
     old "{sc=1}You open up your laptop once more."
-    new ""
+    new "{sc=1}Você abre o seu laptop mais uma vez."
 
     # game/script.rpy:4181
     old "Button End 9: Truffled mind."
-    new ""
+    new "Final 9 (Botão): Cabeça Micelada"
 
     # game/script.rpy:4271
     old "You can't stop your hands from {sc=2}shaking{/sc}. You can't look away from her smiling face."
-    new ""
+    new "checkpoint"
 
     # game/script.rpy:4274
     old "You don't know why this had to happen. But it's over. It's over."
